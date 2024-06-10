@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Churn Prediction</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'predict/style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h2>Student Churn Prediction</h2>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" class="button">Predict</button>
+        </form>
+    </div>
+</body>
+</html>

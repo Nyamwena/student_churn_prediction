@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'predict/style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h2>Prediction Result</h2>
+        <p>Will the student churn? <strong>{{ prediction }}</strong></p>
+        <a class="button" href="{% url 'predict_churn' %}">Try Again</a>
+    </div>
+</body>
+</html>

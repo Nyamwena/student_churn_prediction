@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Churn Report</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'predict/style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h2>Churn Report</h2>
+        <div class="charts">
+            {% for plot in plots %}
+                <div class="chart-container">
+                    <img src="data:image/png;base64,{{ plot }}" />
+                </div>
+            {% endfor %}
+        </div>
+        <a class="button" href="{% url 'home' %}">Back to Home</a>
+    </div>
+</body>
+</html>

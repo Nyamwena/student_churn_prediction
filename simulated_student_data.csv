@@ -1,0 +1,1001 @@
+StudentID,Age,Gender,MaritalStatus,HighSchoolGPA,EntranceScore,StudyProgram,YearOfStudy,Modeofstudy,PartTimeFullTime,Scholarship,FinancialAid,TuitionStatus,UniversityGPA,CourseFailures,AcademicProbation,LibraryUses,DistanceFromHome,EmploymentStatus,Churn
+1,24,Other,Married,86.21857860015109,882.4787856277787,Politics and Public Administration,2,Block,Full-time,True,True,Paid,0.7138026963934991,4,False,7,278.3843599487453,Unemployed,True
+2,21,M,Divorced,94.84696101145019,851.5659405856453,Hospitality Tourism and Culture,2,Block,Full-time,False,False,Unpaid,0.3183525894881698,8,False,21,205.6275939551645,Employed,False
+3,22,Other,Divorced,96.30236768960737,846.3293653272797,"Livestock, Wildlife and Fisheries",1,Distance,Full-time,True,True,Exempt,3.7615881357821768,8,True,28,230.1686158013676,Employed,False
+4,24,F,Divorced,92.29956480682264,804.5403281468692,Gender and Social Anthropology,4,Distance,Part-time,False,False,Unpaid,1.042665530248407,5,False,1,58.008693561501566,Employed,False
+5,20,F,Single,93.7576821975983,829.0029193648905,Development Studies,2,Block,Full-time,False,True,Paid,3.4133859904348953,0,False,40,336.4589121434882,Employed,True
+6,22,F,Married,87.50519808885332,893.10099708853,Soil and Plant Sciences,1,Block,Full-time,False,False,Exempt,3.453965801851273,9,False,48,216.22367980260688,Unemployed,True
+7,22,M,Single,90.77391334686078,839.18239632835,Transport and Logistics,4,Block,Full-time,False,False,Exempt,3.090090367050178,6,False,49,408.38378656479165,Unemployed,False
+8,24,F,Single,90.48318341452324,854.6700520556768,Hospitality Tourism and Culture,2,Block,Part-time,False,False,Unpaid,0.6753344266102803,5,True,44,98.14360007153805,Employed,True
+9,19,M,Divorced,96.96095582261543,853.2021678984252,Development Studies,3,Distance,Part-time,True,False,Unpaid,3.2872058370168014,8,False,0,102.52754670941788,Employed,False
+10,20,F,Single,96.79927960564365,859.0431089822694,Local Governance Studies,1,Block,Part-time,True,True,Exempt,3.077002236966347,6,False,43,322.87978576534385,Student,False
+11,24,F,Divorced,96.65360938694087,806.1330955643283,Business Management,1,Block,Full-time,False,True,Unpaid,2.3868919604248684,3,False,19,423.00171169869844,Student,False
+12,20,M,Married,80.22063228524931,836.2176254798728,Musicology and Ethnochoreology,2,Block,Part-time,False,False,Paid,1.348808140675811,6,False,20,236.09891930908765,Employed,True
+13,20,M,Divorced,94.99090968937776,872.3128273882554,Local Governance Studies,2,Distance,Full-time,True,False,Unpaid,1.0500344170661764,1,False,36,363.47693436655,Unemployed,True
+14,22,F,Single,95.1735278022201,820.0560251072983,Media and Cultural Studies,1,Block,Full-time,True,False,Unpaid,0.48755684832143587,5,False,7,499.6649607465428,Employed,True
+15,21,M,Single,93.56757645710283,820.3578377546361,Urban Planning and Development,3,Distance,Full-time,False,False,Exempt,2.0390282676034857,5,True,26,495.13281986446407,Unemployed,False
+16,20,F,Divorced,95.12529315782905,801.0090606689025,Religious Studies & Philosophy,3,Distance,Part-time,False,True,Unpaid,2.341043502039386,1,True,46,372.16842141085004,Unemployed,True
+17,23,M,Divorced,96.83940742993417,843.748192660821,Economics and Finance,4,Distance,Part-time,True,False,Unpaid,1.4373559620631489,3,True,34,369.7932448391244,Student,True
+18,22,Other,Single,89.40638108203571,888.2734380673422,Development Studies,2,Distance,Full-time,True,False,Unpaid,1.9014362707234742,7,False,5,123.80944359945283,Employed,True
+19,19,Other,Married,90.04100426976895,805.1900943587309,Computer Sciences,3,Distance,Full-time,False,False,Paid,1.4540578294770667,7,False,44,416.7698157718869,Employed,True
+20,21,Other,Married,82.4942811382278,819.1118709496003,Religious Studies,4,Distance,Part-time,True,False,Unpaid,2.564024229282805,7,False,43,202.5510635235603,Unemployed,False
+21,23,Other,Divorced,87.70751766094723,831.0084538342755,Banking and Finance,3,Distance,Part-time,True,False,Paid,3.6050368311862533,7,True,18,480.9969549334113,Employed,True
+22,23,Other,Married,92.86730359823568,873.1724736564213,Local Governance Studies,2,Block,Part-time,False,False,Paid,0.6556810481877795,0,False,17,40.713844353467756,Student,False
+23,19,F,Single,95.60799552294549,864.0635592802587,Soil and Plant Sciences,4,Block,Full-time,False,False,Paid,1.5256352396124937,1,True,0,217.92018443636303,Student,True
+24,21,Other,Divorced,84.3441819538242,841.5943904581854,Soil and Plant Sciences,4,Distance,Full-time,False,True,Paid,0.5634744158034453,3,False,24,277.9202438417493,Employed,False
+25,22,Other,Single,82.7564579831847,875.9068939258376,Banking and Finance,4,Block,Full-time,True,False,Exempt,2.499775081631328,8,False,26,202.57810354308242,Employed,False
+26,18,Other,Single,93.26084009000985,860.9631011656902,Economics,3,Block,Part-time,False,False,Paid,2.915482037954383,2,True,6,105.28959525247167,Student,False
+27,21,Other,Married,80.03759767049822,889.6040799657219,"Livestock, Wildlife and Fisheries",2,Distance,Part-time,True,False,Unpaid,3.7276509303898235,5,True,43,296.49424439125494,Employed,False
+28,19,M,Divorced,83.5674516861466,881.8026749138693,Local Governance Studies,4,Block,Part-time,False,True,Paid,1.1154877050438596,6,True,41,377.95895731256877,Unemployed,True
+29,23,F,Divorced,80.58142760687907,825.2813606089201,Fiscal Studies,1,Distance,Full-time,False,True,Unpaid,3.8008448234617207,7,True,28,322.4192980100982,Employed,True
+30,22,Other,Married,83.33770235709741,827.14385776342,Development Studies,2,Block,Full-time,True,True,Paid,0.2530506872826992,6,True,30,117.22442440401976,Unemployed,False
+31,21,Other,Single,83.6263855985101,812.5356475792386,Psychology,1,Distance,Part-time,True,False,Exempt,2.4120554534583527,2,True,43,365.80397218426197,Employed,True
+32,18,Other,Single,87.75347189500789,833.6964725717456,Fiscal Studies,1,Distance,Full-time,False,False,Paid,0.2285308773733199,5,False,42,128.44890302228163,Employed,True
+33,18,F,Single,88.04654249373112,899.9543918719095,Geography and Environmental Science,4,Block,Part-time,False,False,Paid,3.5750967510477794,4,True,35,87.60118146202001,Student,True
+34,20,M,Single,97.48524941220475,840.5751168615061,Economics and Finance,4,Block,Full-time,True,True,Exempt,2.1192362282802164,9,False,18,345.33400771936107,Unemployed,False
+35,20,F,Divorced,90.2021942499765,822.0488434689106,Fiscal Studies,3,Distance,Part-time,False,False,Paid,2.6773934030511843,3,False,5,421.39362305696454,Student,True
+36,24,M,Divorced,94.46809531224572,876.2482884475553,Religious Studies,3,Distance,Full-time,True,True,Unpaid,3.32629570364181,0,False,24,240.7697238482872,Employed,False
+37,19,Other,Married,82.08274715840575,854.2471003462656,TshiVenda,3,Distance,Full-time,True,True,Paid,0.601242489935875,6,False,30,265.69589656921886,Student,False
+38,21,Other,Married,84.50877510927387,814.9601449526953,Computer Sciences,2,Block,Part-time,False,True,Paid,0.15436624775253538,7,False,8,151.37378523561623,Employed,False
+39,21,F,Divorced,94.05886881957353,838.0689681160866,Media and Cultural Studies,3,Block,Part-time,True,True,Paid,3.5155245836514086,1,True,19,247.3090075550161,Employed,True
+40,24,F,Divorced,81.05607920937057,841.4469715539343,XiChangana,1,Block,Part-time,True,True,Exempt,1.25973290983573,6,True,9,65.9914990062036,Employed,False
+41,23,M,Single,89.73195324487506,875.3829700569219,Hospitality Tourism and Culture,3,Block,Part-time,True,False,Paid,0.5159156317086611,5,True,36,477.915414841495,Unemployed,True
+42,23,M,Single,91.98737931325867,802.0671368891905,"Archaeology, Museums and Heritage Studies",4,Distance,Part-time,False,False,Paid,1.8738449483483461,4,False,26,400.1803268282981,Unemployed,True
+43,24,F,Married,92.04291288104962,826.901964679831,"Peace, Conflict and Governance",3,Distance,Full-time,True,True,Unpaid,2.393224302784075,3,True,12,333.98653041109236,Unemployed,True
+44,23,M,Divorced,80.45865622536084,851.7596301315522,Business Management,2,Distance,Part-time,False,False,Paid,0.1238824136900405,1,False,40,269.0971858422015,Student,False
+45,20,F,Married,86.4421600845837,826.8846742452844,Media and Cultural Studies,2,Distance,Part-time,False,False,Paid,1.099582633028351,9,False,1,396.08456811398224,Employed,True
+46,21,M,Divorced,92.72981302098307,862.8434047418999,Hospitality Tourism and Culture,1,Block,Part-time,False,True,Paid,0.13119949710758405,5,False,49,247.37861979290216,Student,False
+47,24,F,Single,82.97999472298487,848.1867479274616,Religious Studies & Philosophy,2,Distance,Full-time,True,True,Paid,1.6813415567819958,4,False,20,149.98695407726626,Student,False
+48,21,F,Married,93.90831296656107,836.171025485958,Economics,3,Distance,Part-time,True,False,Unpaid,3.5804001162649772,1,True,32,80.18711758333602,Employed,False
+49,18,F,Married,94.91850417627349,894.9208626870512,"Livestock, Wildlife and Fisheries",4,Block,Part-time,False,False,Unpaid,3.9306096459742768,9,True,23,323.79279440090363,Student,True
+50,20,M,Divorced,99.6393838089229,863.2159499186457,Hospitality Tourism and Culture,2,Block,Part-time,False,False,Exempt,2.54819021401451,6,True,43,464.712872513257,Employed,False
+51,22,M,Single,84.19683989712819,812.9941372267941,Gender and Social Anthropology,1,Distance,Full-time,True,False,Paid,0.6465507751383672,5,True,41,76.80927675217558,Employed,True
+52,20,M,Married,96.5026133533223,856.0091697443396,Internal Auditing,3,Block,Full-time,False,True,Exempt,3.623397559997223,8,True,33,90.00902252540338,Employed,False
+53,24,F,Single,90.40593153837308,878.0731853200901,Risk Management and Insurance,1,Distance,Part-time,False,False,Exempt,2.064991292800242,9,False,8,216.80301670476754,Employed,True
+54,22,M,Married,87.46925192288347,870.8489697492797,Politics and Public Administration,2,Block,Full-time,True,True,Paid,0.6149972484116724,4,True,1,403.4496739598445,Student,False
+55,18,M,Single,82.44753514650355,817.2089229295259,Internal Auditing,2,Block,Part-time,False,True,Unpaid,3.6869066778066455,8,False,29,146.9613644857523,Student,False
+56,24,F,Divorced,94.71011212975075,897.2419999040103,Religious Studies & Philosophy,1,Distance,Full-time,True,False,Unpaid,3.029876202892412,8,False,21,126.95646233501407,Student,False
+57,19,Other,Married,84.71715198287374,844.8813645746606,"Archaeology, Museums and Heritage Studies",3,Block,Part-time,True,False,Paid,2.9268210908926062,0,False,45,309.9831457314169,Unemployed,True
+58,21,F,Married,87.42844003746092,815.9025003740261,Gender and Social Anthropology,2,Distance,Full-time,False,False,Paid,2.8367228151776187,4,True,10,267.80739093716596,Student,True
+59,18,M,Single,81.25084453794737,818.0195754128148,Internal Auditing,4,Block,Part-time,True,True,Unpaid,0.8013592843857693,8,False,42,30.110182222618132,Student,True
+60,21,F,Single,96.02733831639038,809.8234992189081,"Archaeology, Museums and Heritage Studies",2,Block,Part-time,True,True,Paid,0.8440267668301042,6,False,16,40.74498865463827,Unemployed,False
+61,23,Other,Married,95.33177047943286,880.3518108434935,Psychology,3,Block,Full-time,True,True,Paid,2.75317199370902,5,True,35,321.5064900923831,Employed,True
+62,19,F,Divorced,94.67231660084624,812.2030494321849,Politics and Public Administration,2,Block,Part-time,False,True,Paid,0.8788910004415875,5,False,12,232.56179957388977,Employed,False
+63,19,M,Single,85.98887020983773,812.5125257141747,Religious Studies & Philosophy,1,Block,Part-time,False,False,Unpaid,1.7546867872121954,6,False,6,485.4885957945735,Employed,True
+64,18,Other,Single,83.46960148531915,885.0471614760838,Psychology,2,Distance,Part-time,False,True,Exempt,3.1280073023757655,0,False,15,339.2657053650324,Unemployed,True
+65,19,M,Single,92.7510652894046,834.460408444756,Religious Studies,2,Block,Part-time,True,True,Exempt,3.135810072391364,3,True,32,5.036830996615727,Student,True
+66,22,Other,Married,89.92332768226439,803.0857904308073,Religious Studies,3,Distance,Full-time,True,False,Paid,1.8130470901034386,0,False,44,240.5093899002309,Student,False
+67,19,Other,Married,83.56504933809283,805.1895299518411,Finance,1,Block,Part-time,False,True,Unpaid,3.1687597531009803,5,False,0,207.22396751773974,Student,False
+68,21,F,Married,93.71822542099727,814.2170446703896,Finance,3,Distance,Full-time,False,True,Paid,3.354487184792227,3,True,10,53.35692999688435,Student,False
+69,21,F,Married,99.82252863642607,821.339334797569,Fiscal Studies,2,Block,Full-time,True,False,Unpaid,2.619103005137041,0,True,5,461.60441793609505,Unemployed,True
+70,24,M,Divorced,94.94439175484075,866.5146194238405,English & Applied Communication,4,Distance,Full-time,False,True,Paid,0.9137034092336807,8,False,19,402.50564954086184,Student,False
+71,21,F,Divorced,94.79972773371223,815.7326280001828,Banking and Finance,2,Distance,Full-time,False,True,Unpaid,1.09604712154219,3,True,34,115.04295421000094,Employed,True
+72,24,F,Married,99.00625505861183,811.8874391177072,Statistics and Operations Research,3,Block,Part-time,False,True,Unpaid,1.2593646216349415,5,True,43,127.9903794214986,Unemployed,True
+73,21,Other,Divorced,84.05872735149805,876.4719141476279,XiChangana,4,Block,Part-time,False,True,Exempt,0.467216430935808,6,True,36,16.00902665972548,Unemployed,False
+74,22,F,Single,91.31099929842881,867.1055283859914,Business Management,3,Block,Full-time,False,False,Paid,1.0926384814797805,7,True,40,148.35872578952046,Employed,True
+75,24,Other,Single,99.59293430067767,843.5324221455236,Religious Studies,3,Distance,Part-time,True,True,Exempt,0.8380768972501285,8,True,25,292.3110044566768,Employed,True
+76,20,Other,Single,83.30588221940349,854.9309771480104,Accounting,1,Distance,Full-time,False,False,Exempt,1.8213149992344086,8,True,11,210.42169419333413,Student,True
+77,23,Other,Married,94.00503918889042,831.1984020326419,Business Management,4,Block,Part-time,False,True,Unpaid,3.6337501914890598,7,True,29,484.6277318598404,Employed,True
+78,18,M,Single,91.71620291943805,848.250042023536,Psychology,2,Block,Part-time,True,False,Paid,0.4179212670158323,9,False,27,28.040084631835438,Unemployed,False
+79,21,M,Divorced,91.72958184377414,850.6672648982745,Marketing Management,3,Distance,Part-time,True,False,Unpaid,2.8810716957895823,2,True,26,295.7150794495053,Unemployed,True
+80,19,M,Married,93.95341255040151,838.7237271178096,Accounting,2,Distance,Full-time,True,False,Unpaid,2.749132017652511,1,True,41,429.15472025352403,Unemployed,True
+81,21,Other,Divorced,98.59233845751368,890.6572210672163,Development Studies,1,Block,Full-time,True,True,Unpaid,0.38301679465343064,4,True,18,240.3704562048613,Student,True
+82,19,M,Single,95.65163879702676,801.6061864981007,XiChangana,1,Distance,Part-time,False,True,Paid,3.6902896196232002,0,False,4,1.4813602801984072,Student,False
+83,23,M,Single,81.1227220683242,878.2171263091246,TshiVenda,4,Block,Full-time,False,True,Paid,2.2738888086272784,2,True,4,121.4007499131376,Employed,False
+84,23,F,Single,97.05456039751422,812.4382831241325,Soil and Plant Sciences,1,Block,Full-time,False,False,Unpaid,1.454902084542737,0,True,40,161.88448783398306,Student,True
+85,23,M,Married,84.51082659851465,879.75473605372,Statistics and Operations Research,1,Block,Part-time,False,True,Paid,3.0261543339812267,2,False,26,482.9972472787312,Student,True
+86,19,M,Divorced,87.53828329472744,861.5911915676721,Marketing Management,2,Distance,Full-time,True,True,Unpaid,1.0294618336065362,3,True,27,455.8866409193497,Unemployed,True
+87,21,Other,Married,89.23465627224765,884.3278090936402,Office Management,1,Distance,Part-time,True,True,Paid,2.7740393481852816,6,False,25,474.58525255381517,Unemployed,True
+88,23,Other,Married,89.6181200150614,809.7514325640898,Office Management,1,Distance,Part-time,False,True,Paid,0.15884483028898888,4,False,26,412.87922880848413,Employed,True
+89,22,Other,Single,88.70360798510714,855.8980634099775,Musicology and Ethnochoreology,3,Distance,Part-time,False,False,Exempt,3.357632150437088,4,True,48,175.8238670569522,Unemployed,True
+90,24,Other,Married,98.7470658843173,850.1087880262197,History,1,Block,Full-time,False,False,Unpaid,1.792683388085274,0,False,41,452.9382110481003,Student,True
+91,19,Other,Married,94.1203801532805,870.6193182963359,English & Applied Communication,3,Distance,Part-time,False,True,Exempt,2.546771657431767,7,True,20,490.8422529685244,Employed,True
+92,19,Other,Single,92.62341291913413,853.4290551893675,XiChangana,1,Block,Part-time,True,True,Exempt,0.8849512792267347,3,True,0,175.03565613747645,Employed,False
+93,21,M,Married,80.99684055565884,854.0734567133104,TshiVenda,1,Block,Full-time,False,True,Unpaid,2.708294850633792,9,False,27,130.27798299322447,Unemployed,False
+94,19,Other,Single,98.07826660520749,842.9595943576064,Banking and Finance,4,Block,Full-time,True,False,Unpaid,3.0889611035731064,4,False,47,273.45814639111063,Unemployed,False
+95,19,Other,Single,98.18780384016793,830.8834424007341,Banking and Finance,4,Distance,Full-time,True,True,Paid,1.892852747537595,1,True,14,93.57609629946501,Unemployed,True
+96,23,F,Single,95.60426126860204,848.2264361252193,Sociology,3,Block,Full-time,True,False,Unpaid,2.470907696247177,0,True,16,16.312110703190108,Employed,True
+97,21,M,Single,80.14058407627239,811.8492358768401,Finance,1,Block,Part-time,True,False,Exempt,1.8253036952895942,8,False,25,472.91558555793483,Unemployed,True
+98,23,M,Married,81.14560502155247,896.1513338983085,History,2,Distance,Full-time,False,True,Exempt,3.576365477031382,1,True,19,462.87031622070964,Student,False
+99,24,M,Single,84.50447404536979,871.4410763626598,"Livestock, Wildlife and Fisheries",4,Block,Full-time,False,True,Unpaid,1.9914767220572767,5,True,24,81.32692688106053,Employed,False
+100,24,Other,Single,82.62698816289813,895.2467116687847,Marketing Management,2,Distance,Full-time,False,True,Exempt,3.3672348361152755,0,True,12,203.87012346485972,Unemployed,False
+101,23,Other,Married,87.97672059407459,822.6727382329964,Accounting,4,Distance,Full-time,False,False,Paid,3.2054082330809943,0,False,32,415.5181566363428,Student,False
+102,24,Other,Married,98.45246116175579,887.9341020176528,Sociology,4,Distance,Part-time,True,False,Exempt,1.6420192853934261,8,True,24,330.5001494104265,Student,True
+103,21,F,Divorced,89.44120868393996,880.8789984563539,Risk Management and Insurance,1,Block,Full-time,True,True,Paid,0.9203379674299002,3,True,7,197.39375458535696,Unemployed,False
+104,18,Other,Married,80.26805252864331,867.7152412457674,Transport and Logistics,4,Distance,Part-time,True,False,Exempt,1.624328530239084,8,True,4,372.0854985914095,Student,True
+105,23,F,Married,85.65491379157524,862.5029186085205,XiChangana,2,Distance,Full-time,False,True,Paid,3.3048695031008806,4,False,5,448.52369410509544,Employed,False
+106,22,M,Divorced,80.89189816745923,831.654966526787,Urban Planning and Development,4,Distance,Part-time,True,True,Paid,0.9105301432775694,6,False,22,463.079165262934,Employed,True
+107,22,Other,Married,80.72575245227004,881.641078496503,Gender and Social Anthropology,3,Distance,Part-time,True,False,Unpaid,2.0977453834309974,0,False,29,189.4248059610945,Student,False
+108,19,F,Married,85.51439706191104,850.1515461479734,Hospitality Tourism and Culture,1,Block,Full-time,True,False,Paid,3.22438699184299,5,True,13,86.78034003640944,Employed,True
+109,24,F,Married,85.51224677357891,807.0891575891285,Accounting,1,Distance,Part-time,True,False,Unpaid,1.4139099005135152,7,False,22,456.4194290969876,Unemployed,True
+110,22,Other,Married,95.74253205203208,831.286316085513,"Archaeology, Museums and Heritage Studies",3,Block,Full-time,False,False,Exempt,2.5688385480107896,0,True,10,46.27772293051413,Student,True
+111,19,M,Divorced,99.49669305562225,893.5297098545327,Religious Studies & Philosophy,3,Distance,Part-time,True,True,Exempt,0.9825262961952581,8,False,30,360.8441956140818,Employed,True
+112,18,M,Married,87.42414187779997,885.0680260604846,English & Applied Communication,3,Block,Part-time,True,True,Exempt,0.4371177814726397,2,True,5,70.24865743040081,Unemployed,False
+113,21,M,Married,88.57773757722077,898.1905698076539,Urban Planning and Development,4,Distance,Part-time,False,True,Paid,3.1775369003714253,0,False,10,194.6934273338461,Unemployed,True
+114,21,F,Divorced,96.89578872572042,862.7993382604099,Transport and Logistics,1,Block,Full-time,False,False,Exempt,0.3958744936348273,0,True,12,205.7778732725137,Employed,True
+115,21,F,Single,85.36278040191027,824.7510073140412,Computer Sciences,3,Distance,Part-time,False,True,Exempt,1.0855255803183383,5,True,11,79.37895755604168,Student,True
+116,22,F,Divorced,83.12763608806895,816.2815049676864,Musicology and Ethnochoreology,4,Block,Full-time,True,False,Unpaid,3.4204376879897604,5,False,1,461.340717003306,Unemployed,False
+117,18,F,Single,97.06179246807301,818.6914440608462,Sociology,3,Block,Part-time,True,False,Unpaid,1.3858771483146688,0,True,34,1.3340840046431324,Unemployed,True
+118,22,M,Divorced,80.9300117288013,801.9795658347255,Economics,2,Block,Part-time,True,False,Exempt,3.8921813980566444,2,False,35,446.9042716083153,Unemployed,True
+119,24,Other,Divorced,92.39398880398832,839.0682110985939,TshiVenda,2,Distance,Part-time,True,True,Exempt,3.918937339095439,6,False,16,441.91466173774273,Unemployed,True
+120,22,F,Married,91.23985694933614,819.1427680499543,Finance,1,Block,Part-time,False,False,Paid,1.0731040818142268,9,True,27,158.4818268490008,Student,True
+121,18,F,Single,86.91840895003389,841.1655460456702,Urban Planning and Development,4,Block,Part-time,True,False,Paid,0.1639128889995618,2,True,27,352.14213493963774,Employed,False
+122,18,M,Married,86.30379042194718,893.4994431838766,Office Management,2,Block,Part-time,True,False,Exempt,2.8202531368215165,2,False,21,126.40445564915775,Employed,True
+123,24,Other,Single,95.43715452363243,843.054020950719,Transport and Logistics,2,Block,Full-time,False,False,Unpaid,1.803946010593375,2,False,37,379.3867811269692,Employed,True
+124,18,Other,Divorced,81.72849221525092,887.7984496984835,Economics and Finance,4,Distance,Full-time,False,False,Exempt,0.40301137583830515,6,False,6,280.5598708938717,Unemployed,True
+125,18,M,Divorced,84.73568618622771,860.5504766615877,Internal Auditing,3,Block,Full-time,False,False,Paid,2.8300912759121712,3,True,14,150.11272712382916,Student,False
+126,21,M,Single,94.64897463676179,824.7131554661391,Development Studies,4,Block,Part-time,True,False,Unpaid,0.12469963644768489,3,False,31,200.1173768188273,Employed,True
+127,24,Other,Married,90.96641167452849,835.5854759259212,Sociology,3,Block,Full-time,True,False,Unpaid,3.4807867619689685,2,True,10,344.9443661192018,Student,True
+128,20,F,Married,82.55976417067173,808.391953582143,Statistics and Operations Research,2,Distance,Part-time,True,False,Paid,0.5546101164532149,9,True,23,453.04872482189154,Employed,True
+129,20,Other,Married,97.64271228564121,833.346259359601,Fiscal Studies,2,Block,Full-time,True,False,Exempt,0.5092475149869,8,False,2,65.36325828363732,Unemployed,False
+130,18,M,Married,87.86895693127182,867.7540945503534,Local Governance Studies,2,Block,Full-time,True,False,Exempt,0.7026891918743381,1,False,29,285.6819848345786,Employed,False
+131,20,F,Divorced,96.55736750644346,807.2111092929435,Accounting,1,Block,Part-time,False,False,Exempt,3.841065433968266,3,True,5,126.86459972855873,Unemployed,True
+132,20,F,Divorced,95.75426031055417,820.540140847803,Business Management,1,Block,Part-time,False,True,Paid,2.772677441015384,7,True,1,400.6861249377296,Unemployed,True
+133,18,M,Divorced,92.48850892943456,838.1441041413311,"Livestock, Wildlife and Fisheries",1,Distance,Full-time,True,True,Unpaid,3.205486141854547,5,True,13,35.11865293474054,Employed,False
+134,20,M,Divorced,89.88962262590186,898.2049537015962,Sociology,4,Block,Full-time,True,False,Paid,1.590539942931012,6,True,40,344.4778950855849,Student,False
+135,22,M,Divorced,99.59101680763514,878.486182295888,Gender and Social Anthropology,2,Block,Full-time,True,False,Exempt,1.3452509100198222,6,False,17,87.4730068455149,Unemployed,True
+136,19,Other,Married,82.89930144759634,873.3486746492104,Economics,2,Distance,Full-time,True,False,Paid,0.9379360271326798,1,True,43,298.1927092016146,Student,True
+137,24,Other,Married,94.50311455102229,811.6190956525446,Hospitality Tourism and Culture,4,Distance,Part-time,True,True,Unpaid,1.9225921132496357,3,False,30,417.846293596346,Employed,True
+138,19,F,Married,83.82381402929578,878.0995893614992,Politics and Public Administration,1,Distance,Full-time,False,True,Paid,2.207314934136674,9,False,12,377.5403310608398,Unemployed,False
+139,18,M,Married,86.76526210664697,878.5268811516015,TshiVenda,4,Block,Part-time,False,True,Exempt,2.5270993746110215,9,False,25,376.47144384181865,Student,False
+140,21,F,Divorced,86.1739748674639,860.1102695624328,Transport and Logistics,1,Distance,Part-time,False,False,Unpaid,1.028474015994778,5,True,43,258.9226560934526,Unemployed,False
+141,24,F,Divorced,98.94071975477446,899.0361781998372,Sociology,2,Block,Full-time,True,False,Paid,3.7946163236119625,2,True,11,445.37279592486067,Employed,False
+142,18,F,Divorced,99.3471235557655,832.5253905924552,Fiscal Studies,3,Distance,Part-time,True,False,Paid,0.6790339928285434,8,False,17,294.05259912099893,Unemployed,False
+143,21,F,Single,83.66030888469454,894.1272448241851,Sociology,1,Block,Full-time,False,False,Unpaid,3.8626126990656493,3,False,8,458.7589842747853,Employed,True
+144,19,M,Married,80.44070320595009,891.4731114956503,Media and Cultural Studies,2,Distance,Part-time,False,True,Unpaid,0.059424490030015154,9,False,48,273.2612289162088,Student,True
+145,18,F,Married,94.40016079326226,801.1480659749378,Economics,2,Block,Part-time,True,False,Exempt,1.9245027672673825,1,False,20,252.98278151000147,Unemployed,False
+146,24,M,Divorced,88.35979867740969,845.0116526474811,Development Studies,3,Distance,Full-time,False,True,Unpaid,1.3334713524662511,5,True,47,111.17650960515724,Student,False
+147,24,M,Married,81.77680490175129,897.7104233051573,Musicology and Ethnochoreology,2,Block,Part-time,False,True,Exempt,1.7964936557210032,0,False,48,272.3933270151025,Employed,True
+148,23,Other,Married,93.67508211154085,810.3121362408076,Economics and Finance,2,Block,Part-time,True,False,Paid,2.282658315923156,5,True,39,70.2924156244485,Employed,False
+149,22,M,Divorced,90.90211056521399,854.778469438332,Media and Cultural Studies,1,Block,Full-time,False,True,Exempt,1.7423566320508361,9,True,42,434.84510062977273,Student,False
+150,20,Other,Single,99.61033644002212,897.8957507041105,Local Governance Studies,1,Block,Part-time,False,True,Paid,1.6593874012063798,0,True,23,337.9459443541467,Student,True
+151,21,M,Single,84.54818991722757,855.549542410586,Soil and Plant Sciences,3,Block,Part-time,False,True,Unpaid,2.930893661653226,7,True,33,496.81772424647096,Employed,False
+152,23,M,Single,88.07955752653096,818.9815302972156,Business Management,3,Block,Full-time,True,True,Paid,2.7435051003458586,4,False,7,46.04871389526155,Student,False
+153,20,M,Divorced,90.85091606790846,858.2183230092589,"Livestock, Wildlife and Fisheries",2,Block,Full-time,False,False,Unpaid,3.3330851281433915,5,True,43,120.33637492264343,Employed,True
+154,20,Other,Married,95.83399976906703,820.4440573949547,Economics and Finance,1,Block,Part-time,False,False,Paid,0.9998359249579822,1,False,32,438.57930213306963,Student,True
+155,18,Other,Divorced,90.97677313440117,851.9704262894484,Hospitality Tourism and Culture,3,Distance,Part-time,False,True,Paid,2.4381140390162543,1,True,22,197.62704988445884,Employed,False
+156,20,F,Divorced,92.25800321723898,807.4042217912348,Religious Studies,3,Block,Part-time,True,False,Paid,2.3407791415714154,8,False,12,233.15149499094878,Employed,False
+157,22,Other,Married,84.52294103179881,860.5482669214405,Urban Planning and Development,4,Block,Full-time,True,True,Paid,1.478951243490755,2,False,48,430.3259436938084,Unemployed,False
+158,24,Other,Single,96.9383745617712,851.6789939128158,Fiscal Studies,3,Distance,Part-time,False,False,Exempt,1.9442301676107236,5,False,13,260.91161247497615,Employed,False
+159,23,Other,Single,88.57261093940951,874.0161368761463,Soil and Plant Sciences,2,Block,Part-time,True,False,Paid,1.255128573222915,9,False,13,96.73792470718406,Employed,False
+160,20,Other,Divorced,82.81919255043539,863.0700471158785,Transport and Logistics,1,Distance,Part-time,False,False,Exempt,0.5673775904679408,4,False,15,446.01505770489047,Unemployed,True
+161,18,F,Single,93.28375829010835,854.9606268530756,Politics and Public Administration,3,Block,Part-time,True,False,Unpaid,0.8552048426509313,3,True,48,15.530828211516745,Unemployed,True
+162,22,Other,Divorced,84.32180906370616,868.9778849248121,TshiVenda,4,Distance,Part-time,True,False,Unpaid,0.42205458560480436,9,False,37,447.6981338217216,Student,False
+163,19,M,Divorced,81.95125020478599,814.3941913572231,Media and Cultural Studies,1,Distance,Part-time,False,True,Exempt,2.7322783007604965,1,True,38,25.260113336167343,Student,True
+164,24,M,Married,97.23973816808544,859.5359661258605,Human Resources Management,3,Block,Full-time,False,False,Unpaid,2.642909572436606,7,False,25,332.92468230006403,Employed,True
+165,24,Other,Married,89.20324528976879,817.2110602822778,English & Applied Communication,4,Distance,Full-time,False,True,Unpaid,3.8024254863194913,9,True,25,35.83968983766733,Student,True
+166,23,Other,Married,94.98567425391553,892.5522207851881,Soil and Plant Sciences,3,Block,Part-time,True,True,Paid,2.918713654588965,6,True,0,353.10649298253276,Student,True
+167,24,M,Divorced,85.8117511961271,806.8334104845604,Economics,1,Block,Part-time,False,False,Paid,0.20818335502452578,1,True,31,16.985660666475443,Employed,False
+168,20,M,Married,95.73940269835333,843.0374749690793,Gender and Social Anthropology,1,Block,Full-time,True,True,Paid,3.5369806957158167,5,False,14,421.22886385539374,Unemployed,False
+169,18,F,Single,82.23871854043061,869.5797477655444,Human Resources Management,1,Block,Full-time,True,False,Exempt,3.450700651782903,7,True,20,232.97197546499237,Unemployed,True
+170,24,M,Single,87.11946747589705,845.8022211668259,Psychology,2,Distance,Full-time,False,True,Exempt,1.7732812830907947,6,False,17,46.72695633443896,Employed,False
+171,24,M,Divorced,99.56123635947057,809.2095253232902,Finance,3,Block,Part-time,True,True,Unpaid,2.343452202111686,0,False,29,353.40972250507195,Employed,True
+172,19,Other,Divorced,95.87979432736012,855.3379016126707,Human Resources Management,2,Distance,Part-time,False,False,Paid,3.9043133298900754,4,True,12,244.64507875188124,Employed,True
+173,19,M,Married,89.94511860629376,864.1631908827354,Economics,1,Distance,Part-time,True,False,Exempt,2.129217455392665,1,True,23,95.47442943772144,Employed,True
+174,21,F,Divorced,86.7955494312377,870.3792310990508,Human Resources Management,4,Block,Part-time,False,False,Exempt,3.621287313504359,5,False,29,7.836186944362888,Employed,True
+175,22,M,Divorced,97.44271400044953,837.3259814462759,Local Governance Studies,3,Block,Full-time,True,False,Paid,0.33215503124074575,6,False,1,208.9991298627686,Employed,True
+176,20,Other,Single,90.89695518169032,856.3659971028762,Statistics and Operations Research,2,Block,Full-time,True,True,Exempt,0.7642074748347314,6,False,18,42.81461536426778,Student,False
+177,24,Other,Single,95.16850035738221,845.0686474938913,Religious Studies & Philosophy,3,Block,Full-time,False,False,Paid,1.7630197737652713,2,False,46,47.084849123618596,Student,False
+178,24,M,Married,95.08215360632329,867.2056038752253,Statistics and Operations Research,4,Distance,Full-time,True,True,Unpaid,2.339027233349219,6,False,43,133.66477418133843,Student,False
+179,18,Other,Divorced,80.35891357136984,858.3556967324819,Statistics and Operations Research,2,Block,Part-time,False,True,Unpaid,3.264911407451201,4,False,46,315.2291486212122,Unemployed,True
+180,21,F,Divorced,82.52507565585226,852.5756219559134,Information Systems,1,Distance,Part-time,True,True,Unpaid,3.9530484605727474,7,True,24,264.9553042804746,Employed,True
+181,22,F,Single,93.19258732789484,824.9524366838249,Banking and Finance,2,Block,Full-time,True,True,Paid,1.5554059858964657,7,False,49,34.4936541293403,Employed,True
+182,21,M,Divorced,83.23239622571742,800.2018517748234,Local Governance Studies,3,Block,Full-time,True,True,Exempt,0.1896625445603397,6,False,13,484.2156379462349,Student,False
+183,23,M,Single,85.1098668931121,817.4081675311429,Accounting,3,Block,Full-time,False,True,Unpaid,3.2046860131812993,5,True,5,443.58434414729555,Unemployed,True
+184,22,M,Married,98.93275908399214,811.7066041424168,Accounting,3,Block,Full-time,False,False,Unpaid,2.4175228763312324,1,True,11,129.61274357257912,Student,False
+185,24,Other,Single,91.20364516749824,844.9084745010947,Human Resources Management,3,Distance,Full-time,False,True,Unpaid,0.7941714354728067,5,True,19,61.16928798107063,Employed,True
+186,24,F,Divorced,95.01459013998695,861.2258150761845,Information Systems,1,Distance,Part-time,False,True,Exempt,1.9793138264856807,8,False,22,471.2014323784951,Employed,True
+187,22,F,Married,91.1596147756528,821.3085008684808,Geography and Environmental Science,2,Block,Part-time,False,True,Exempt,2.9692409821348975,1,True,29,230.57088894034993,Student,True
+188,24,Other,Single,91.05027229565451,893.9057095967187,Religious Studies,1,Distance,Full-time,True,False,Paid,3.081647148274575,0,True,29,155.5834823857179,Student,True
+189,20,F,Single,81.88303820251396,800.6682129223888,Finance,1,Distance,Full-time,True,False,Unpaid,1.998473647995048,4,False,37,245.1790175825937,Employed,True
+190,22,M,Married,86.87326385218206,877.2301015165343,Soil and Plant Sciences,1,Block,Full-time,False,True,Exempt,1.2208581205154365,5,False,29,386.3720722732061,Student,False
+191,21,M,Married,85.64861797373024,862.5204769530442,English & Applied Communication,3,Block,Part-time,True,False,Paid,3.894970328153974,2,False,40,84.19264915152725,Employed,True
+192,22,M,Single,87.81456731227226,837.3554801047682,Marketing Management,3,Distance,Part-time,True,True,Unpaid,2.6534504438259714,7,False,29,383.7479167546536,Student,True
+193,24,F,Divorced,95.96688376448657,805.0488944412408,XiChangana,3,Distance,Part-time,True,False,Exempt,1.6329500773851948,6,True,35,374.7233939669327,Unemployed,True
+194,20,M,Single,87.43865335833729,862.748657178428,Human Resources Management,2,Distance,Full-time,True,True,Exempt,1.1218528968186097,1,False,48,269.67410242043985,Employed,True
+195,20,Other,Married,89.03393638463365,838.5613512865648,Banking and Finance,4,Distance,Part-time,False,False,Paid,2.9244119320142485,6,True,33,432.92114437479086,Unemployed,True
+196,23,Other,Single,87.94762780970633,893.6267139413219,"Peace, Conflict and Governance",3,Block,Full-time,True,False,Unpaid,0.9687337823750708,0,False,15,66.07168908493027,Student,True
+197,21,F,Married,81.86815943950592,854.1990074889766,Religious Studies,2,Block,Part-time,False,False,Unpaid,0.6868399558947527,8,True,23,297.73950333283653,Unemployed,True
+198,19,Other,Married,88.82144316501568,893.9651511293508,Risk Management and Insurance,3,Distance,Part-time,False,True,Exempt,2.119335555848281,6,False,13,224.6715262509108,Student,True
+199,19,Other,Divorced,83.9121854608903,822.0483693473304,Local Governance Studies,3,Block,Part-time,True,True,Unpaid,1.1599495705765674,5,False,25,211.14605641791584,Unemployed,False
+200,22,F,Married,83.73446591546083,872.5725910364104,Geography and Environmental Science,1,Distance,Full-time,False,True,Paid,2.51562057969446,1,False,7,126.28053563476271,Unemployed,False
+201,23,M,Married,81.88072208868533,861.7249020848726,Risk Management and Insurance,1,Distance,Full-time,True,False,Exempt,0.47175469949693394,2,True,13,186.13982840495402,Unemployed,True
+202,18,M,Divorced,87.1334194828353,873.9408229831312,English & Applied Communication,1,Block,Part-time,True,False,Exempt,2.6197644182692863,0,True,30,54.075378011832875,Employed,False
+203,22,M,Married,95.14963769578834,821.4667863972537,Statistics and Operations Research,2,Distance,Full-time,True,True,Paid,1.1331861119908089,9,True,1,125.7994848824126,Unemployed,True
+204,23,F,Divorced,85.52883381166792,866.4994516237774,Information Systems,4,Distance,Full-time,False,False,Exempt,0.0009717377380509262,4,False,47,135.9825538890413,Student,False
+205,21,Other,Divorced,86.24698203771027,849.804039305687,Soil and Plant Sciences,4,Block,Full-time,False,True,Unpaid,0.5077442306967055,8,True,3,360.3339337300697,Student,True
+206,21,M,Married,92.85349315344847,874.2824974906316,Economics,2,Block,Full-time,False,True,Unpaid,3.7344615113403763,5,False,0,24.275213604431578,Employed,True
+207,21,M,Married,83.91681625173838,832.7044644151817,Marketing Management,3,Distance,Full-time,True,True,Exempt,3.4694185564614313,4,False,19,325.5961540754304,Employed,True
+208,21,F,Single,97.93915860847069,889.0057025465253,Religious Studies,2,Distance,Full-time,True,True,Paid,0.9344361281449474,2,False,13,110.70495489659493,Student,True
+209,21,M,Divorced,90.40381046503109,808.430131461135,Religious Studies,3,Block,Full-time,True,False,Paid,3.113487618181965,4,True,39,40.93075295814697,Unemployed,False
+210,23,F,Single,88.95205880640434,880.7189318791188,Computer Sciences,2,Distance,Part-time,False,False,Unpaid,2.434286372695897,7,False,24,150.40308054271705,Student,True
+211,23,Other,Married,91.15640383858403,886.1319625815091,XiChangana,2,Distance,Full-time,True,False,Paid,3.883618845799478,1,True,24,112.2364347143014,Employed,True
+212,20,F,Single,83.32068626832391,881.7252311366822,Computer Sciences,2,Block,Full-time,True,True,Exempt,1.4944226381362364,4,False,2,276.016187919925,Employed,True
+213,19,F,Divorced,92.26946277278353,851.2726394261776,Office Management,4,Block,Part-time,False,False,Exempt,2.725842450068685,5,False,4,178.6882017239812,Student,True
+214,24,F,Single,87.26201473268021,843.8384980030761,Statistics and Operations Research,1,Block,Part-time,False,True,Unpaid,0.25414288969567433,9,False,37,482.9968712041631,Unemployed,True
+215,21,F,Divorced,97.94372681929238,899.6262286524877,Accounting,2,Block,Part-time,False,True,Unpaid,1.5849893872656238,7,True,25,481.7747996954253,Unemployed,True
+216,18,Other,Married,83.37708413355372,822.9171951214162,Statistics and Operations Research,4,Block,Part-time,True,True,Unpaid,3.855270644752722,7,True,39,221.85763456011975,Employed,False
+217,24,Other,Married,90.14102207730882,854.6875965876045,Gender and Social Anthropology,1,Block,Full-time,True,True,Paid,2.155923497800482,4,False,37,397.5437303301298,Student,False
+218,23,M,Divorced,91.96225258738036,867.0675525382326,Economics and Finance,1,Distance,Part-time,True,True,Exempt,1.1515180133393783,8,True,37,6.634270430437517,Student,False
+219,18,Other,Married,80.66767203572762,870.0867635861432,Risk Management and Insurance,2,Distance,Part-time,False,True,Exempt,0.4810838525144274,3,True,3,273.9057923624013,Employed,False
+220,18,Other,Married,87.2738624951228,820.4024665738579,Internal Auditing,3,Block,Full-time,False,False,Exempt,2.8141133607261217,8,False,6,371.6495861534895,Student,True
+221,18,M,Married,94.65270469401665,865.3994092339801,Local Governance Studies,3,Block,Full-time,False,False,Unpaid,2.579424173718907,6,False,29,108.47161270366796,Employed,True
+222,20,Other,Married,96.40755014897947,881.8369566481338,Religious Studies & Philosophy,3,Distance,Full-time,False,False,Exempt,1.4957548544150985,5,True,29,30.585877582971875,Unemployed,False
+223,23,F,Divorced,86.26323989634565,805.0018576821112,"Peace, Conflict and Governance",2,Distance,Part-time,True,False,Paid,3.803765407463337,3,False,18,77.95946795322794,Unemployed,True
+224,18,F,Single,95.97186544765502,891.1521293325317,TshiVenda,3,Distance,Full-time,True,True,Paid,0.08881125195140127,1,False,38,220.92404358692852,Student,True
+225,21,M,Single,99.35511754206777,802.9504055145206,Urban Planning and Development,4,Block,Part-time,True,True,Exempt,1.2148954065273032,7,True,34,253.18571037813098,Unemployed,True
+226,22,M,Married,97.13747872150188,835.5971032488394,Accounting,4,Block,Full-time,True,False,Unpaid,3.6842779451983256,5,True,39,190.44256105438424,Unemployed,False
+227,18,M,Single,82.35287976318651,801.5813196232962,Fiscal Studies,4,Distance,Full-time,True,False,Exempt,1.2837417532777615,2,False,32,219.98688352119,Employed,False
+228,20,F,Single,94.79460664171081,807.7145168539582,Economics and Finance,4,Block,Part-time,True,False,Paid,1.0090113354206816,6,True,32,235.11747980464065,Employed,True
+229,24,Other,Married,86.3933366488109,891.1168285180079,Office Management,1,Block,Full-time,True,False,Paid,2.1368816397249892,9,True,13,384.71833080054813,Student,False
+230,23,F,Married,99.76831978824153,835.4860830746147,Accounting,4,Block,Full-time,True,False,Paid,3.2952069996821516,6,False,37,52.62094903882619,Employed,False
+231,20,M,Single,89.70717966319773,842.4771530425053,Politics and Public Administration,3,Distance,Full-time,False,False,Exempt,0.4125870435134442,5,False,9,384.475233579698,Student,True
+232,18,Other,Divorced,82.44867796717882,821.5344381382553,Local Governance Studies,2,Distance,Full-time,False,False,Paid,3.7720828385829446,1,False,27,344.31365114749906,Student,False
+233,23,Other,Married,94.50371096054782,859.709577018672,Marketing Management,3,Block,Full-time,True,False,Unpaid,3.180291524724656,7,False,13,370.830404738159,Employed,True
+234,22,F,Divorced,86.46022396772427,859.4803214677789,Internal Auditing,4,Block,Part-time,False,True,Exempt,0.7250010222062078,0,True,35,367.2341929376614,Unemployed,True
+235,18,M,Single,99.94156314163324,837.2200391825219,Statistics and Operations Research,1,Block,Part-time,True,True,Exempt,2.8480318447926507,0,True,37,235.29590790089182,Unemployed,False
+236,20,F,Married,99.59564915709043,833.3034871805398,XiChangana,4,Block,Full-time,True,True,Paid,1.5398348905502286,5,False,15,105.70009228045002,Unemployed,False
+237,19,Other,Divorced,93.12268036041161,888.4964308180588,Media and Cultural Studies,2,Block,Part-time,False,True,Paid,1.6091787123052748,4,False,20,268.314452150902,Unemployed,False
+238,21,F,Married,82.59652897903435,838.3284239642202,XiChangana,3,Distance,Part-time,True,False,Unpaid,3.1331603697554655,8,False,27,478.9910268045498,Student,True
+239,24,F,Single,93.73721995350058,849.3500992154409,Marketing Management,2,Block,Part-time,True,True,Exempt,3.8511392319229287,6,False,32,294.26284069668185,Unemployed,False
+240,20,M,Divorced,81.86060972920055,828.3304762424931,Media and Cultural Studies,2,Block,Full-time,True,False,Paid,0.5066234913887757,1,True,5,5.523572606388805,Student,False
+241,23,M,Single,80.58728318204784,878.6769503357127,Religious Studies & Philosophy,2,Block,Full-time,True,True,Unpaid,1.6825209475152776,6,True,40,29.855452438195318,Employed,True
+242,18,Other,Single,96.45916892442972,839.7448156899092,Local Governance Studies,3,Distance,Full-time,True,False,Paid,1.9237664323372141,2,False,14,496.4317168017762,Employed,False
+243,21,F,Married,84.19505895367362,851.3611046544324,Politics and Public Administration,4,Distance,Part-time,True,False,Exempt,1.5052472678199904,0,False,43,35.973179619720185,Student,False
+244,18,F,Divorced,87.58054252438195,825.3357170059661,Economics and Finance,2,Block,Part-time,True,True,Paid,1.4527564948649,7,True,2,23.02258002244928,Unemployed,True
+245,23,F,Single,99.46914779952345,898.7659592341251,Statistics and Operations Research,3,Distance,Full-time,False,True,Exempt,0.20907467024638615,2,True,42,176.5121346793277,Student,False
+246,18,Other,Single,86.73681003722207,829.1495740923723,Geography and Environmental Science,1,Distance,Full-time,False,False,Paid,2.742154482250493,7,True,46,484.65860163466834,Unemployed,True
+247,19,Other,Divorced,85.9297956256663,877.0742530905552,Sociology,3,Distance,Part-time,True,False,Exempt,1.7448576684801815,6,True,34,159.33757686643284,Unemployed,False
+248,21,M,Single,98.36415999245551,842.7495650356759,Information Systems,1,Distance,Part-time,False,False,Unpaid,0.779175210575707,1,False,13,204.94206543763534,Student,True
+249,21,M,Single,82.21496890637916,820.621740508414,Office Management,3,Distance,Full-time,True,True,Exempt,3.2641340092082736,0,True,1,317.03853060428276,Student,True
+250,23,M,Divorced,95.19164820229264,879.9718763964861,Statistics and Operations Research,4,Distance,Part-time,True,True,Unpaid,3.2102429926065117,6,True,28,12.05591966319891,Unemployed,False
+251,24,F,Divorced,99.76131133305549,833.3606789029043,Human Resources Management,2,Block,Part-time,True,False,Exempt,1.9455665123555752,0,True,3,448.88178875959403,Student,True
+252,19,F,Divorced,98.02592021549297,886.5193347397811,"Archaeology, Museums and Heritage Studies",4,Distance,Part-time,True,True,Unpaid,1.1938026445910421,5,False,25,259.72150877721606,Unemployed,True
+253,20,M,Divorced,93.03335837412851,891.5257184917823,Statistics and Operations Research,3,Distance,Part-time,False,False,Paid,2.5523709031858095,9,False,11,233.40545300202896,Student,True
+254,18,F,Married,86.28121589985464,885.9823835391276,Transport and Logistics,2,Block,Part-time,False,True,Exempt,1.1526085431096122,9,True,1,430.3633311033152,Employed,False
+255,22,M,Divorced,85.08643962356633,803.5007914806806,Musicology and Ethnochoreology,1,Block,Part-time,False,True,Paid,0.9440317212948481,7,True,16,476.5382946790106,Unemployed,True
+256,18,Other,Married,96.38510209742923,878.7373345005105,XiChangana,3,Block,Part-time,False,True,Unpaid,2.9220586161053066,6,False,34,211.7126158234174,Employed,False
+257,18,M,Married,97.5964382790339,841.1339466499144,Urban Planning and Development,2,Block,Full-time,True,True,Exempt,0.1613009588838028,3,False,9,86.22053964661535,Student,False
+258,20,Other,Married,90.50869825091385,887.3722920182225,Risk Management and Insurance,1,Distance,Full-time,False,True,Exempt,0.37907388413837584,0,True,47,407.85463500103646,Employed,True
+259,18,F,Single,84.88679881572932,863.7954262684739,Economics and Finance,1,Distance,Part-time,True,False,Paid,0.027152696094359108,0,False,21,201.6302106112436,Student,False
+260,19,M,Married,82.25886416822347,883.3643134143958,Information Systems,4,Distance,Part-time,True,False,Exempt,0.6117727459017046,3,True,40,467.7727697558831,Unemployed,True
+261,19,F,Married,81.74358935663662,849.9431769866835,Finance,3,Distance,Part-time,False,True,Exempt,0.27596003484183784,4,False,42,474.9494919154915,Student,True
+262,21,Other,Single,94.3815489470771,853.5025504598933,Religious Studies & Philosophy,1,Block,Full-time,True,False,Paid,3.9832094711196744,6,True,20,57.414515860684745,Student,False
+263,23,Other,Single,88.4023745569545,814.4387632133668,"Archaeology, Museums and Heritage Studies",2,Distance,Full-time,False,False,Exempt,1.1552398798163583,3,True,14,478.2769836664256,Unemployed,True
+264,24,Other,Single,98.1071974855574,878.3987358689355,Urban Planning and Development,1,Distance,Part-time,False,True,Paid,0.5970720506769891,9,False,34,184.13516272256047,Student,False
+265,22,F,Divorced,94.79342601453527,841.9389611666971,Business Management,1,Block,Full-time,False,False,Paid,0.9639850319836718,0,True,47,323.12625882859527,Unemployed,True
+266,18,F,Single,83.82520835829173,850.0080118271583,Information Systems,4,Distance,Part-time,False,True,Paid,3.7445022861605386,9,False,20,17.375040867023017,Student,False
+267,18,F,Single,92.27554837631398,878.5097714095707,"Archaeology, Museums and Heritage Studies",4,Distance,Part-time,False,False,Paid,2.0806408920975827,6,False,20,444.44213704191634,Unemployed,True
+268,20,F,Married,88.71010908796319,859.8845400079439,Politics and Public Administration,2,Distance,Part-time,True,False,Paid,1.4592723852314275,1,False,20,320.79866467243244,Employed,True
+269,23,Other,Single,91.54499461537226,820.1098727442668,XiChangana,4,Distance,Part-time,False,False,Unpaid,3.4935658316368774,1,True,43,321.77723347820955,Student,True
+270,19,Other,Divorced,94.76138246677034,859.0232659150893,Fiscal Studies,1,Block,Part-time,False,False,Unpaid,1.5799610821961299,7,True,31,451.0880799887419,Student,True
+271,22,M,Single,96.12391762007582,840.7632857979656,Development Studies,1,Block,Part-time,True,False,Paid,1.3400342798307832,9,True,4,254.1735874536716,Student,False
+272,21,M,Divorced,96.8747465281345,846.9525542043863,Sociology,4,Block,Part-time,False,False,Unpaid,0.8291300901989422,9,False,38,205.25832018127528,Unemployed,True
+273,19,F,Single,85.07949749144049,802.8311274402668,Sociology,1,Block,Full-time,False,False,Unpaid,1.511187295637646,9,True,8,433.0643761461581,Student,True
+274,23,Other,Single,80.62231199834716,821.0029349516282,Fiscal Studies,1,Block,Part-time,True,True,Exempt,1.266737424067704,4,True,17,371.21025593569914,Unemployed,True
+275,24,Other,Single,94.78589470329547,828.1038081381029,"Archaeology, Museums and Heritage Studies",2,Distance,Full-time,True,True,Paid,2.709215837192564,9,True,20,474.48783248245053,Student,False
+276,21,Other,Single,82.1268745251155,871.2960007858806,Accounting,4,Distance,Part-time,False,True,Unpaid,1.1583308186829084,1,True,7,470.0609466552663,Employed,True
+277,24,M,Divorced,86.29839177225935,801.1492473298115,Sociology,1,Block,Part-time,True,True,Exempt,2.3087989856902458,4,False,43,191.16308228012014,Student,False
+278,20,M,Divorced,80.07634268248694,840.8777261229131,Internal Auditing,4,Block,Full-time,False,False,Exempt,0.2635686601278908,7,True,33,223.49314507070895,Employed,True
+279,20,Other,Married,93.6333896480324,892.4026870425732,Local Governance Studies,2,Block,Full-time,True,False,Paid,0.7651566267860574,5,False,9,127.99247689538923,Unemployed,False
+280,18,Other,Divorced,83.34264022942442,811.1880616549124,"Peace, Conflict and Governance",4,Distance,Part-time,False,False,Paid,1.629621086445395,2,False,40,330.3239445692838,Employed,True
+281,24,Other,Single,93.10564819383316,851.6424388218611,Sociology,1,Block,Full-time,False,True,Exempt,3.7477970156347817,7,False,23,182.27098504444328,Student,False
+282,23,M,Married,99.83485234335677,878.6522382390847,Economics and Finance,4,Distance,Part-time,False,True,Paid,1.5090079428627816,8,False,39,393.05032330383557,Student,True
+283,22,Other,Married,81.45341743220033,894.2531307520117,Business Management,1,Distance,Part-time,True,True,Paid,2.6562964847993364,4,True,23,60.77538036545527,Unemployed,True
+284,21,Other,Married,81.54156023902921,874.6776639533718,Computer Sciences,1,Distance,Full-time,False,False,Exempt,1.0203488896855926,1,True,31,58.20142558287294,Student,True
+285,19,F,Single,86.8076018533335,872.0565548644406,Hospitality Tourism and Culture,1,Distance,Full-time,True,True,Exempt,0.5081343038929269,1,True,32,102.22769070969845,Student,True
+286,23,F,Divorced,97.32773028502685,882.6488090195762,Local Governance Studies,2,Block,Full-time,False,False,Paid,0.2341464003202005,6,False,37,42.14609421870674,Unemployed,True
+287,23,M,Single,84.31059737582663,844.6201220977543,Accounting,4,Distance,Full-time,False,True,Unpaid,1.2216539941710054,0,True,43,310.0158038391174,Unemployed,True
+288,20,Other,Married,87.20755639860695,880.5844532617833,"Livestock, Wildlife and Fisheries",2,Distance,Part-time,False,False,Paid,0.6306441071876319,9,False,48,73.67638300836931,Employed,True
+289,24,Other,Single,81.37010813253958,800.7964404745451,Soil and Plant Sciences,4,Block,Full-time,False,True,Unpaid,0.6960417920644968,1,True,33,79.98145873382711,Unemployed,True
+290,18,F,Single,95.26310582517779,892.4561055376805,Finance,2,Distance,Full-time,False,False,Exempt,3.0430372335478,9,True,10,7.114111864582995,Student,True
+291,18,M,Divorced,88.16612685518902,844.3306509517175,"Archaeology, Museums and Heritage Studies",3,Distance,Full-time,True,True,Unpaid,0.06335228377949687,3,True,30,391.0450073118049,Unemployed,False
+292,21,F,Divorced,95.18497466121686,855.3380187865748,Human Resources Management,1,Distance,Full-time,True,True,Exempt,2.2312405029417377,0,False,17,406.1480277117405,Student,True
+293,20,F,Married,98.0721568869359,825.4882248914882,"Archaeology, Museums and Heritage Studies",1,Block,Full-time,True,False,Paid,1.5178455223738592,3,True,22,81.01120818221985,Employed,True
+294,23,F,Single,84.65526294202577,874.2530832840422,Development Studies,2,Distance,Part-time,False,False,Paid,2.026199999634189,9,False,21,369.76221713361224,Unemployed,True
+295,22,F,Single,96.14792060679903,807.6635806475249,XiChangana,3,Distance,Part-time,False,True,Exempt,2.2513209488584116,4,False,42,216.7725615786798,Student,False
+296,20,Other,Divorced,81.18187780156507,887.2635802546836,Accounting,1,Block,Full-time,True,False,Exempt,1.2534707778291128,8,False,17,119.79744148269566,Unemployed,False
+297,21,Other,Single,97.97694776360495,882.8116829006343,Banking and Finance,4,Block,Full-time,False,True,Exempt,1.1804354407371411,0,True,39,310.69230403691444,Unemployed,True
+298,21,F,Single,93.01537095117494,821.6060116244767,Hospitality Tourism and Culture,2,Distance,Part-time,False,False,Paid,2.933607397339623,4,True,46,89.2420371735424,Unemployed,True
+299,20,M,Single,97.48453448276703,880.9324398285262,"Archaeology, Museums and Heritage Studies",1,Distance,Full-time,False,True,Paid,3.4851079524846287,1,False,40,378.4418038265177,Unemployed,False
+300,21,M,Divorced,80.00376799113164,878.6357733061482,English & Applied Communication,1,Block,Part-time,True,False,Unpaid,0.7703265298341115,8,False,46,23.807613785275848,Employed,True
+301,20,M,Married,83.38162140711985,863.2216597753949,Local Governance Studies,2,Distance,Part-time,True,True,Exempt,0.3904750421405958,5,False,38,479.5654664639572,Student,False
+302,19,M,Married,87.79518774852984,837.3520176899688,Musicology and Ethnochoreology,2,Block,Full-time,True,True,Unpaid,3.5911832255681038,1,False,19,35.937626854312235,Unemployed,False
+303,20,F,Single,87.59005806749437,827.1498754181868,Banking and Finance,4,Distance,Part-time,True,True,Paid,1.3995818545895946,2,False,12,289.72420962434484,Student,False
+304,24,Other,Married,84.53460765847021,823.178359028935,Politics and Public Administration,4,Block,Full-time,True,False,Unpaid,2.2052695626512566,7,True,44,451.0971450611893,Employed,True
+305,20,M,Divorced,87.632238797344,831.8608962763607,"Livestock, Wildlife and Fisheries",1,Distance,Full-time,False,True,Unpaid,1.4381725780800139,0,True,0,5.952234423925173,Student,True
+306,21,F,Divorced,82.5769742400051,890.355844343253,Office Management,1,Block,Part-time,False,False,Paid,0.5032093453842053,2,True,3,249.25723049452853,Student,True
+307,24,M,Married,88.25522258532052,807.7640775988781,Hospitality Tourism and Culture,2,Block,Part-time,False,False,Paid,2.357326579790912,9,False,23,175.00348215533995,Employed,True
+308,21,M,Married,96.04708658318529,882.8871276252959,"Archaeology, Museums and Heritage Studies",1,Block,Full-time,False,False,Exempt,2.1005634070785186,0,False,35,290.1660951289545,Unemployed,False
+309,18,F,Single,89.58140126206702,834.8890075041824,Musicology and Ethnochoreology,1,Block,Part-time,True,True,Unpaid,0.8119742367647889,7,True,35,112.72869336882934,Student,False
+310,18,Other,Married,80.3600017789043,852.1599396011359,"Peace, Conflict and Governance",2,Block,Full-time,True,False,Paid,1.8074761786091114,0,True,44,32.44960861586238,Student,True
+311,24,Other,Single,88.42888083158495,879.4485633648491,Human Resources Management,1,Distance,Part-time,False,False,Paid,3.1877900160625834,4,False,1,312.96651842435347,Unemployed,True
+312,19,F,Single,80.54350032181688,888.4376547022971,Psychology,1,Distance,Part-time,True,False,Unpaid,2.3617044124315654,3,False,27,208.42461974670124,Unemployed,False
+313,18,Other,Divorced,99.32486821413596,834.4781420072648,Banking and Finance,3,Block,Full-time,False,True,Paid,0.3876693082679794,6,False,25,311.24276935311485,Student,False
+314,20,F,Divorced,82.54907918845738,846.184348127511,Risk Management and Insurance,4,Distance,Full-time,False,False,Exempt,2.1920859889165403,4,True,22,105.26957341892145,Employed,True
+315,21,F,Divorced,94.15376652661237,841.4516064816793,Economics,2,Distance,Full-time,False,False,Exempt,2.8109531971583475,7,False,14,169.37063147674093,Unemployed,False
+316,18,F,Divorced,99.45552645784171,801.325103350391,Hospitality Tourism and Culture,3,Distance,Part-time,False,False,Unpaid,3.1708136231230055,0,False,35,280.8406946823052,Unemployed,True
+317,18,Other,Married,96.52078103333145,829.5942888858657,Local Governance Studies,4,Distance,Full-time,True,False,Exempt,2.516470314537067,4,False,26,296.55638916236364,Employed,False
+318,19,F,Divorced,93.98630750252407,845.9189233732562,TshiVenda,4,Distance,Full-time,False,True,Paid,0.610632658163135,3,True,5,186.1574038871326,Student,True
+319,24,M,Married,96.78921819001533,841.109360888044,Economics and Finance,4,Distance,Part-time,True,True,Paid,2.8406930663606427,2,False,34,140.02660280827823,Unemployed,False
+320,24,Other,Divorced,99.63597386521255,872.192922751568,Psychology,3,Block,Part-time,False,False,Paid,2.7093673843260655,4,True,38,136.85031474429792,Student,True
+321,23,Other,Married,92.4268899450706,838.4803617221103,"Livestock, Wildlife and Fisheries",3,Distance,Full-time,False,False,Paid,0.09770753176253288,9,False,37,87.34967571044922,Student,True
+322,19,Other,Single,91.18369613658653,848.937644897067,Media and Cultural Studies,4,Distance,Full-time,False,False,Unpaid,1.6469906703609727,2,False,34,162.70248116479357,Student,False
+323,20,Other,Married,92.56476220926562,842.9608592132363,Transport and Logistics,1,Distance,Full-time,False,False,Exempt,1.3318009878494932,7,True,35,99.72016850660998,Employed,True
+324,24,M,Married,90.6535177352311,874.0626148894371,Development Studies,1,Block,Full-time,True,True,Exempt,2.6776482570145737,2,False,9,316.9077031149724,Student,False
+325,21,Other,Divorced,92.70178211819437,886.2972398986963,Internal Auditing,3,Distance,Part-time,False,True,Paid,0.8645432492436829,0,True,29,284.5334991210448,Student,True
+326,19,Other,Married,88.99684415945119,853.1889079007515,Human Resources Management,3,Distance,Part-time,True,True,Unpaid,2.363487691897034,8,False,40,191.29441183546004,Unemployed,False
+327,18,F,Single,84.36886365766614,878.9432194195191,Fiscal Studies,3,Distance,Full-time,False,True,Paid,3.6528238472566894,8,True,37,162.91500996869723,Unemployed,False
+328,21,Other,Single,82.40494453023351,829.678668201985,Statistics and Operations Research,4,Block,Full-time,False,False,Paid,3.191209488834431,5,False,28,118.80710009732127,Employed,True
+329,21,M,Divorced,81.3668187106452,854.1369610157269,"Livestock, Wildlife and Fisheries",1,Distance,Full-time,False,False,Unpaid,3.6858309448661215,9,True,42,267.7291544796706,Employed,True
+330,18,M,Single,85.266315675064,834.5229953669973,Office Management,3,Block,Part-time,True,True,Unpaid,3.91402386773076,0,True,38,459.45138217284415,Unemployed,False
+331,19,M,Married,80.92247128671468,841.420092557183,Internal Auditing,3,Distance,Full-time,False,True,Paid,0.042680508024651065,7,False,49,342.8515256944686,Unemployed,False
+332,18,M,Single,91.34341559838771,873.2413864812669,History,2,Block,Full-time,False,False,Exempt,2.4909651055099102,1,True,3,372.2073570177837,Employed,True
+333,23,Other,Divorced,85.6765689404704,888.1662482332713,Geography and Environmental Science,4,Block,Part-time,False,False,Paid,1.6513575910356257,8,False,4,417.18893182820386,Student,True
+334,21,Other,Married,96.49069616174064,812.1495391087766,Economics and Finance,2,Block,Part-time,False,False,Exempt,3.439417961340487,7,True,3,175.81748666892437,Employed,True
+335,22,M,Divorced,81.48481745976773,863.463925648738,Hospitality Tourism and Culture,1,Distance,Full-time,False,False,Exempt,1.0072588080365268,2,False,35,31.437891057243817,Student,False
+336,22,M,Married,84.52702988682972,858.2143807577798,Local Governance Studies,2,Block,Full-time,True,False,Unpaid,3.9241179564603046,4,False,44,311.27940166082215,Unemployed,False
+337,20,Other,Single,94.60492294180293,811.8415039175932,Religious Studies,2,Block,Part-time,True,True,Unpaid,2.454831878174989,8,False,15,94.33614561401632,Unemployed,True
+338,24,M,Divorced,91.97616592766983,821.1894330440109,Information Systems,2,Block,Full-time,False,True,Paid,3.174149608915324,0,False,24,284.5218249978331,Unemployed,False
+339,18,F,Divorced,81.28982542498335,831.100249473268,Religious Studies,4,Block,Full-time,False,False,Exempt,0.3423982112910733,8,True,13,369.7551165785324,Student,True
+340,18,M,Married,97.544789143244,816.6931070817501,Transport and Logistics,1,Distance,Part-time,True,False,Exempt,0.7338315390354602,3,False,10,391.8191510739183,Employed,True
+341,20,M,Divorced,97.5452352565236,824.3729482524342,Marketing Management,2,Distance,Part-time,False,True,Paid,3.033614692136813,3,False,28,150.91956012375775,Student,False
+342,20,F,Married,86.60816007751548,826.7600798861707,Accounting,4,Distance,Part-time,True,False,Paid,0.08794608815729443,3,False,33,256.21661628465756,Employed,True
+343,20,F,Married,86.8081168669913,833.567383303906,Psychology,1,Distance,Full-time,False,True,Paid,3.267511943575131,9,False,21,310.48254813859614,Employed,False
+344,21,Other,Married,99.78056716700348,874.9390452801159,Economics and Finance,3,Block,Part-time,False,True,Unpaid,0.05579607476764581,8,False,13,409.74036085031094,Employed,False
+345,23,Other,Married,92.52352343186277,857.1912203850601,Computer Sciences,2,Distance,Part-time,True,True,Paid,2.6284753562450933,5,True,23,380.6943325524737,Unemployed,False
+346,18,F,Single,90.62633041136118,898.6246671951401,Geography and Environmental Science,1,Block,Full-time,False,True,Paid,1.4603756809272235,7,False,38,493.98766048868515,Employed,False
+347,21,F,Married,96.76304367103849,841.4735826967471,Geography and Environmental Science,2,Distance,Full-time,True,False,Exempt,2.4459794108767965,3,True,25,4.042338265005441,Unemployed,False
+348,20,Other,Divorced,85.70580676714633,875.3865073836926,Banking and Finance,3,Distance,Part-time,True,False,Paid,2.784125627956455,2,True,42,218.74472043156652,Employed,True
+349,18,M,Single,88.58365186792713,887.1468421376534,Statistics and Operations Research,1,Distance,Part-time,True,True,Exempt,1.3699008767452168,0,False,35,128.02224318806392,Employed,False
+350,21,F,Divorced,85.35553350976669,867.8978493038042,Transport and Logistics,4,Block,Full-time,False,False,Exempt,0.4318497924433422,9,False,38,59.94669357243671,Unemployed,True
+351,23,Other,Single,95.78321693177463,841.1864740417496,Economics and Finance,1,Distance,Full-time,True,False,Unpaid,0.2785834709930626,6,True,15,455.7576640835923,Unemployed,True
+352,21,M,Married,91.46698691270436,875.3594630745753,Development Studies,4,Distance,Part-time,True,False,Paid,2.3557440902501914,3,True,37,498.98103304784314,Student,True
+353,23,F,Single,93.1765014028014,820.3667137772685,History,1,Distance,Part-time,False,False,Paid,2.082621414936446,7,True,31,90.29810395236181,Employed,False
+354,20,M,Single,85.04614499678813,832.7552165180132,Transport and Logistics,4,Block,Full-time,False,True,Exempt,2.96880403648453,2,False,5,19.216696400681798,Unemployed,False
+355,23,Other,Divorced,84.4045060275463,854.6685255099288,"Peace, Conflict and Governance",3,Distance,Part-time,False,False,Unpaid,2.0389420400157485,0,True,33,137.52722384025017,Student,True
+356,18,F,Divorced,89.76749257965878,857.5409387286148,Computer Sciences,3,Distance,Full-time,False,True,Unpaid,1.6897831601235165,4,True,7,417.43095903319784,Student,True
+357,20,M,Married,94.75131498185654,802.214147547263,Psychology,3,Block,Part-time,False,True,Paid,1.5923487129449234,1,False,29,146.94504159965837,Unemployed,False
+358,18,F,Single,90.5047951504032,894.5114188756008,"Livestock, Wildlife and Fisheries",1,Block,Full-time,False,False,Exempt,0.10578761039066986,2,True,26,28.45074024881078,Employed,False
+359,22,M,Single,80.65291355091337,869.662727121739,Office Management,3,Distance,Full-time,True,True,Paid,1.3422288067866286,5,False,6,26.24609197651495,Student,False
+360,19,Other,Single,97.37103012640577,849.5703750231891,XiChangana,2,Distance,Part-time,False,False,Paid,3.904080630097977,2,True,26,213.7114011847182,Employed,False
+361,23,Other,Married,81.29373787030264,893.3127234408308,Economics and Finance,3,Distance,Part-time,True,False,Paid,3.494222304908355,2,False,24,465.91286153080983,Employed,False
+362,19,F,Married,99.11648967441505,843.9095565250828,Economics and Finance,4,Block,Full-time,False,True,Paid,1.3175122681368707,5,True,45,142.96022081981596,Student,False
+363,19,M,Married,80.50283916554545,898.0435570270372,Media and Cultural Studies,4,Block,Part-time,True,False,Exempt,2.3511816202654887,4,False,40,213.5788403505219,Unemployed,True
+364,23,F,Married,93.88900912261417,851.2284757243485,Soil and Plant Sciences,4,Block,Part-time,True,True,Unpaid,3.389186982141976,9,False,14,50.96690269130427,Employed,True
+365,20,F,Married,81.64414127423564,811.428576999798,Economics,1,Distance,Part-time,False,True,Paid,1.7650973470002747,8,True,24,246.78639663449053,Unemployed,False
+366,22,M,Divorced,98.21353158870279,876.4800972459277,Office Management,2,Block,Full-time,False,False,Paid,0.07183145500060384,0,False,21,348.273532142852,Student,False
+367,18,M,Single,89.28866472451085,867.8897725077841,TshiVenda,3,Distance,Part-time,True,False,Paid,0.2980418472745603,2,True,17,135.57518058860978,Employed,False
+368,21,M,Single,82.75047549634031,877.2986721305587,TshiVenda,2,Block,Part-time,False,False,Paid,2.0415708853948265,2,False,11,148.35565426434238,Unemployed,False
+369,18,Other,Single,86.81631399579693,895.1442028725681,Fiscal Studies,2,Block,Full-time,False,True,Unpaid,3.8777575027035134,5,False,22,420.9875127031356,Unemployed,True
+370,21,F,Single,83.29649350693524,877.6489302651019,Risk Management and Insurance,4,Block,Part-time,True,False,Unpaid,2.772838168875471,7,False,44,5.181861173588542,Employed,True
+371,18,F,Single,83.4116382311418,861.1336602216647,Fiscal Studies,4,Distance,Part-time,True,True,Unpaid,0.2836647657542781,2,False,38,318.2353542750485,Unemployed,True
+372,23,Other,Single,98.96216640342885,885.7308902360841,Economics,4,Distance,Full-time,True,True,Unpaid,0.7574435031674511,2,False,24,196.9423174708085,Unemployed,True
+373,22,M,Single,88.90492224569576,867.3246439354532,History,1,Distance,Full-time,False,False,Paid,3.0852925728674,5,False,9,149.1902567807345,Student,True
+374,21,Other,Single,95.77604527810719,840.8119056825923,History,2,Distance,Part-time,False,False,Exempt,3.365759039824979,7,False,29,328.7969161219386,Student,True
+375,24,Other,Divorced,92.79211122355363,888.5619764241774,Marketing Management,2,Block,Part-time,False,False,Unpaid,2.4707783447543634,5,True,9,417.3342608948526,Unemployed,True
+376,20,Other,Single,93.52852724676785,822.1900460784373,Marketing Management,1,Distance,Full-time,False,True,Unpaid,2.5776926785192664,9,True,33,279.1960581643368,Unemployed,True
+377,18,F,Divorced,82.63386876944077,871.4641274908724,Hospitality Tourism and Culture,1,Block,Full-time,True,False,Paid,0.11334980153353857,2,False,45,15.547310971528006,Employed,False
+378,18,Other,Married,84.68368893630971,888.1563454940757,TshiVenda,1,Distance,Part-time,False,True,Paid,3.314121038326034,3,False,12,230.70059541278803,Student,False
+379,21,F,Single,95.73500670308874,873.1316519703296,Risk Management and Insurance,2,Distance,Part-time,True,False,Paid,3.1531008326833185,0,False,28,231.37997044698656,Employed,True
+380,20,F,Married,99.41532412949566,869.7275419053857,Media and Cultural Studies,2,Block,Part-time,False,False,Paid,1.0361405764133886,7,True,37,271.8992474023039,Unemployed,True
+381,20,F,Married,85.25351285197303,875.2638294071836,Economics and Finance,4,Block,Full-time,False,True,Exempt,2.834706879862028,3,False,40,335.47945052177613,Employed,False
+382,23,M,Married,85.4313752950208,846.5055248300645,Economics,4,Distance,Part-time,True,True,Exempt,0.8594184256999924,5,True,44,9.659201767170222,Unemployed,True
+383,24,F,Divorced,89.4579426562181,887.4170682157026,XiChangana,2,Distance,Full-time,False,False,Unpaid,0.16132064420605197,2,False,8,251.00631219987523,Student,True
+384,23,F,Married,99.67680625710875,820.3436475136091,Musicology and Ethnochoreology,4,Block,Full-time,False,False,Exempt,0.8045461703615091,5,False,12,294.15388469029534,Student,True
+385,23,M,Married,85.37917891652943,812.7386416000339,Human Resources Management,1,Block,Full-time,True,False,Unpaid,0.714515507017198,8,False,36,171.67669320802597,Unemployed,True
+386,23,F,Married,88.13943819268528,828.5508780118512,"Archaeology, Museums and Heritage Studies",3,Block,Part-time,False,False,Unpaid,1.350991986939389,8,False,13,334.1826132952165,Student,False
+387,23,Other,Single,97.82960031247013,853.1577396774993,Religious Studies,4,Block,Part-time,True,False,Exempt,1.6737979887018324,9,False,36,114.08885856458556,Unemployed,False
+388,23,Other,Single,80.05842065242724,851.0561795409338,Marketing Management,2,Block,Part-time,True,True,Unpaid,2.0341555659908317,2,True,8,158.6861665337258,Employed,False
+389,22,F,Divorced,80.79531929977139,882.0598757676587,Office Management,4,Distance,Full-time,True,True,Paid,1.9070155020333126,2,False,7,481.377673712163,Unemployed,False
+390,20,M,Divorced,92.08143354142439,840.4568656404017,Religious Studies,4,Distance,Part-time,True,True,Unpaid,1.0826984238611574,3,True,38,174.03518543057007,Employed,False
+391,23,Other,Single,98.14760329425694,848.4344426291509,Politics and Public Administration,4,Distance,Full-time,False,True,Paid,0.11668267429629786,6,True,39,173.25044368287251,Unemployed,False
+392,20,M,Divorced,84.77713320803855,801.3367683259396,Economics,3,Distance,Full-time,False,False,Exempt,2.4204064889486028,2,False,2,297.84031791155763,Student,False
+393,20,M,Single,89.39283549361419,840.9739236442939,Development Studies,1,Block,Full-time,False,True,Exempt,1.5829793193894175,9,False,46,485.4876649300301,Unemployed,False
+394,19,Other,Married,89.00930603315636,864.7774232950342,Risk Management and Insurance,2,Block,Full-time,True,True,Unpaid,1.1946886295501988,7,False,39,491.54022297650016,Unemployed,True
+395,22,M,Married,89.45942692191021,801.5508330626592,Geography and Environmental Science,3,Block,Full-time,False,True,Paid,3.4677641713220493,7,True,32,289.82898183815803,Unemployed,False
+396,23,Other,Divorced,92.45039391459491,828.0881965186244,Psychology,2,Distance,Full-time,False,False,Unpaid,2.986973231192639,5,True,31,0.543509902466266,Student,True
+397,18,M,Single,89.39487525981367,820.795635928939,History,2,Block,Part-time,False,True,Exempt,3.431062193489769,3,True,6,450.32827538419986,Unemployed,True
+398,21,Other,Single,88.94936282644916,804.1985428909588,English & Applied Communication,2,Block,Full-time,False,False,Unpaid,1.979931178849844,4,False,18,285.1189822885241,Student,True
+399,24,F,Divorced,89.4857684086252,847.9260089914537,Religious Studies,3,Distance,Part-time,True,True,Unpaid,0.5237250085071099,1,True,33,182.99820414496793,Unemployed,True
+400,18,Other,Single,91.81734882542082,818.1723293228157,Soil and Plant Sciences,1,Distance,Full-time,True,False,Paid,2.7848857444850896,5,True,13,414.5975705079691,Employed,False
+401,22,Other,Married,90.74014976702716,874.308153963138,Internal Auditing,2,Distance,Part-time,False,True,Exempt,0.824295119748701,2,True,49,199.91622967510253,Unemployed,True
+402,21,Other,Divorced,97.08271995301008,884.7927883763349,XiChangana,1,Block,Part-time,True,False,Unpaid,1.7649186763668672,5,False,46,17.022253100132335,Employed,True
+403,22,Other,Divorced,80.98993706987333,854.5585182669148,Marketing Management,1,Block,Part-time,False,True,Paid,0.260003155795554,4,True,45,410.53611152850937,Student,False
+404,20,M,Single,96.66634142946025,898.1707342521141,XiChangana,4,Distance,Part-time,False,False,Unpaid,3.3012336096919297,1,True,18,272.9297005098811,Student,False
+405,21,F,Divorced,96.87849225223448,845.0478571470595,Urban Planning and Development,3,Distance,Full-time,False,False,Paid,0.5037625641900023,4,False,25,169.07176911209808,Unemployed,True
+406,20,Other,Single,85.69816043061921,851.3368210224916,Information Systems,3,Block,Full-time,True,True,Paid,3.6123900281972388,4,False,16,125.4461881769256,Student,False
+407,18,M,Single,89.25703910031702,898.9217753957751,Accounting,4,Distance,Full-time,False,False,Unpaid,3.4569224090462285,8,False,27,296.8987297077128,Unemployed,False
+408,18,F,Single,88.77076977074871,823.1548435965049,TshiVenda,4,Block,Full-time,True,False,Exempt,1.8583310577569843,7,True,18,104.02477411255006,Student,True
+409,21,F,Single,84.37019668708261,894.2545939676905,Internal Auditing,1,Distance,Part-time,True,True,Exempt,2.9774728172159626,6,True,26,161.9254432785016,Employed,False
+410,21,F,Single,87.93593694172633,804.2837555119113,Soil and Plant Sciences,2,Distance,Part-time,False,True,Paid,2.477780295272613,2,True,47,318.2651547069918,Student,True
+411,23,F,Divorced,80.88775544341709,844.6386890263195,Religious Studies,3,Distance,Part-time,True,False,Exempt,3.2123025693509795,9,False,18,440.772225202966,Employed,True
+412,22,Other,Married,85.55644145563468,807.0003512133065,Local Governance Studies,2,Block,Full-time,True,True,Paid,1.7272204031436482,3,True,32,266.4451641957994,Unemployed,True
+413,23,Other,Married,96.33364350901437,872.9234742913643,English & Applied Communication,2,Block,Part-time,False,True,Exempt,3.1432339369774,5,False,6,379.5531991495463,Unemployed,True
+414,22,M,Divorced,85.69124603525795,860.8408935880018,Religious Studies,4,Distance,Full-time,True,True,Unpaid,1.8498272682605919,2,False,28,381.5303018815209,Unemployed,True
+415,23,M,Divorced,96.36413337496495,870.6634263467596,Risk Management and Insurance,2,Block,Part-time,True,False,Exempt,3.7638631513711753,8,True,42,332.1769763296934,Employed,False
+416,20,M,Married,90.63198929208862,837.4480399968018,Hospitality Tourism and Culture,1,Distance,Part-time,False,False,Paid,1.9454884033005904,7,True,4,122.91916884025883,Unemployed,True
+417,21,F,Married,97.5972535472232,836.948193403138,Hospitality Tourism and Culture,4,Distance,Part-time,False,False,Paid,1.8504770877349181,5,True,29,433.39429907512095,Unemployed,True
+418,18,F,Married,91.49559108528831,804.5319278960894,Risk Management and Insurance,2,Block,Part-time,True,False,Exempt,3.140287446254051,3,False,48,218.13782781978324,Employed,True
+419,22,Other,Married,80.5933644612948,834.9944939529639,Marketing Management,4,Block,Part-time,False,False,Unpaid,3.286310767043352,6,False,42,22.105371967850285,Student,True
+420,22,F,Married,93.50840415094179,892.9288402262059,Internal Auditing,1,Block,Full-time,False,False,Paid,2.217956457284683,2,True,7,122.30633503476257,Unemployed,True
+421,18,F,Single,80.89707136047137,837.9226537180449,Transport and Logistics,1,Block,Part-time,True,False,Paid,0.7191912539803016,9,False,41,382.7741770496579,Student,True
+422,23,F,Divorced,89.01194037966268,883.136770622197,Economics,2,Distance,Full-time,True,True,Paid,1.871032923830318,7,True,11,34.566667908744684,Student,True
+423,22,M,Single,98.58853388946228,884.2325504749934,"Peace, Conflict and Governance",4,Block,Full-time,False,False,Paid,3.8722900116387136,0,True,41,73.6822010774556,Unemployed,False
+424,24,M,Married,83.304078786757,837.3241156379233,Sociology,2,Block,Full-time,True,False,Paid,3.0119447721567405,2,True,12,347.1134080208522,Unemployed,False
+425,20,Other,Married,87.79744705883088,863.1988680396189,"Archaeology, Museums and Heritage Studies",2,Distance,Full-time,False,True,Unpaid,3.2446504155165288,4,False,25,446.3003948637703,Employed,False
+426,21,F,Married,94.59720617696956,809.5371602273059,"Archaeology, Museums and Heritage Studies",4,Distance,Full-time,False,True,Exempt,0.13130199527696051,4,False,17,316.8660025288184,Employed,False
+427,18,F,Single,97.64517112189695,810.3678580734277,Psychology,2,Distance,Full-time,True,True,Unpaid,1.8714378505366396,9,True,41,111.1455269147773,Unemployed,True
+428,21,Other,Single,93.41886009485016,804.8657663661713,Gender and Social Anthropology,1,Distance,Full-time,True,False,Unpaid,2.5864845346302214,1,True,48,26.706881624774304,Student,True
+429,24,F,Married,85.16346508382338,858.101509337511,Risk Management and Insurance,4,Block,Full-time,False,True,Paid,3.320130734512299,9,False,19,307.56329127515585,Employed,True
+430,22,F,Single,93.49215705832432,842.6070977626097,Banking and Finance,4,Block,Part-time,False,False,Unpaid,0.19709461433108588,7,True,15,23.69928896558199,Employed,False
+431,22,M,Single,85.9345528220818,854.803235666424,Computer Sciences,4,Distance,Part-time,False,False,Paid,3.4097555425674924,4,False,36,306.3610259708785,Unemployed,True
+432,24,Other,Married,94.3685845963747,852.1073190508388,Accounting,4,Distance,Full-time,False,False,Unpaid,2.193603746967647,6,True,2,112.78997208054753,Unemployed,True
+433,18,Other,Single,99.08066255170081,835.020299109073,Gender and Social Anthropology,2,Block,Full-time,True,True,Paid,0.7892558823042397,6,False,26,452.32803120441486,Unemployed,False
+434,20,Other,Divorced,94.42786902212576,867.7473414823473,Transport and Logistics,2,Block,Full-time,False,True,Paid,1.2690208657988,4,True,14,237.54633424368095,Unemployed,False
+435,19,Other,Divorced,97.25761005824825,875.8501880916391,Musicology and Ethnochoreology,1,Block,Part-time,True,False,Unpaid,1.127718207006243,7,False,33,111.96921665484783,Employed,True
+436,18,M,Divorced,80.04207686351766,801.4628258877676,Internal Auditing,3,Block,Part-time,True,False,Unpaid,2.1234361371539032,8,True,44,426.5726582792958,Employed,True
+437,19,M,Divorced,94.35144249463188,820.7242299768878,Hospitality Tourism and Culture,3,Block,Full-time,False,False,Exempt,0.20674271964452728,3,False,21,127.01769922375416,Employed,True
+438,24,F,Married,96.59175113730501,871.3235868083336,Internal Auditing,1,Distance,Full-time,True,True,Exempt,0.6341446339996941,3,False,39,153.29953826243775,Student,False
+439,23,F,Married,80.81117475089363,838.6620172633834,English & Applied Communication,3,Distance,Part-time,True,False,Exempt,3.2507721735031296,7,False,22,417.13894952772785,Employed,True
+440,19,F,Married,97.43195454576461,866.2483946941609,Fiscal Studies,1,Distance,Part-time,False,True,Unpaid,0.5304159629872442,0,False,48,154.39601490029798,Employed,True
+441,20,F,Divorced,85.13388456620092,834.6962659734559,Banking and Finance,2,Distance,Full-time,True,False,Unpaid,0.9335850778325079,3,True,3,205.08188461531867,Unemployed,True
+442,23,M,Divorced,93.3058420395611,839.0755152329637,Business Management,4,Block,Full-time,True,True,Paid,1.8134824224166293,5,False,40,173.83283537943328,Employed,False
+443,19,Other,Single,96.00709758046813,815.8678873689685,Religious Studies & Philosophy,4,Distance,Full-time,False,False,Exempt,2.068483552453322,3,False,22,58.20015891518793,Employed,True
+444,24,M,Single,93.2532902611871,825.823101966616,Religious Studies & Philosophy,2,Block,Full-time,False,True,Paid,3.0544419184566345,5,True,46,19.447906123413073,Employed,True
+445,23,F,Divorced,81.84569584146514,860.5411757507587,English & Applied Communication,4,Block,Part-time,False,True,Paid,1.789329706664751,4,False,8,362.2703370304907,Unemployed,False
+446,24,M,Divorced,91.92643037720737,843.3163111315166,Office Management,4,Block,Part-time,False,True,Paid,3.159458484142155,8,True,23,322.5685619678603,Employed,True
+447,19,Other,Divorced,90.99167313444288,877.4302682944596,"Peace, Conflict and Governance",3,Block,Full-time,False,True,Paid,2.47338522818183,9,False,20,141.1830337760286,Employed,True
+448,24,Other,Divorced,98.00642536148543,885.2584954938343,Geography and Environmental Science,2,Block,Full-time,False,True,Exempt,0.4523989576952898,8,False,40,147.79956249243926,Student,False
+449,20,M,Single,88.08479459288418,854.164641821676,Politics and Public Administration,3,Block,Full-time,False,True,Paid,0.6253257535713543,3,False,45,472.50289150434065,Student,False
+450,19,M,Divorced,86.42162194174101,875.826729205606,Soil and Plant Sciences,3,Block,Part-time,True,False,Unpaid,1.7481349017990833,3,False,15,493.8355636167461,Student,True
+451,19,M,Single,94.99701528872933,830.690451319457,Banking and Finance,4,Distance,Full-time,True,False,Unpaid,1.5875575723561584,7,False,24,236.71745161684677,Student,True
+452,19,F,Divorced,88.25350652166793,841.4971215400078,Soil and Plant Sciences,4,Block,Full-time,False,False,Unpaid,2.9741770785491783,9,False,25,401.2258727407468,Unemployed,False
+453,18,M,Divorced,92.92192350010126,871.2777676216831,Marketing Management,2,Distance,Full-time,True,False,Exempt,2.3229485591894075,3,True,48,368.3429379346827,Student,False
+454,18,M,Divorced,92.92900180249214,838.6211992817031,Soil and Plant Sciences,4,Distance,Part-time,True,True,Paid,1.5525323240089972,1,True,44,148.65885475602346,Employed,False
+455,18,M,Single,97.76078128720235,858.8504935158988,Geography and Environmental Science,4,Block,Full-time,False,False,Exempt,0.6830411338015425,1,False,8,29.281355260239174,Student,False
+456,20,Other,Single,91.97384804638195,818.5372779082511,English & Applied Communication,2,Block,Part-time,True,True,Paid,0.9073484093019806,0,False,14,71.27812856747,Unemployed,False
+457,23,Other,Married,90.04307219923973,859.9771314970498,Gender and Social Anthropology,4,Distance,Full-time,False,True,Exempt,2.302004073876236,4,True,38,419.1470585003817,Student,True
+458,24,F,Divorced,82.77742652793034,886.1513707226893,Media and Cultural Studies,3,Distance,Full-time,True,True,Exempt,1.6937552195991699,5,True,32,365.60690999814057,Student,False
+459,22,F,Married,82.3147521335741,886.8639639823425,Psychology,2,Distance,Full-time,False,False,Paid,2.0597100354426883,8,False,0,332.1674222311389,Unemployed,True
+460,19,Other,Married,83.08643130566159,872.434440632954,History,4,Distance,Part-time,True,True,Exempt,0.6827097412089347,4,False,4,65.32441584832415,Unemployed,False
+461,24,Other,Single,83.4369696265419,874.5753379076126,Information Systems,1,Block,Full-time,True,False,Paid,2.651625009378263,5,False,8,319.96534372526236,Unemployed,False
+462,19,Other,Single,92.75754185327267,855.7927445150701,Economics,2,Block,Full-time,True,False,Unpaid,3.410154963423868,5,False,43,386.0761657465577,Unemployed,True
+463,20,M,Married,94.81962500549157,858.4668090165825,Sociology,2,Block,Part-time,False,False,Unpaid,1.0317580271476023,2,False,5,430.3008749301453,Unemployed,True
+464,19,M,Divorced,90.59983045852837,813.3650581410518,Office Management,1,Distance,Part-time,True,False,Unpaid,1.9660569033273063,3,False,27,6.615639596809109,Unemployed,False
+465,18,Other,Single,96.58035465090983,844.3859188421301,Local Governance Studies,4,Block,Part-time,True,False,Exempt,3.902109316083607,0,True,44,342.2375509392389,Employed,True
+466,22,M,Divorced,99.82526453467267,845.0776283886364,"Archaeology, Museums and Heritage Studies",4,Distance,Full-time,False,True,Unpaid,1.3329669622029106,3,False,25,9.548827801602211,Student,True
+467,21,M,Divorced,96.40025258238713,895.849783566774,Business Management,2,Block,Part-time,False,True,Paid,2.3801853796950447,0,False,27,353.43642277171926,Student,True
+468,19,F,Married,93.89764747351919,843.108686262329,Risk Management and Insurance,2,Distance,Full-time,True,False,Unpaid,0.36078280080097747,4,True,39,317.8106823660024,Unemployed,False
+469,24,Other,Married,90.64985398874293,854.9342644902757,Transport and Logistics,4,Block,Part-time,True,True,Unpaid,2.4240600099177727,7,True,14,74.17393145948625,Unemployed,True
+470,18,Other,Married,88.97706143349416,853.3251399279103,Accounting,4,Block,Part-time,True,False,Exempt,0.35852709321847165,7,True,5,383.06087567256515,Employed,True
+471,21,M,Married,81.68784761089084,863.6761717044327,Psychology,3,Distance,Part-time,True,True,Paid,3.836941741295288,4,True,26,34.17380909484557,Employed,False
+472,22,Other,Single,87.98737496789381,874.8232831331895,Human Resources Management,2,Distance,Full-time,False,True,Exempt,2.8626506082892456,9,False,37,413.1993868723167,Unemployed,False
+473,21,F,Single,98.20269273564269,822.5041876170872,Soil and Plant Sciences,2,Distance,Full-time,True,True,Exempt,3.1526391525428257,1,True,3,130.9646224241145,Employed,True
+474,18,F,Married,96.16045259813106,852.8724419098436,Urban Planning and Development,1,Distance,Full-time,True,True,Paid,2.8164174430865474,5,True,10,344.4259311503325,Employed,False
+475,23,F,Single,84.32102730023374,882.591770731603,Banking and Finance,3,Distance,Full-time,False,True,Exempt,2.358916144305863,0,False,20,461.84467051093515,Unemployed,False
+476,23,Other,Married,89.33215569394432,846.3114713837512,Marketing Management,4,Block,Full-time,True,True,Paid,1.7996511243420215,6,True,29,169.91351233672447,Unemployed,False
+477,21,Other,Divorced,96.3344640511709,827.8457546373573,Soil and Plant Sciences,3,Distance,Full-time,True,True,Unpaid,3.4334935190442497,3,True,17,251.4470389702096,Unemployed,True
+478,20,Other,Divorced,81.34769109571045,865.4709075356299,Gender and Social Anthropology,4,Block,Full-time,True,True,Paid,3.827342670172252,4,False,34,231.55901697522518,Unemployed,False
+479,24,Other,Divorced,87.74785171337318,882.3767395799123,Gender and Social Anthropology,4,Block,Full-time,False,True,Paid,1.9961446916163252,5,False,2,78.80567453143405,Student,False
+480,24,Other,Married,97.03682473747895,806.3140292927392,Fiscal Studies,3,Block,Full-time,False,True,Paid,3.726140196621048,0,False,11,295.1560052453808,Student,False
+481,21,F,Divorced,88.07795728340247,877.6790483407227,Religious Studies,2,Block,Part-time,True,True,Exempt,2.33333163995407,8,False,26,371.500959260474,Unemployed,True
+482,19,M,Single,81.55229289462882,882.1647932961771,Statistics and Operations Research,4,Block,Part-time,True,True,Paid,2.1535367475857328,9,False,29,458.4374144619096,Employed,False
+483,19,F,Divorced,90.85068737064503,846.1522927588607,XiChangana,3,Distance,Full-time,False,True,Paid,1.8179309318214267,3,False,20,425.4013008247564,Unemployed,False
+484,24,Other,Divorced,97.23484989836591,898.3305656818468,Gender and Social Anthropology,1,Distance,Full-time,True,False,Paid,0.8371510461204794,7,False,37,255.00968986401585,Student,False
+485,24,F,Divorced,91.8057108590632,878.670834070731,Sociology,3,Block,Full-time,True,True,Unpaid,0.014878643272236758,4,True,20,359.5085772559674,Employed,True
+486,23,Other,Single,84.52558216428463,877.3662564895666,Business Management,1,Block,Full-time,False,True,Paid,0.9660249074242451,7,True,37,400.3917066869464,Student,False
+487,20,Other,Married,87.68479240274763,874.7838574412071,Marketing Management,4,Distance,Part-time,False,True,Exempt,2.0388926864142607,0,False,39,246.7443568691744,Unemployed,False
+488,18,F,Single,89.00246722363865,815.0608103218274,English & Applied Communication,3,Distance,Part-time,False,True,Paid,1.5198398090390102,7,True,14,57.71378035213387,Student,True
+489,19,Other,Married,91.58532707641054,821.7230886453011,Geography and Environmental Science,3,Block,Full-time,True,True,Paid,1.7939409120105352,3,False,17,218.9653819236854,Student,False
+490,24,M,Married,95.18702051505227,846.3990131464425,Marketing Management,1,Distance,Part-time,True,True,Unpaid,3.9225928782561983,1,True,28,421.23901910078246,Student,False
+491,23,Other,Divorced,81.97747235281271,826.4004349959466,Hospitality Tourism and Culture,3,Distance,Part-time,True,False,Paid,1.4010894826773104,5,False,47,298.3207026968675,Employed,False
+492,22,M,Married,97.79304066035132,841.5240972334041,Marketing Management,3,Distance,Full-time,True,False,Exempt,1.8087317574404316,1,True,37,362.2291885046695,Student,False
+493,23,M,Single,80.24619406032151,888.846410992292,Development Studies,4,Block,Full-time,False,False,Paid,0.5340622054112782,4,False,20,92.63401107629376,Employed,False
+494,19,Other,Single,87.4010466934851,882.4326891879269,Development Studies,3,Distance,Full-time,True,True,Exempt,0.19183092974795057,1,True,16,482.16888410550285,Unemployed,False
+495,19,F,Married,80.54840619945315,863.0039878479982,History,2,Block,Full-time,True,True,Unpaid,3.1016380583699785,2,False,40,202.0402647466547,Unemployed,False
+496,23,M,Divorced,87.85948450690583,885.8120394251104,Information Systems,1,Block,Part-time,False,True,Paid,2.2827327002879145,5,True,17,326.81776135886446,Student,False
+497,18,F,Divorced,90.51625197746648,878.3772389017249,Fiscal Studies,3,Block,Full-time,False,False,Unpaid,3.04281922417558,0,True,36,9.436127295302633,Employed,True
+498,21,M,Single,90.23362773163024,842.898493184089,Economics,1,Block,Part-time,True,True,Paid,0.5994511955462065,5,False,37,63.65963112764567,Unemployed,True
+499,19,Other,Divorced,83.3125669405653,820.1065152049945,Urban Planning and Development,1,Block,Full-time,False,True,Exempt,2.2873150847307637,2,True,11,391.0171349424595,Employed,True
+500,23,Other,Married,92.91481020191225,851.4201040009339,Business Management,1,Distance,Part-time,False,False,Unpaid,1.0145698973655022,6,True,10,483.98472276012734,Employed,True
+501,24,M,Married,80.89556901009337,873.622888252855,Human Resources Management,3,Block,Full-time,True,False,Paid,0.9122472676000797,1,True,47,160.02767752773912,Student,False
+502,23,Other,Single,95.23813640264831,843.6419598729593,Urban Planning and Development,3,Block,Full-time,True,True,Exempt,0.046104056211941025,5,True,48,18.59036747063242,Student,True
+503,20,M,Married,98.93288867987093,866.6771909783897,Gender and Social Anthropology,1,Block,Part-time,True,True,Unpaid,0.5213628942762876,7,True,19,180.43330099006877,Employed,True
+504,21,Other,Single,86.79537654302236,809.4327426291044,"Peace, Conflict and Governance",2,Distance,Part-time,True,True,Paid,1.2370724459987814,0,False,8,8.734065139501313,Employed,False
+505,22,F,Married,90.34478763428663,874.8004736371404,Religious Studies & Philosophy,1,Distance,Part-time,False,True,Unpaid,0.4675150423637562,8,False,0,96.18654613123456,Student,False
+506,18,Other,Single,87.57820556117629,881.2713619893062,Urban Planning and Development,2,Distance,Full-time,False,False,Paid,3.94343376164375,4,True,2,376.2360075268692,Employed,True
+507,22,F,Divorced,80.13420780608119,870.6837855780541,XiChangana,1,Distance,Part-time,True,True,Exempt,1.2345305940958027,4,False,20,468.54419905324806,Student,True
+508,21,Other,Married,87.71749005790232,896.7263587526365,Gender and Social Anthropology,4,Distance,Part-time,True,True,Exempt,0.5212957868093127,4,True,22,43.72454218444333,Employed,False
+509,21,F,Married,95.83440518522693,882.6652057460641,Office Management,1,Distance,Part-time,False,False,Unpaid,0.796329251311831,5,False,8,278.9503894052546,Student,True
+510,21,Other,Single,91.91977684366964,890.3093727876538,Media and Cultural Studies,1,Distance,Part-time,True,True,Unpaid,2.350812913365906,1,True,18,126.94042306201597,Employed,True
+511,22,F,Single,82.02519829230317,893.3571083457648,Finance,3,Block,Part-time,True,True,Paid,0.25617409545915404,5,True,44,69.52956289696476,Student,True
+512,24,M,Married,96.9427897938757,880.1347991873808,XiChangana,2,Block,Part-time,True,False,Exempt,3.4497365205646275,3,True,45,109.49011494577876,Employed,False
+513,21,M,Single,90.62170689770485,867.4258842006499,Transport and Logistics,4,Distance,Part-time,True,False,Paid,3.845998716948589,7,True,18,288.8815337488537,Unemployed,True
+514,23,F,Married,96.83446723489352,800.571858136079,"Peace, Conflict and Governance",2,Block,Part-time,False,True,Exempt,0.9869896826695235,8,False,22,32.56725072198052,Unemployed,False
+515,22,Other,Divorced,91.60443037570059,846.5825753223124,Musicology and Ethnochoreology,4,Block,Part-time,True,False,Unpaid,1.8003810743634374,8,False,26,217.10929808420875,Employed,True
+516,21,F,Single,91.1937688967588,857.1162298622361,Statistics and Operations Research,1,Distance,Full-time,False,False,Paid,0.08853780411798828,7,False,26,67.61392547758194,Unemployed,True
+517,23,Other,Married,82.10518370394024,830.4030272448,Business Management,3,Block,Full-time,True,True,Paid,2.562840898908886,2,True,38,136.33852619724075,Employed,True
+518,24,M,Divorced,83.34719466277257,831.8104446903473,Computer Sciences,3,Block,Part-time,True,False,Exempt,1.6557042322103555,9,False,35,95.37716487163195,Employed,True
+519,20,Other,Divorced,99.44050512993182,896.1159415710165,English & Applied Communication,2,Distance,Full-time,False,True,Exempt,1.0802338644062228,3,False,11,441.4877499154486,Unemployed,False
+520,24,M,Married,84.56973493509541,889.1710865202746,Business Management,3,Block,Full-time,True,True,Exempt,0.8273484424664339,0,True,26,354.00566543564474,Employed,False
+521,21,Other,Single,99.54904235980736,884.9179005501704,Urban Planning and Development,2,Distance,Part-time,False,True,Unpaid,2.6160923106350418,8,True,45,434.2312894737352,Student,True
+522,22,Other,Married,90.63825413048527,840.6011801706111,"Peace, Conflict and Governance",2,Distance,Part-time,True,True,Paid,1.6648681241292578,4,True,33,191.73141727384623,Employed,False
+523,19,Other,Divorced,82.71578094127874,801.3698550408915,Human Resources Management,4,Block,Part-time,True,False,Exempt,0.7186371561196481,5,False,32,156.70668242683504,Employed,True
+524,21,F,Married,81.98604405507386,808.0222246455714,Religious Studies,2,Block,Part-time,True,True,Unpaid,2.756436325947296,2,False,27,190.29359744888353,Unemployed,False
+525,19,F,Single,84.1772814141148,831.2196368217603,Soil and Plant Sciences,4,Block,Part-time,True,True,Exempt,2.2602891321467746,9,True,30,9.274097862203734,Student,False
+526,23,M,Divorced,98.51274660050672,801.5742912995677,Business Management,3,Distance,Part-time,True,True,Paid,3.4346882197179847,7,False,31,362.3521375742791,Employed,False
+527,20,M,Married,88.28300448656454,801.7149781915198,Soil and Plant Sciences,2,Distance,Full-time,False,True,Exempt,0.4699035955059716,6,True,49,174.88622844753914,Employed,True
+528,18,F,Single,87.90868535985828,891.6603301642411,Politics and Public Administration,2,Distance,Part-time,False,False,Paid,3.1426664077778246,0,False,19,156.66190178839585,Employed,True
+529,24,M,Divorced,86.26412522140348,870.6158502119054,Transport and Logistics,1,Block,Full-time,True,False,Unpaid,2.694067147269036,9,True,39,299.07053268526647,Employed,False
+530,20,F,Single,82.94123701133176,830.8955990068152,Information Systems,2,Block,Part-time,True,False,Unpaid,0.4600437473123913,4,False,34,218.12495585490822,Employed,True
+531,21,Other,Divorced,89.75702394384813,813.2644577600953,Fiscal Studies,2,Distance,Part-time,False,True,Exempt,2.779282919486883,9,False,30,490.4216841119493,Employed,False
+532,19,M,Married,82.60095565022277,851.1635717895077,Statistics and Operations Research,1,Block,Full-time,False,False,Paid,1.7661891555193217,8,False,30,178.12652144940066,Student,True
+533,24,M,Single,96.70960472764655,800.5346160854365,Development Studies,1,Block,Part-time,True,False,Paid,3.7799391422233724,5,True,37,306.9479211039567,Student,True
+534,19,F,Divorced,87.40793972550613,893.8413743858144,Internal Auditing,3,Distance,Part-time,True,True,Paid,0.5664454024715972,7,True,21,155.82555030482587,Employed,True
+535,22,M,Single,87.49607135563593,841.4815119388948,Finance,2,Distance,Full-time,False,False,Exempt,2.571333563262952,9,True,44,495.29749010532834,Employed,False
+536,19,M,Single,89.48012856966312,840.2334955237333,Accounting,3,Block,Part-time,True,True,Paid,1.5279201818517838,0,False,40,222.55551736006407,Unemployed,False
+537,22,Other,Married,88.88255426331503,839.0593607581782,Human Resources Management,3,Distance,Full-time,False,False,Paid,3.827258682363511,9,True,8,317.0644054334015,Student,True
+538,23,M,Single,99.89715946118643,806.9328330387765,"Archaeology, Museums and Heritage Studies",1,Block,Part-time,True,False,Paid,1.3198995811611058,6,False,8,63.36083547633853,Student,False
+539,24,Other,Divorced,90.90762242436605,863.8322239791827,Risk Management and Insurance,4,Distance,Part-time,False,False,Paid,3.8487436379672006,2,True,14,366.51210743182907,Employed,True
+540,24,F,Divorced,81.76403407579741,873.3003619628354,Local Governance Studies,3,Distance,Full-time,False,False,Exempt,3.6059434044029963,8,True,12,134.605028937811,Student,True
+541,18,M,Divorced,92.1375468315386,867.612539758829,Risk Management and Insurance,4,Distance,Part-time,True,True,Exempt,1.0815329412426253,5,False,21,224.30662641483596,Student,False
+542,21,Other,Divorced,83.0316858573976,813.8435493329395,Media and Cultural Studies,2,Block,Full-time,False,True,Paid,3.2141671073057108,4,False,15,441.56653116372894,Unemployed,False
+543,22,F,Married,80.61875289462684,857.8840168035592,Fiscal Studies,1,Block,Full-time,True,False,Paid,3.982416807214024,7,True,31,485.27625744255073,Unemployed,False
+544,18,M,Single,99.41484307354496,856.9484484172253,Local Governance Studies,2,Distance,Full-time,True,True,Unpaid,1.0106520086851294,7,True,1,212.2860509201785,Student,True
+545,19,F,Married,95.47077783069128,886.8410787941382,"Livestock, Wildlife and Fisheries",2,Distance,Part-time,True,False,Unpaid,1.7471086772932787,2,False,25,417.4013339772499,Student,True
+546,19,M,Single,99.60217984827534,837.9127658375647,Hospitality Tourism and Culture,1,Distance,Part-time,True,False,Paid,2.0807229462670387,1,False,13,26.674497274930374,Student,True
+547,18,F,Single,89.55756896044485,837.1485943659434,"Livestock, Wildlife and Fisheries",2,Block,Full-time,False,False,Paid,1.1797245432154573,1,True,37,423.7870148951313,Employed,False
+548,24,F,Single,90.64515062297951,861.8527058718186,Local Governance Studies,1,Distance,Part-time,True,False,Unpaid,0.06105935858411904,4,False,33,314.75516107632484,Unemployed,False
+549,19,Other,Married,83.36673911838261,863.3072653499513,Religious Studies & Philosophy,4,Distance,Part-time,True,False,Unpaid,0.8805169767901067,9,True,7,244.353084195801,Employed,True
+550,23,F,Single,84.93814853335171,846.928522732579,Musicology and Ethnochoreology,2,Distance,Part-time,True,False,Paid,1.1277475373670338,6,True,35,444.9818525686239,Unemployed,True
+551,23,M,Married,96.77098429805656,844.3059362330421,English & Applied Communication,1,Distance,Full-time,True,True,Exempt,1.7743988052727486,7,True,20,422.6686112532069,Unemployed,True
+552,18,M,Divorced,87.12371294235189,849.4147670637883,Transport and Logistics,3,Block,Part-time,False,True,Exempt,0.6844099136536075,9,False,45,148.472547976786,Unemployed,False
+553,22,Other,Divorced,96.53629947592839,886.1045299503312,Computer Sciences,2,Block,Full-time,True,False,Paid,3.4930174267666905,7,True,42,395.74419117237875,Student,False
+554,22,M,Single,94.18027448574064,846.116690125391,Economics,4,Distance,Part-time,False,True,Paid,2.8196445309253444,7,True,27,49.745466831186306,Unemployed,True
+555,18,M,Married,83.54341850543732,893.9931791969823,Religious Studies & Philosophy,1,Block,Part-time,False,False,Unpaid,0.3408019102386479,9,False,45,411.3819677336851,Employed,True
+556,22,M,Divorced,90.14892732239484,850.4003763596326,Risk Management and Insurance,2,Block,Full-time,False,True,Unpaid,2.6003698045597257,2,False,43,337.72780901162525,Unemployed,False
+557,24,F,Married,93.54774643037433,894.9200693180892,Transport and Logistics,2,Block,Part-time,True,True,Exempt,2.6146259056224816,1,False,47,43.93316546597137,Employed,False
+558,24,F,Married,84.70074429607651,883.2831901869076,Musicology and Ethnochoreology,2,Distance,Full-time,True,True,Paid,3.8248846945745107,3,True,5,341.5400867370677,Unemployed,True
+559,22,M,Single,96.61377021040154,836.2431322615829,Psychology,4,Block,Part-time,True,False,Unpaid,0.01208348542464499,0,False,19,290.2596383381851,Unemployed,True
+560,23,Other,Divorced,90.89655315090374,886.3641421296616,Development Studies,1,Block,Full-time,True,True,Exempt,0.9917297992232288,2,False,30,297.2750505725224,Student,False
+561,22,F,Single,83.30484100885207,811.0063284201116,XiChangana,3,Block,Part-time,False,False,Exempt,3.711165917501262,8,True,32,145.4319675648493,Employed,True
+562,24,Other,Single,91.65968852329205,892.5047175343014,TshiVenda,3,Distance,Part-time,False,False,Exempt,3.728535661593132,6,True,43,133.24860000642263,Unemployed,True
+563,20,M,Divorced,99.99427608311828,863.1643515082892,Transport and Logistics,3,Distance,Part-time,True,False,Unpaid,2.8823456774825496,6,True,6,381.26755602701,Unemployed,True
+564,21,M,Divorced,83.01042983326828,805.4390748522311,Economics,1,Block,Full-time,True,True,Unpaid,3.06305328419016,0,True,7,128.40674050861955,Employed,True
+565,19,F,Married,96.33513860239056,864.4256723650811,Computer Sciences,3,Block,Full-time,True,True,Paid,0.36593183171858845,6,False,8,223.13112590494933,Unemployed,False
+566,20,M,Divorced,84.14618006375116,897.4247654144756,History,4,Distance,Full-time,True,True,Paid,2.0555033391129345,9,True,1,347.39449929939235,Student,False
+567,22,F,Married,95.64776658920175,806.9800654614629,History,1,Distance,Part-time,True,False,Exempt,0.9263319651559976,6,False,16,39.80812566371888,Employed,False
+568,23,M,Married,94.69155846242826,855.4687709780086,Economics and Finance,2,Block,Full-time,True,False,Exempt,0.724872174454469,3,True,44,297.2741913058286,Student,True
+569,18,M,Married,86.00978771200865,874.7794349759372,Soil and Plant Sciences,4,Block,Full-time,True,True,Unpaid,3.24121319649333,6,True,36,294.6881863240586,Employed,False
+570,22,F,Divorced,86.516462351289,881.0258586699531,Finance,2,Distance,Full-time,False,False,Unpaid,0.5401525467221897,7,False,41,342.11435544401274,Employed,True
+571,23,F,Single,95.85042783925839,841.3827465320796,Computer Sciences,3,Distance,Full-time,False,True,Paid,1.874606547985541,2,False,43,184.96404765282932,Employed,True
+572,21,F,Married,89.22891023774625,820.4166559168243,History,4,Block,Full-time,False,True,Paid,3.754312958344132,9,False,16,224.48988703191986,Unemployed,False
+573,22,M,Single,94.61636057423618,804.2342278772384,Hospitality Tourism and Culture,1,Distance,Full-time,False,True,Paid,0.7433282222613702,1,True,37,164.9846569723468,Employed,False
+574,24,M,Single,82.9596829473167,857.9726157097225,Accounting,4,Block,Full-time,True,True,Unpaid,3.9119736949529385,6,True,34,404.0841235943879,Employed,True
+575,18,Other,Divorced,97.05115563803108,845.2911070267611,TshiVenda,2,Block,Full-time,True,False,Exempt,3.977151943044236,4,False,46,65.30538001806624,Employed,True
+576,23,F,Single,94.21769433364638,894.8744395149711,Computer Sciences,1,Block,Full-time,True,True,Paid,2.2224686187296117,4,False,38,481.4769767876649,Student,False
+577,23,M,Single,98.13885617669668,806.060490771491,Media and Cultural Studies,4,Distance,Full-time,True,True,Paid,0.6805709607086317,4,True,29,317.4180779896087,Employed,False
+578,23,M,Divorced,82.64744758069945,868.5395343446006,"Archaeology, Museums and Heritage Studies",4,Block,Part-time,True,True,Unpaid,1.2644195517635826,6,False,5,443.45336219608794,Unemployed,False
+579,21,F,Married,91.86029000721196,802.4966222120057,TshiVenda,4,Block,Part-time,False,True,Paid,1.6979713307061406,8,False,3,213.11572913238214,Employed,True
+580,22,Other,Single,91.98241170080651,817.1434176710543,English & Applied Communication,4,Distance,Full-time,True,True,Exempt,1.2372968974328917,7,True,36,166.13953519599832,Employed,False
+581,21,F,Divorced,87.06921481093565,845.3578999922834,Musicology and Ethnochoreology,1,Distance,Part-time,False,True,Unpaid,1.122542319506063,5,False,34,450.36290506199174,Student,True
+582,19,Other,Single,89.16932849138516,845.4872442802869,English & Applied Communication,2,Block,Part-time,True,True,Paid,3.88891883686543,6,True,8,49.43651443815139,Unemployed,False
+583,19,M,Single,80.75963126579707,868.5700542933644,Politics and Public Administration,4,Block,Full-time,False,False,Paid,0.6134593096629826,8,True,5,58.5536157526389,Unemployed,True
+584,22,Other,Married,94.91720077254024,891.0213034867757,Fiscal Studies,1,Distance,Full-time,True,False,Unpaid,2.933311634867449,5,True,12,149.67338824233866,Unemployed,True
+585,24,M,Single,90.98644958806348,863.9032158914921,Information Systems,2,Distance,Full-time,False,False,Unpaid,0.001641157756699485,0,False,21,479.8874908831592,Employed,True
+586,21,F,Divorced,81.15482103738347,895.3535097851509,Urban Planning and Development,4,Distance,Part-time,True,False,Paid,2.3847306776095074,3,False,27,316.53430493255354,Employed,False
+587,18,F,Single,93.6151178592097,888.1615639877998,Geography and Environmental Science,2,Block,Full-time,True,True,Exempt,3.6637720158162095,7,False,29,277.0968483076991,Unemployed,False
+588,23,F,Married,89.33564154462375,858.4499795530791,Religious Studies & Philosophy,2,Block,Part-time,True,False,Unpaid,1.151736376372876,6,False,35,352.6781681777103,Unemployed,True
+589,23,Other,Married,80.6892251885,883.3791950918827,Accounting,1,Block,Full-time,True,False,Exempt,0.7421039010308768,2,True,1,208.7372780390831,Student,False
+590,22,M,Divorced,99.39215453696191,864.2577610323634,History,2,Distance,Part-time,False,False,Paid,2.606719179513708,9,True,35,379.0367507103996,Unemployed,False
+591,24,F,Married,98.9822428617888,807.8557830923727,Internal Auditing,1,Block,Part-time,True,True,Exempt,2.8504056291935727,2,False,7,196.6153489864388,Employed,True
+592,19,F,Single,90.25804832294395,874.056472325951,XiChangana,4,Distance,Full-time,False,False,Paid,2.7521220758079252,2,False,44,413.18159242823225,Employed,False
+593,19,M,Married,81.8734484141182,809.4908441267346,Internal Auditing,2,Block,Full-time,True,False,Paid,1.2772675200854962,0,False,41,133.64754103825226,Employed,False
+594,23,F,Divorced,95.09242443197184,859.4082780569712,Banking and Finance,2,Distance,Part-time,False,True,Paid,1.0088096086373235,9,False,49,138.7733296490121,Student,True
+595,22,M,Married,89.83862200211458,870.2640205858229,Marketing Management,3,Block,Part-time,True,False,Paid,3.823675199848177,0,True,8,261.1916527133676,Unemployed,True
+596,21,M,Married,86.0489495657876,806.6527608210855,"Archaeology, Museums and Heritage Studies",4,Block,Full-time,True,True,Exempt,3.693198033079718,5,False,0,215.38057918086756,Employed,True
+597,19,M,Married,89.82836355057114,823.0794653926532,Sociology,4,Distance,Full-time,False,False,Paid,1.8292664395712812,0,True,12,324.0579221423477,Student,True
+598,21,M,Divorced,90.44888290810928,891.567223226165,Hospitality Tourism and Culture,3,Distance,Part-time,True,True,Paid,3.3847754646174937,4,False,49,182.1453773367895,Student,False
+599,24,M,Married,91.25423398044678,861.6314492232897,Development Studies,3,Block,Full-time,True,False,Exempt,1.8092939105371841,3,False,14,115.27532453518342,Employed,False
+600,19,Other,Married,88.82447427310653,824.6286018810531,"Livestock, Wildlife and Fisheries",1,Distance,Part-time,False,False,Unpaid,1.6975560722900416,4,False,31,234.90428144145054,Student,True
+601,19,F,Single,92.11510606278114,869.0679771148007,Internal Auditing,1,Distance,Full-time,True,False,Exempt,0.6270517903971786,6,True,33,280.4782497485731,Student,True
+602,20,Other,Divorced,98.37469421212755,859.677641996169,Business Management,2,Block,Full-time,False,True,Exempt,1.7056242259678913,5,False,42,71.30002691484522,Employed,False
+603,19,F,Married,87.24536174197182,850.1575699917948,TshiVenda,2,Distance,Full-time,True,False,Exempt,2.149667754399228,8,True,30,278.3593128665827,Student,False
+604,18,Other,Divorced,94.51432926439898,897.6186974988084,"Archaeology, Museums and Heritage Studies",2,Block,Part-time,False,True,Paid,0.09001730971474586,5,True,13,159.62835262394842,Employed,False
+605,22,M,Married,97.88905113648464,868.3453777407509,Risk Management and Insurance,2,Block,Full-time,False,True,Paid,1.7764520207016257,8,False,46,196.22594243425397,Employed,True
+606,22,F,Married,89.11958551519874,837.5441109667913,Business Management,1,Distance,Part-time,False,True,Paid,3.1254248735808012,3,True,13,139.6590645316406,Student,False
+607,21,F,Married,88.86911672763809,880.0073432076867,Risk Management and Insurance,4,Distance,Full-time,False,True,Unpaid,2.7201842254970794,0,True,47,465.70516389652994,Employed,False
+608,24,Other,Single,92.04233970709559,888.4583292921188,Office Management,2,Block,Part-time,True,False,Paid,2.54062795545574,0,True,28,341.6681406401069,Employed,True
+609,19,Other,Single,91.82813518844976,812.5220559516831,Local Governance Studies,4,Block,Part-time,True,False,Unpaid,3.63822171374881,9,False,46,131.2301557003417,Unemployed,False
+610,18,F,Single,96.13178684652554,820.0552977845266,Media and Cultural Studies,2,Block,Full-time,False,False,Paid,0.07212803930092004,6,True,18,322.5156672759751,Employed,True
+611,21,Other,Divorced,89.52966767556586,821.622700912778,Local Governance Studies,3,Block,Part-time,True,True,Exempt,2.2281903447689366,2,True,26,424.28620479102307,Unemployed,False
+612,20,Other,Divorced,99.92245899278882,869.121180938654,Economics and Finance,2,Block,Part-time,True,False,Paid,3.1493953936388284,1,False,8,200.81510416638432,Unemployed,False
+613,21,Other,Single,81.18943137734561,860.3039555053283,Risk Management and Insurance,2,Block,Part-time,True,True,Unpaid,2.165341530805069,5,False,36,414.9787545780911,Unemployed,False
+614,21,M,Divorced,80.06335697161404,861.8991564698588,"Peace, Conflict and Governance",2,Distance,Part-time,False,True,Unpaid,1.2955822103215167,5,True,36,77.20747216999618,Unemployed,False
+615,19,M,Married,92.80396623119248,894.0773299689502,Soil and Plant Sciences,1,Distance,Full-time,True,True,Paid,0.5450022603679114,6,True,42,411.390682433084,Student,True
+616,20,Other,Married,85.96869824723754,877.5911532807306,Politics and Public Administration,3,Distance,Full-time,True,False,Exempt,3.5502522872647653,4,True,27,270.1471213361832,Student,False
+617,21,Other,Married,84.80764777398967,812.7936924511783,Computer Sciences,2,Block,Full-time,False,False,Paid,1.883049569550412,7,True,23,111.48724400499106,Employed,True
+618,18,M,Single,86.2379816000856,834.7507082425182,Marketing Management,2,Distance,Part-time,True,True,Paid,3.5124607879428056,6,False,27,203.57069227795571,Employed,True
+619,18,M,Divorced,85.12095130209909,843.5393646175736,History,4,Block,Part-time,False,False,Paid,2.3434084897326732,1,False,35,493.9964962233084,Employed,True
+620,22,F,Single,80.61580099320895,839.5961588747605,Development Studies,3,Block,Full-time,False,False,Exempt,2.696768466460003,0,True,17,391.77800832121306,Student,False
+621,20,F,Divorced,99.43066084781177,866.930860916188,Accounting,2,Distance,Full-time,False,True,Unpaid,3.2170446175138,8,False,24,287.54318069255766,Unemployed,False
+622,20,M,Married,84.41490976905564,889.1893103256563,Information Systems,4,Block,Part-time,True,True,Exempt,2.6366221784005375,4,True,34,57.58195595226279,Student,False
+623,22,Other,Single,94.68059525178613,830.6051463522788,Gender and Social Anthropology,4,Block,Full-time,True,False,Unpaid,1.5922193627157508,4,False,3,208.90579145075012,Student,True
+624,21,Other,Divorced,95.2519278938835,855.1877136421185,TshiVenda,1,Block,Full-time,False,True,Unpaid,2.054533535714604,9,False,13,131.52575700596864,Employed,True
+625,20,Other,Divorced,98.58514796014458,878.9409421913585,"Livestock, Wildlife and Fisheries",4,Block,Part-time,False,True,Unpaid,3.2121820987035195,3,True,38,35.500539752695126,Employed,True
+626,18,Other,Married,80.6109891418676,841.621805884535,Internal Auditing,2,Block,Full-time,False,False,Exempt,1.4946011854919368,1,True,25,271.1021943596575,Employed,True
+627,18,F,Single,97.44096676894016,816.8118128399296,Economics and Finance,1,Block,Part-time,False,False,Paid,1.5524858270739883,4,True,7,444.5928499204381,Unemployed,False
+628,19,M,Single,90.544523616796,847.4950965263748,Business Management,1,Distance,Full-time,False,True,Paid,0.3827604642320046,1,True,23,337.7999340870625,Unemployed,False
+629,20,Other,Single,92.65088219931656,805.5222520743029,Business Management,2,Block,Part-time,False,False,Paid,3.658337740886991,6,False,15,124.84019399025559,Student,True
+630,21,F,Married,92.88940554242068,894.2383454002277,Statistics and Operations Research,3,Block,Part-time,True,True,Paid,0.36414525978176693,8,False,19,286.7923034768946,Unemployed,False
+631,22,Other,Single,96.39595609969456,807.4821205194974,Religious Studies & Philosophy,4,Block,Part-time,False,True,Paid,2.5928367097942235,8,True,14,471.61714167348447,Employed,True
+632,22,M,Married,86.66814644318221,843.8456715250578,XiChangana,1,Block,Part-time,False,False,Exempt,1.6527779152111908,5,False,6,361.4575264614677,Unemployed,True
+633,21,F,Married,94.66102379719987,852.9881261088526,TshiVenda,3,Distance,Part-time,False,True,Exempt,1.6224775610217694,0,False,16,344.736949703382,Unemployed,True
+634,24,M,Married,90.57156219444394,898.5303832287285,Religious Studies,2,Distance,Full-time,True,True,Exempt,2.7182073462907357,5,True,21,484.07908311375814,Unemployed,False
+635,23,M,Divorced,95.86788028610695,816.6021823642861,Economics,4,Block,Full-time,True,True,Exempt,0.2683749305195149,4,True,21,399.4366555920124,Unemployed,False
+636,19,F,Single,99.81092065540267,811.4431518612358,Psychology,4,Block,Full-time,True,False,Exempt,2.3748231318057385,3,False,11,68.31177154937606,Employed,True
+637,22,F,Single,84.01302034807523,800.8706147062544,Marketing Management,1,Block,Part-time,True,False,Exempt,3.088127143889419,5,True,17,173.81754348810068,Employed,True
+638,20,F,Married,99.89297283119996,815.5571436869302,"Archaeology, Museums and Heritage Studies",4,Distance,Full-time,False,False,Exempt,3.312851031546377,5,True,45,482.57035036884304,Student,True
+639,19,F,Married,81.79624308565548,820.7272979067668,Information Systems,4,Distance,Part-time,True,True,Paid,0.6821215575751012,5,False,46,244.85269709899893,Student,False
+640,20,F,Single,80.04635095809628,863.0580941583092,Geography and Environmental Science,4,Distance,Part-time,False,True,Unpaid,3.5896762003126947,1,False,14,55.81872266059268,Student,False
+641,24,F,Married,80.88323872355663,821.97067903914,Fiscal Studies,4,Distance,Full-time,False,False,Exempt,2.624584367389769,6,True,36,229.30243983617095,Unemployed,True
+642,18,F,Single,86.83564809473523,802.0520814729325,Hospitality Tourism and Culture,2,Block,Part-time,False,False,Unpaid,3.527419203282731,3,False,15,348.49661703540033,Unemployed,True
+643,19,Other,Divorced,92.65812661356868,882.6618345502488,Economics,3,Distance,Full-time,False,False,Exempt,1.941122868440793,8,True,4,498.77411084062055,Employed,True
+644,22,M,Married,81.380590817757,836.5595701003966,Business Management,2,Distance,Part-time,False,True,Exempt,2.168133380388808,9,True,1,161.95265828160095,Student,False
+645,19,F,Single,80.11331629059134,835.3696686580734,XiChangana,2,Block,Part-time,False,False,Paid,3.6761531081146845,1,False,27,257.0434374396369,Employed,True
+646,19,Other,Married,98.7418205691759,830.2479029167927,Risk Management and Insurance,1,Block,Full-time,True,True,Unpaid,3.599638173418687,4,False,40,439.8403523248969,Student,False
+647,19,Other,Single,96.4385327187986,897.5373277146421,Risk Management and Insurance,4,Distance,Part-time,True,False,Paid,1.792643493476008,3,True,26,177.63360902866677,Student,True
+648,23,Other,Single,96.18366342278063,817.0115417309281,"Peace, Conflict and Governance",2,Distance,Full-time,True,True,Paid,1.097650526542727,8,True,30,54.63077829542862,Student,False
+649,19,M,Married,97.68848551003954,889.8238063953236,Economics,4,Distance,Part-time,True,True,Unpaid,1.5726817382570566,3,True,40,474.467937500752,Unemployed,False
+650,20,F,Divorced,94.0006854554421,877.6803332139888,Risk Management and Insurance,2,Distance,Full-time,True,False,Paid,1.551057314118999,7,False,35,244.22040335675004,Student,False
+651,18,Other,Single,82.08808259496163,807.6479955499314,Urban Planning and Development,2,Block,Part-time,False,True,Exempt,1.1474674999311758,7,True,46,251.39185538598585,Student,False
+652,24,M,Single,87.98200376147446,898.6729101500848,Marketing Management,1,Block,Full-time,True,False,Exempt,1.0743184173318663,5,False,42,310.60007230209106,Unemployed,True
+653,21,M,Single,94.46298972929259,827.136596353901,Psychology,3,Distance,Full-time,True,True,Exempt,3.4442517459188777,5,True,0,1.768311851612303,Student,False
+654,19,M,Divorced,85.60668921583041,809.8582927022412,Politics and Public Administration,3,Distance,Part-time,True,True,Exempt,0.27944768273864673,7,False,49,465.56558778442457,Unemployed,True
+655,22,Other,Divorced,93.74812728272475,882.9314234125759,Psychology,2,Distance,Full-time,False,False,Exempt,2.7104447283983766,9,True,28,180.72554238727085,Unemployed,True
+656,19,F,Married,80.48996896535304,870.66755336777,Accounting,1,Distance,Part-time,False,True,Paid,0.6912802058258092,8,False,0,198.4659311921743,Employed,False
+657,22,Other,Divorced,86.12274681759186,861.7218805877901,TshiVenda,4,Distance,Part-time,False,False,Paid,1.378023573576253,4,True,7,87.0546237666175,Unemployed,True
+658,20,Other,Married,90.98260672554345,815.5980863698933,Hospitality Tourism and Culture,4,Block,Full-time,True,False,Exempt,0.24617213653934744,0,True,15,189.07580664623052,Unemployed,False
+659,22,F,Married,92.64179659012484,847.8496116255961,Fiscal Studies,2,Block,Full-time,True,False,Exempt,1.0798945474218482,0,True,27,401.97176538802603,Unemployed,True
+660,21,F,Divorced,91.54081328923822,878.0556026887214,Accounting,3,Block,Full-time,True,True,Paid,3.0736842844689685,1,True,21,399.9958362777674,Student,True
+661,18,F,Married,93.95512552146859,830.3623938143841,Risk Management and Insurance,1,Distance,Full-time,True,True,Unpaid,3.5400612981890345,9,False,17,467.8984204477264,Employed,False
+662,22,M,Divorced,80.12177496479678,831.1689828515041,Psychology,3,Distance,Full-time,True,True,Paid,0.8861086076094682,9,False,21,201.61473634039788,Student,False
+663,22,F,Married,82.01882399955043,800.3140906048122,History,4,Block,Part-time,False,False,Paid,1.8541913570356874,4,False,40,354.3607518742922,Unemployed,False
+664,18,Other,Divorced,97.3788850455829,817.424340164538,Fiscal Studies,3,Block,Full-time,True,False,Paid,1.8812961917488256,3,False,11,253.61877760377854,Unemployed,False
+665,21,F,Divorced,93.63497288180322,887.5405625121834,Finance,4,Distance,Part-time,False,True,Paid,3.4943012230389368,0,False,18,402.01139475956546,Employed,True
+666,19,Other,Married,82.25863285372023,844.1746491637707,Marketing Management,1,Block,Full-time,True,True,Paid,3.0511962115032216,3,True,24,356.27100456649845,Employed,False
+667,22,M,Single,96.84148874797158,898.4234499234434,Finance,1,Distance,Full-time,False,False,Unpaid,2.0523088734721995,3,False,49,183.95146264313783,Unemployed,False
+668,18,Other,Married,84.84462435649134,839.5707963573792,Internal Auditing,2,Distance,Full-time,False,True,Exempt,2.6829888018870935,9,False,4,168.33691712684623,Unemployed,False
+669,20,Other,Divorced,89.56519768390447,871.5186454780242,Geography and Environmental Science,2,Block,Part-time,False,False,Exempt,3.3894202156374673,3,False,33,126.2212315139838,Student,True
+670,18,F,Single,82.9039302576932,828.191904290473,Development Studies,3,Block,Full-time,False,True,Unpaid,0.038155816102179774,0,False,38,288.2578952443189,Unemployed,True
+671,20,F,Married,94.20220112843413,836.3809641140933,Hospitality Tourism and Culture,1,Block,Part-time,True,False,Exempt,1.6115601242001945,8,True,9,481.9214257969298,Student,True
+672,21,Other,Married,93.33708842028535,819.0725987590895,Hospitality Tourism and Culture,1,Distance,Part-time,True,True,Exempt,3.6289726691083146,2,True,46,100.033368808783,Employed,True
+673,19,F,Married,84.22224942332272,834.7062368499395,Hospitality Tourism and Culture,2,Distance,Part-time,True,True,Exempt,2.9612521233758056,3,True,6,47.62622745216261,Student,False
+674,18,M,Single,97.26801533714004,854.7237520420643,Local Governance Studies,4,Block,Full-time,False,False,Unpaid,2.1713654973362986,4,True,36,59.700321038156815,Unemployed,True
+675,24,M,Divorced,88.02612048439424,899.1772880979249,Gender and Social Anthropology,3,Distance,Part-time,True,False,Unpaid,2.1185781081405337,6,False,46,391.549338125075,Student,True
+676,24,F,Married,85.85030182141483,866.4201713071785,TshiVenda,3,Distance,Full-time,True,False,Exempt,1.3910803904177511,5,False,14,175.05240214228184,Student,False
+677,23,M,Married,83.04659178929072,819.9245954408314,Business Management,2,Distance,Part-time,True,True,Exempt,2.082082134566058,4,True,41,112.18341384618985,Employed,True
+678,22,F,Married,85.32336025031074,804.4961441591552,Hospitality Tourism and Culture,1,Block,Full-time,True,False,Exempt,2.621532797853813,7,True,23,176.42205918675003,Student,False
+679,21,Other,Married,80.44053842447634,812.635648131451,Musicology and Ethnochoreology,2,Distance,Part-time,False,False,Paid,1.6734521537151723,0,False,25,322.66540641476087,Unemployed,True
+680,18,Other,Married,91.66514984912232,856.2555201273047,"Peace, Conflict and Governance",2,Block,Full-time,False,True,Paid,2.856612585568696,6,False,25,273.39356241414185,Student,False
+681,24,M,Divorced,96.84461492687896,876.5160328816767,Finance,2,Block,Full-time,True,False,Paid,3.4449289090415434,5,True,45,371.794703260613,Student,False
+682,22,F,Divorced,90.97960898883284,894.0419207300747,Hospitality Tourism and Culture,2,Distance,Full-time,True,False,Unpaid,0.6187393927394447,4,True,25,169.53707424088816,Student,True
+683,24,F,Married,84.38547923847752,801.582317199682,Office Management,4,Block,Part-time,True,False,Exempt,1.8061880912696977,6,True,9,226.0142867323427,Unemployed,False
+684,18,M,Single,80.67338356427746,852.276014156187,Business Management,4,Distance,Part-time,False,True,Unpaid,1.6320803651403244,2,True,16,50.984184481461746,Student,True
+685,20,Other,Divorced,84.29256146517605,847.0867356223176,Information Systems,1,Block,Full-time,False,True,Unpaid,2.7498592161989124,0,False,13,36.52932301639073,Unemployed,False
+686,18,M,Single,88.32242856142184,865.6055021975704,English & Applied Communication,2,Block,Part-time,False,True,Unpaid,0.9994698610317174,8,False,1,231.12762142205023,Student,True
+687,23,Other,Divorced,95.19222857399593,855.9578854465342,Economics and Finance,4,Distance,Part-time,True,False,Exempt,2.561003659809105,1,False,47,150.79830372296178,Employed,True
+688,18,F,Married,83.75685705075549,868.7039150582481,Office Management,1,Block,Part-time,False,True,Paid,3.509956966925952,9,True,12,306.4002860680654,Employed,True
+689,18,Other,Divorced,94.39582906709373,865.8082584749191,Development Studies,2,Block,Part-time,False,False,Exempt,1.6725263991744908,2,False,26,21.501082722285958,Employed,True
+690,23,M,Married,97.33866936703768,811.7011724857946,Office Management,3,Block,Part-time,False,False,Exempt,3.64406279991688,7,False,8,60.883188799782715,Unemployed,True
+691,21,F,Divorced,89.07893696216715,879.971791361872,Media and Cultural Studies,4,Distance,Part-time,False,False,Unpaid,3.9726549557339137,9,True,6,432.59540555319757,Unemployed,True
+692,18,M,Married,96.42863983285187,812.3232575716324,Human Resources Management,1,Distance,Part-time,False,True,Unpaid,0.4243681997918083,8,True,47,283.15581075955225,Unemployed,True
+693,23,M,Married,91.09314696070192,869.8530625209137,Finance,3,Block,Full-time,True,True,Unpaid,0.9322127519394345,2,True,9,356.0272668456136,Student,False
+694,22,Other,Married,92.7418167416181,841.6145367640606,Marketing Management,2,Block,Full-time,True,False,Paid,3.8015190059283728,5,True,8,420.9860593536479,Unemployed,True
+695,20,M,Married,90.52556920676406,851.3850734576598,TshiVenda,2,Block,Part-time,True,False,Paid,3.833310745925547,6,True,21,231.9171714750261,Unemployed,True
+696,20,Other,Single,89.26345433502684,890.3298014375711,Hospitality Tourism and Culture,2,Distance,Full-time,True,True,Paid,0.390829101547034,0,True,22,380.53019198373806,Unemployed,False
+697,18,F,Married,84.69306883551698,888.9883726473487,Economics and Finance,4,Distance,Full-time,False,True,Exempt,0.059994001508546724,6,False,6,262.29278953676214,Unemployed,False
+698,21,Other,Single,86.06388118922092,881.785630565503,Urban Planning and Development,1,Block,Full-time,True,True,Unpaid,0.644400093025689,3,False,47,111.37438513685194,Employed,True
+699,21,F,Single,85.79940237887217,851.0148380456324,Risk Management and Insurance,3,Distance,Part-time,True,False,Exempt,3.984051133528993,4,False,8,168.82808440046975,Student,False
+700,22,Other,Married,91.26577861907629,873.6239810133833,Banking and Finance,1,Distance,Part-time,True,True,Paid,0.7199984664427475,7,False,26,245.17522052783042,Employed,True
+701,18,M,Single,82.3990738604778,851.289705551881,Risk Management and Insurance,4,Distance,Part-time,False,True,Unpaid,2.0101904268880926,3,False,23,158.44277608613538,Student,True
+702,20,Other,Divorced,98.33583381404671,886.9606082474777,Statistics and Operations Research,1,Distance,Part-time,True,True,Paid,3.393670905722044,3,False,28,167.76384567494918,Student,False
+703,21,Other,Married,94.41310290566227,840.27758332329,Internal Auditing,4,Block,Part-time,False,False,Unpaid,0.08160644275282536,7,True,16,168.6964156243832,Employed,True
+704,18,F,Single,88.02891261826387,897.0235344414876,Development Studies,2,Distance,Full-time,False,True,Unpaid,2.417955929033838,4,True,19,61.41998942855209,Unemployed,False
+705,24,M,Married,83.17248289052756,893.2322758228878,Religious Studies,3,Distance,Part-time,False,False,Exempt,1.1081017954784973,5,True,6,42.32130360612568,Employed,True
+706,21,Other,Married,97.63984339443272,874.1602619451785,Development Studies,2,Block,Full-time,True,False,Exempt,3.4493396657589264,4,False,42,23.248019845652166,Student,False
+707,23,M,Married,96.47556180202331,827.9415884176072,Religious Studies,1,Block,Part-time,False,False,Paid,1.1338445970563167,0,False,39,55.47813051716838,Student,False
+708,24,Other,Single,94.43443105434359,813.1653588793258,"Archaeology, Museums and Heritage Studies",2,Distance,Full-time,True,True,Exempt,2.7470228811276356,6,True,6,171.853546067809,Unemployed,True
+709,21,Other,Divorced,85.43094094822484,885.4703450093198,Statistics and Operations Research,3,Distance,Part-time,True,True,Exempt,2.6968785297895876,5,True,27,296.93590289152854,Employed,True
+710,20,M,Divorced,88.04893274867338,816.5302286137961,Computer Sciences,2,Block,Part-time,True,True,Exempt,0.88597419543856,1,True,18,94.07346360470447,Student,True
+711,19,Other,Single,82.05496504904846,885.4260788997335,Psychology,3,Block,Part-time,False,False,Unpaid,0.13919679947340047,6,True,19,444.00442300131897,Employed,True
+712,24,M,Married,83.78079049455063,849.0765006712361,"Peace, Conflict and Governance",3,Block,Part-time,False,True,Exempt,1.6369982951415891,5,True,43,404.1912156197247,Unemployed,True
+713,22,Other,Single,95.66033274633466,840.6556783808104,Information Systems,2,Distance,Part-time,True,False,Paid,1.1567726078634788,4,False,38,260.26355640458183,Unemployed,False
+714,22,F,Single,94.30077437701368,890.3190778834429,Economics,4,Distance,Part-time,False,True,Unpaid,3.2359109984548344,7,False,39,362.10491540667994,Student,False
+715,20,M,Single,91.8697152595187,860.3850982540278,Business Management,1,Block,Full-time,False,True,Unpaid,3.201456753821381,4,False,6,183.16426234937921,Unemployed,False
+716,21,Other,Married,97.91453451852345,857.6614007129717,Information Systems,4,Distance,Part-time,False,True,Exempt,1.828095808770502,1,True,5,18.388896366544948,Student,True
+717,18,Other,Single,91.66533035626091,855.8765944624398,Psychology,4,Block,Full-time,True,True,Unpaid,2.4260489012928756,5,False,24,452.16642376626993,Student,False
+718,21,F,Married,89.33935999927222,837.1169516019531,Geography and Environmental Science,2,Distance,Part-time,False,False,Paid,2.4170380639477007,0,True,40,63.896744128910996,Unemployed,True
+719,20,M,Single,86.80741492611526,878.5643103529127,Sociology,1,Block,Full-time,False,False,Paid,3.3086325937104935,4,False,12,473.9686731898257,Unemployed,True
+720,22,Other,Divorced,98.80897011472345,825.2798444015773,Internal Auditing,1,Block,Full-time,True,False,Unpaid,1.70000965649279,5,True,38,285.941294133055,Employed,True
+721,21,F,Single,81.65430923048707,893.8894960041275,Politics and Public Administration,4,Distance,Full-time,False,False,Exempt,1.1017867191620363,6,True,39,152.78153051071496,Employed,True
+722,22,Other,Single,98.61774744121617,889.3985205046961,Internal Auditing,2,Distance,Full-time,True,True,Exempt,1.0601396725621899,1,False,21,247.76231165592233,Student,False
+723,24,M,Divorced,96.53429319862036,833.7480325674899,Accounting,1,Distance,Full-time,False,False,Unpaid,2.1447691171288166,0,False,48,250.8149044615471,Employed,False
+724,18,Other,Married,82.59859849071402,872.9463769831664,Politics and Public Administration,4,Distance,Full-time,False,False,Paid,1.7965928109288503,5,False,16,11.643539721290953,Student,False
+725,24,Other,Married,91.29968715350508,857.3223194449591,Transport and Logistics,1,Distance,Part-time,False,False,Unpaid,1.7604830839397447,2,False,47,177.72992594206931,Unemployed,True
+726,22,Other,Single,97.33095963498174,833.7649301999235,Economics,2,Distance,Full-time,False,True,Exempt,0.3645493563588289,4,False,21,369.9328997714587,Unemployed,True
+727,22,Other,Divorced,91.43618327214307,898.8521647995447,Hospitality Tourism and Culture,2,Block,Part-time,False,False,Exempt,2.8744149627607825,1,True,33,255.03459447535397,Employed,True
+728,19,F,Married,98.14399643121244,802.5237345848265,Economics,2,Distance,Part-time,False,False,Unpaid,0.8549467519276428,0,False,7,122.1150585047921,Student,True
+729,19,F,Single,98.85967633632085,825.2646030621287,Internal Auditing,1,Block,Full-time,True,True,Paid,0.7878145208348855,0,False,48,167.554930018472,Student,False
+730,24,M,Divorced,88.44769044368611,852.0074061111151,Accounting,3,Block,Full-time,False,True,Unpaid,1.6510332811095738,3,True,44,431.52719655797455,Employed,True
+731,23,F,Married,87.54627322812647,852.1953003478563,Media and Cultural Studies,1,Distance,Part-time,False,False,Paid,0.9111133664712057,9,False,17,262.77483507511477,Student,True
+732,24,F,Married,98.72642307938314,858.8933074945564,Geography and Environmental Science,3,Block,Full-time,False,False,Paid,2.3354330692320615,1,True,23,264.176061275618,Student,True
+733,19,M,Divorced,93.50280122299336,875.1676172022919,Economics,2,Block,Full-time,True,True,Unpaid,1.485853357337886,0,False,41,480.73372952550505,Unemployed,True
+734,22,F,Divorced,82.32045362696338,862.3477830519296,"Peace, Conflict and Governance",4,Distance,Full-time,True,False,Unpaid,1.7956468903711604,5,False,1,160.44069951832168,Student,True
+735,20,F,Divorced,80.84583498445362,860.0281460528037,Politics and Public Administration,3,Distance,Full-time,True,True,Paid,2.1486772864161154,3,True,1,239.7705625531142,Student,True
+736,24,M,Divorced,91.29258101994526,805.3514462913043,Accounting,2,Distance,Full-time,False,False,Paid,0.8141420899272194,9,False,26,405.856798860417,Student,False
+737,22,M,Single,98.6034193087685,837.6530287789299,Business Management,2,Block,Full-time,False,False,Paid,0.6230064914621192,6,False,13,379.45612444351485,Employed,True
+738,20,M,Divorced,96.88497404811636,823.2055739701156,Politics and Public Administration,3,Distance,Full-time,True,False,Paid,3.521687611494419,5,False,47,132.8997109643363,Employed,False
+739,20,Other,Married,93.51695492928673,826.5370111601975,Internal Auditing,4,Distance,Part-time,True,False,Exempt,1.7348948113256841,4,False,38,75.54552380269291,Employed,False
+740,19,Other,Married,82.78231697782175,855.4337474340344,Development Studies,2,Distance,Full-time,True,False,Unpaid,1.6483744385301566,9,True,11,350.35228809368414,Student,False
+741,24,M,Single,85.08462767497392,819.9505314929609,Finance,3,Distance,Part-time,False,True,Paid,0.14244860109136592,1,True,31,128.82808840359738,Student,True
+742,21,M,Married,97.51022453105233,829.3949101016898,Development Studies,4,Block,Part-time,True,True,Unpaid,1.991905210349573,4,False,27,461.33791426212053,Employed,False
+743,18,M,Married,83.656144733138,823.708470851734,Local Governance Studies,4,Distance,Part-time,False,False,Paid,2.2166788864440004,8,False,27,64.62384699461305,Employed,True
+744,19,Other,Divorced,85.5687881650087,894.8502943218194,Human Resources Management,2,Block,Part-time,False,False,Unpaid,2.235363483818666,8,True,45,159.15760006738827,Student,True
+745,19,Other,Married,82.59201302390883,894.4665732171095,Religious Studies & Philosophy,1,Distance,Full-time,False,False,Unpaid,2.8281246772915374,1,True,24,27.393623462456883,Student,True
+746,21,F,Single,93.52216462828822,860.9941558596051,Gender and Social Anthropology,1,Block,Part-time,True,True,Paid,0.7099273399640471,6,False,3,351.65265343168903,Unemployed,True
+747,18,F,Divorced,98.8796461072642,892.45224687319,Business Management,2,Block,Part-time,False,True,Paid,1.0088925369224753,9,True,25,445.6313244576992,Employed,True
+748,22,M,Divorced,85.37936063190772,878.5812645468374,Information Systems,4,Block,Part-time,True,True,Unpaid,3.242921860921651,3,True,35,317.9372636655035,Student,True
+749,23,Other,Single,89.50813215700147,858.9947882801808,Media and Cultural Studies,2,Distance,Part-time,True,True,Unpaid,3.788682467373576,2,True,49,468.8765077557418,Employed,True
+750,24,Other,Divorced,92.68679479422408,800.6435211496796,Human Resources Management,3,Block,Part-time,True,True,Unpaid,0.5437309894692826,0,True,2,64.25198925060482,Employed,True
+751,23,Other,Divorced,99.98932496431262,877.2516286079403,Musicology and Ethnochoreology,1,Distance,Full-time,True,True,Exempt,1.9905982180208728,2,False,0,43.866963631349456,Employed,True
+752,22,M,Single,82.09616129995145,870.2488341588469,Soil and Plant Sciences,3,Distance,Full-time,False,True,Paid,0.8567050109583474,8,True,16,419.2063655836854,Unemployed,False
+753,19,F,Divorced,89.97141599011418,861.5253653282414,Media and Cultural Studies,2,Distance,Part-time,False,True,Exempt,0.24029267341992977,8,False,6,427.75558769325386,Student,False
+754,18,M,Single,87.70240239805,876.0424311682472,Media and Cultural Studies,2,Distance,Full-time,False,False,Exempt,1.3020133525045416,6,False,47,415.5197635535641,Student,True
+755,19,F,Single,97.3164033044471,851.2922164774766,Marketing Management,4,Distance,Full-time,False,True,Paid,0.574750500736851,2,True,4,399.48245126687283,Employed,False
+756,20,F,Married,89.51935462023312,870.4083271321339,Soil and Plant Sciences,4,Block,Part-time,True,True,Paid,2.839732293736985,2,False,18,181.1141819693301,Student,False
+757,19,M,Married,82.21955049170296,893.5172086726493,Banking and Finance,4,Distance,Part-time,True,True,Exempt,2.1349016546857777,3,False,38,108.73104179569387,Unemployed,True
+758,19,F,Divorced,92.68848290573168,837.5805015846087,Accounting,3,Block,Part-time,True,True,Paid,0.5753378839612435,6,True,45,464.40200999889504,Employed,True
+759,22,F,Divorced,95.4156123652776,870.8121834900626,Musicology and Ethnochoreology,4,Block,Full-time,True,False,Unpaid,0.03696635362205747,6,True,33,153.50009142416698,Unemployed,False
+760,22,Other,Single,80.05762503331229,847.5687818010958,Psychology,2,Block,Part-time,False,True,Unpaid,3.232628196096851,1,True,34,199.2038410820161,Unemployed,False
+761,22,F,Divorced,97.17913370841259,867.4399651813982,"Livestock, Wildlife and Fisheries",4,Block,Full-time,True,False,Exempt,0.7047776246569901,4,False,48,349.7794797258166,Student,False
+762,23,M,Single,83.7204600001133,876.2893335554364,"Livestock, Wildlife and Fisheries",1,Block,Full-time,False,False,Exempt,2.424866568883064,6,False,15,146.6780399969938,Student,True
+763,20,M,Single,91.04138729306756,804.5452500435796,Economics and Finance,4,Block,Full-time,True,False,Paid,1.3476876523069823,6,False,39,409.5651107805006,Unemployed,False
+764,22,F,Divorced,88.315950013749,864.6600443948662,Musicology and Ethnochoreology,3,Block,Part-time,True,True,Paid,2.3419437532601424,5,False,49,35.01731181589063,Student,True
+765,18,Other,Single,94.39307633221061,822.6741184406944,Business Management,1,Distance,Full-time,True,True,Exempt,1.262614507929296,9,True,46,395.59133369446727,Unemployed,True
+766,23,Other,Married,87.42323229571484,867.0032537807567,Statistics and Operations Research,1,Block,Part-time,True,True,Exempt,0.3477582427690167,9,False,38,300.9256613089021,Unemployed,True
+767,21,F,Divorced,97.39526353363422,846.8330185933813,Transport and Logistics,1,Distance,Part-time,False,False,Unpaid,0.8918000342310144,7,True,26,286.4968220567964,Employed,True
+768,18,F,Married,94.6099272191758,877.3552741864887,TshiVenda,3,Block,Part-time,False,False,Unpaid,0.7522342659163024,2,True,40,229.18851956933034,Unemployed,True
+769,24,M,Divorced,92.95426342125843,812.3400815205597,Soil and Plant Sciences,2,Block,Part-time,False,False,Paid,1.7120774097585754,0,True,37,138.5227981417112,Unemployed,False
+770,24,F,Single,95.92481191125708,862.6322351656195,Religious Studies & Philosophy,4,Block,Part-time,False,False,Unpaid,2.6331351337046294,2,True,49,232.03514271561832,Student,False
+771,18,Other,Divorced,95.08046069856765,827.8470728927552,Human Resources Management,1,Block,Full-time,True,True,Paid,1.0552242997854302,1,False,49,225.01425600934365,Employed,True
+772,22,F,Married,80.71877349843106,885.2981995330591,History,1,Distance,Full-time,True,True,Paid,0.048279741202471804,1,True,24,291.87709439153497,Student,False
+773,21,M,Single,87.89468707689656,892.8383505636307,Computer Sciences,1,Distance,Full-time,False,True,Paid,2.0757494570590276,1,False,25,140.78714292776513,Employed,False
+774,21,M,Divorced,98.6161459463298,899.6398293679056,Media and Cultural Studies,2,Distance,Full-time,False,False,Unpaid,2.4230379574358882,4,True,13,38.79779098807451,Student,True
+775,23,M,Divorced,82.51448537984453,879.6007402427283,Gender and Social Anthropology,2,Block,Full-time,True,False,Exempt,3.8514819760072387,0,True,13,72.54472331956913,Unemployed,False
+776,21,M,Divorced,94.74193100864102,875.3734070428004,Religious Studies,3,Block,Part-time,True,True,Exempt,2.3578832123729874,9,True,13,349.5887157307864,Employed,False
+777,24,M,Married,99.4918362267066,821.550075886755,Psychology,2,Block,Part-time,False,True,Unpaid,1.8846902375125674,3,False,24,11.246164817770243,Employed,True
+778,20,F,Married,81.04397258089944,833.6007058990109,Urban Planning and Development,4,Distance,Full-time,False,False,Exempt,2.2936065035908153,9,True,35,428.221522322715,Employed,True
+779,22,F,Divorced,93.64387761253221,846.5682541762279,TshiVenda,3,Block,Full-time,False,True,Paid,3.711602519448108,4,True,3,347.19866373995666,Employed,False
+780,21,F,Single,89.36308282602062,877.338104778225,Sociology,3,Distance,Full-time,True,True,Exempt,3.313512582406585,1,True,46,384.04327065385814,Student,False
+781,23,F,Single,91.58350510749445,891.4965865077969,TshiVenda,4,Distance,Part-time,False,False,Unpaid,1.291914933455232,4,True,14,417.9922245467374,Student,True
+782,24,M,Married,81.7068267296865,818.9139100022985,XiChangana,4,Block,Part-time,False,False,Exempt,0.949017454628549,9,False,31,61.35522196509058,Employed,False
+783,20,Other,Single,80.86013903733878,892.2367484670103,Urban Planning and Development,4,Block,Part-time,False,False,Paid,1.0505344494642945,3,False,17,411.22554548503314,Employed,True
+784,19,F,Married,93.33733321101843,869.5624652354059,Religious Studies & Philosophy,3,Distance,Full-time,False,True,Paid,2.017684158860852,7,True,13,252.3212188295282,Employed,False
+785,19,Other,Divorced,96.46618859641436,861.0770730685039,Media and Cultural Studies,3,Distance,Full-time,False,False,Unpaid,2.976197804914311,0,True,0,442.76191937659854,Student,False
+786,20,F,Married,95.64030669865934,819.9841271281939,English & Applied Communication,3,Distance,Full-time,True,True,Unpaid,2.0128768287318484,4,False,41,443.29330053017173,Employed,False
+787,24,F,Married,90.87611455732474,805.5525032809151,Statistics and Operations Research,4,Block,Full-time,False,True,Unpaid,0.27118558331245035,9,False,19,12.089021877085104,Employed,False
+788,23,Other,Divorced,81.99733642272356,856.846489850794,Hospitality Tourism and Culture,4,Block,Part-time,True,False,Paid,2.8943228017599236,0,False,9,191.43260774176946,Employed,True
+789,20,M,Single,93.76088887672027,865.1515683328893,Finance,1,Block,Full-time,False,True,Exempt,3.2238805146838154,9,True,9,263.1993979326367,Student,True
+790,22,F,Married,84.83777767108292,821.0781449354688,Hospitality Tourism and Culture,2,Block,Full-time,False,False,Exempt,1.1579914604788786,9,False,23,339.18004489145096,Unemployed,True
+791,22,F,Married,98.22137405534767,855.6456205825457,Transport and Logistics,1,Block,Full-time,False,False,Unpaid,2.6565029571334016,3,True,33,143.09312334206697,Unemployed,True
+792,19,F,Divorced,96.7653071909141,885.6493402762574,"Archaeology, Museums and Heritage Studies",4,Block,Part-time,True,True,Exempt,1.7063676042175735,7,False,27,126.07113033232615,Student,False
+793,21,Other,Single,94.18765934174782,883.506594545502,Marketing Management,3,Distance,Part-time,True,True,Exempt,3.5564774229097713,0,False,26,190.63285954452363,Unemployed,True
+794,23,M,Married,98.97691911662261,892.7355180586297,"Livestock, Wildlife and Fisheries",4,Distance,Full-time,True,False,Unpaid,3.3809022326429594,1,True,39,250.46934587494724,Employed,True
+795,19,Other,Divorced,80.62843643022546,836.588580955688,Human Resources Management,2,Distance,Part-time,False,False,Unpaid,2.101727993238569,0,False,0,475.5731157027067,Employed,True
+796,21,Other,Married,94.72400850121524,831.8049572550918,Internal Auditing,1,Block,Part-time,False,False,Paid,2.766022183254378,6,True,32,381.05423334871875,Student,True
+797,21,M,Divorced,86.6048555867281,874.9426005980808,Human Resources Management,1,Distance,Part-time,True,False,Paid,3.533398804088416,1,False,3,214.66058346885265,Student,False
+798,22,Other,Single,98.12131771372731,843.1112405097005,Economics and Finance,3,Block,Part-time,True,False,Paid,1.982868040313102,0,True,6,27.183089220091883,Unemployed,True
+799,24,M,Single,85.33350393323956,808.754866402778,Banking and Finance,1,Block,Part-time,False,False,Paid,1.2530029619552878,5,False,8,84.26029607187968,Unemployed,True
+800,18,F,Single,94.49712998630034,828.28011306705,Statistics and Operations Research,1,Distance,Full-time,True,True,Exempt,3.014664551638325,5,False,15,227.9622121597085,Employed,True
+801,24,M,Single,97.55294039301563,841.8582285531489,Internal Auditing,4,Block,Full-time,False,True,Exempt,0.8802650191387671,9,True,4,406.9129500493521,Student,True
+802,18,F,Married,80.83313636765365,829.2516425476252,TshiVenda,1,Distance,Full-time,True,True,Paid,1.5541245920241682,1,True,33,190.34776783867196,Unemployed,True
+803,20,Other,Married,87.95295159184073,833.2205570947322,Risk Management and Insurance,1,Distance,Part-time,True,True,Paid,3.4629089484271747,0,True,22,269.24832537252985,Unemployed,False
+804,22,Other,Single,95.24618064043878,829.3775906174391,Development Studies,1,Block,Part-time,True,False,Unpaid,2.8976893610772603,9,True,42,445.90244304255106,Employed,True
+805,21,F,Single,89.09837779015174,804.149916718308,Computer Sciences,3,Distance,Part-time,False,True,Exempt,1.615244020989997,2,False,49,456.89812971331446,Employed,True
+806,23,Other,Single,85.3450525958719,863.7094700824442,Psychology,3,Distance,Part-time,False,True,Exempt,0.8589780096334296,9,False,24,107.88749822134469,Employed,False
+807,18,M,Married,84.3961069764638,859.7292420353469,Business Management,4,Distance,Full-time,True,False,Paid,1.423873563328946,4,False,12,21.797460896297196,Employed,False
+808,24,F,Single,82.63036533832756,865.338349847868,Religious Studies,1,Distance,Full-time,False,True,Exempt,1.136416596909732,5,False,23,152.70526548575748,Unemployed,False
+809,21,Other,Single,97.14259119712565,819.2309896033628,Economics and Finance,3,Block,Full-time,False,False,Unpaid,0.7043571517754157,2,False,10,347.9011574128901,Student,True
+810,18,F,Single,91.50710806503112,829.5654541612486,"Livestock, Wildlife and Fisheries",3,Distance,Full-time,False,False,Unpaid,2.9733316542626267,8,False,16,475.5561004881332,Student,True
+811,18,M,Divorced,81.52769889982912,861.9615926944922,Economics,4,Distance,Full-time,False,False,Exempt,1.008279547400686,4,True,36,38.51599999205696,Employed,True
+812,18,M,Single,87.6516064714127,859.9627568459921,Fiscal Studies,2,Distance,Full-time,True,False,Paid,1.8166698806710553,1,False,12,14.241905274635759,Employed,False
+813,23,Other,Divorced,87.3546730161022,850.6330309354267,Economics,1,Block,Part-time,False,False,Exempt,1.5434377873444363,9,False,26,442.0736064928609,Unemployed,False
+814,22,M,Divorced,83.63478381418926,835.0413250010197,Accounting,3,Distance,Part-time,False,True,Unpaid,3.9283095145425233,5,True,19,374.07263455157056,Employed,True
+815,23,F,Single,88.71015250944382,891.293100477469,Information Systems,4,Block,Full-time,True,True,Paid,1.564368976592882,7,False,32,496.12428957778764,Student,False
+816,19,M,Divorced,86.64198730786273,833.9770242298844,Soil and Plant Sciences,4,Distance,Part-time,False,True,Exempt,0.3199299311870192,5,False,41,198.3964407328266,Employed,False
+817,21,F,Single,86.83607410984365,845.5619156437251,Musicology and Ethnochoreology,4,Distance,Full-time,False,False,Paid,0.3593030102883361,3,False,31,208.02545256838468,Student,True
+818,22,F,Married,94.78053115575918,867.8113830954209,Internal Auditing,3,Distance,Full-time,False,True,Paid,2.3630148854122592,5,True,7,86.15591864872479,Employed,True
+819,22,M,Married,84.46526771010393,854.3021430866764,Psychology,1,Block,Part-time,True,True,Unpaid,2.3974542069530624,7,True,28,57.92357629866923,Employed,False
+820,22,Other,Married,92.83719917710711,834.6885976364385,"Archaeology, Museums and Heritage Studies",2,Block,Full-time,True,True,Paid,1.6750359619306199,7,False,39,289.359005295119,Student,False
+821,24,M,Married,91.4129924776187,843.564479045651,Economics,1,Block,Full-time,False,True,Exempt,1.7273747692481187,9,True,18,182.14250064741628,Unemployed,False
+822,22,F,Divorced,91.36185024675734,879.4480817853506,Sociology,4,Block,Full-time,False,False,Paid,0.21573033136348485,1,False,5,40.15822397262253,Unemployed,False
+823,23,F,Single,93.26014692283552,827.8129155486613,English & Applied Communication,4,Block,Part-time,True,True,Paid,2.066186041557049,7,False,43,443.49353476165993,Employed,True
+824,22,M,Single,90.96764072391308,814.2255239776815,Gender and Social Anthropology,2,Block,Part-time,True,False,Exempt,2.0189579015214068,5,False,38,99.17823412466653,Employed,True
+825,20,Other,Single,97.58510229692769,831.3163201829777,Economics,1,Distance,Part-time,True,False,Unpaid,0.5981972742277781,1,True,47,374.2921735017664,Student,True
+826,21,Other,Married,93.5116018390052,884.9534215487902,Internal Auditing,4,Block,Part-time,False,True,Unpaid,0.4153575444437103,0,False,40,141.11429805905556,Student,True
+827,22,F,Married,90.93926502742777,808.8989714856347,Accounting,4,Distance,Full-time,False,False,Exempt,0.49428996239796197,5,False,20,406.45241537639953,Employed,False
+828,21,F,Single,96.59526240575289,899.1696073372452,History,1,Block,Part-time,True,False,Exempt,0.4041129859650341,6,False,21,59.198420713827026,Student,False
+829,20,Other,Married,92.1229312986696,854.1002898927662,Business Management,4,Block,Part-time,False,False,Unpaid,2.4388327821470392,9,False,41,378.03580511088074,Unemployed,False
+830,20,M,Single,85.82288495570359,898.4845743967094,Risk Management and Insurance,1,Block,Part-time,False,False,Paid,0.7859306096116745,4,False,9,49.05943695025622,Unemployed,True
+831,21,F,Single,84.14189836353142,893.8996422085977,Accounting,4,Distance,Full-time,False,False,Exempt,1.0057206087498538,9,True,9,223.45789392847166,Student,True
+832,18,F,Single,83.04655571325358,845.2813714210916,Economics,1,Block,Part-time,False,False,Paid,0.6942885766057589,7,False,28,367.0021752998023,Student,True
+833,19,Other,Single,97.98910425092203,819.8491074605349,Banking and Finance,2,Block,Part-time,False,False,Exempt,3.8313412177940123,8,True,15,86.6091905934503,Student,True
+834,24,M,Single,94.20270863596132,816.4884776565139,TshiVenda,4,Distance,Full-time,False,True,Unpaid,3.4184698526073416,3,False,0,142.83249442336148,Unemployed,False
+835,18,Other,Single,98.74756876328641,823.9989363869958,English & Applied Communication,2,Distance,Full-time,False,True,Paid,0.9219793494060835,6,True,16,432.3834960460988,Employed,True
+836,18,M,Single,92.06583611429886,871.0132640564537,Office Management,4,Distance,Full-time,True,False,Paid,1.310265175688504,7,False,29,442.559660453823,Student,False
+837,23,M,Married,89.46801762989826,827.2949994731488,Religious Studies & Philosophy,4,Distance,Full-time,True,False,Exempt,0.8395713692199887,5,False,25,22.467726226363116,Student,False
+838,24,M,Single,81.19432977941779,834.1425269604298,Politics and Public Administration,3,Block,Part-time,True,True,Paid,1.967503837843295,1,True,45,84.04529267648763,Student,True
+839,24,F,Single,93.4328456309206,844.8778803994614,Sociology,1,Distance,Full-time,True,True,Exempt,0.07844212989701438,6,True,18,58.73597013642951,Employed,True
+840,18,Other,Married,91.64417519536462,891.3232680421456,Internal Auditing,2,Block,Part-time,True,True,Unpaid,2.685472035587183,8,False,20,89.8465473256515,Student,False
+841,22,Other,Married,99.80417787175243,818.9393417884846,Development Studies,2,Block,Part-time,True,True,Paid,2.0926325992705666,4,True,16,485.0938621531363,Student,True
+842,23,M,Married,84.78317555564486,800.5026552609803,Information Systems,2,Distance,Part-time,True,False,Exempt,3.594555713204413,1,True,45,275.8276243952282,Unemployed,False
+843,23,F,Single,90.61474710573671,806.009641037817,Business Management,1,Block,Part-time,True,False,Paid,0.6575707373136566,3,False,39,234.0561952274634,Student,False
+844,20,F,Divorced,93.01914670236145,890.4766341680117,Hospitality Tourism and Culture,3,Distance,Part-time,True,True,Exempt,3.2164369842445266,2,False,20,492.23368654630804,Unemployed,True
+845,24,Other,Divorced,92.89182349484688,864.7516464843363,Development Studies,2,Block,Full-time,False,True,Exempt,3.167844057866863,3,False,40,278.4780649303677,Employed,True
+846,18,F,Married,91.22587085896805,827.3040619327807,Transport and Logistics,1,Distance,Part-time,False,True,Exempt,0.5087247568675477,9,False,39,330.5589636727623,Student,True
+847,20,F,Divorced,95.5385602065445,817.7192501011191,Internal Auditing,4,Distance,Part-time,True,True,Unpaid,1.5942368965765104,6,False,44,166.3852730245901,Student,False
+848,21,M,Married,84.09962419053633,829.4266736637114,Banking and Finance,2,Distance,Part-time,False,False,Paid,0.6806105645780676,9,True,48,191.0574322547593,Unemployed,True
+849,19,F,Single,94.51254400548832,811.479692725128,Information Systems,2,Distance,Full-time,False,True,Unpaid,1.0188820018301956,7,False,18,297.2046919045365,Employed,False
+850,23,M,Divorced,92.39469142866179,894.1532910284441,Religious Studies,3,Distance,Part-time,True,True,Exempt,1.0529846993221774,0,True,6,34.89289200023238,Employed,False
+851,21,Other,Single,97.92150223589147,878.4206174365266,Marketing Management,2,Distance,Part-time,True,True,Exempt,2.224945576103091,7,False,16,127.94144302238757,Unemployed,False
+852,21,F,Divorced,96.94388878067164,846.239117691254,Politics and Public Administration,2,Block,Full-time,True,False,Unpaid,1.645643727041862,4,False,0,98.40587473015356,Employed,True
+853,22,Other,Single,86.30294078265106,886.4962605115202,Risk Management and Insurance,4,Block,Part-time,False,False,Unpaid,3.7909312160252213,6,True,36,7.946696570001799,Employed,True
+854,19,Other,Divorced,85.52474649950307,824.9458204293232,Computer Sciences,1,Block,Part-time,False,False,Paid,0.5054805677880205,0,False,5,268.45063526021096,Employed,False
+855,21,F,Single,99.63306647704896,871.7120568472194,Religious Studies,1,Distance,Full-time,True,True,Exempt,3.894768539400795,1,True,25,280.52641976193956,Employed,False
+856,21,F,Single,90.54530361830513,885.6132499013744,"Archaeology, Museums and Heritage Studies",3,Block,Part-time,False,True,Unpaid,0.9225545608570558,0,True,1,191.96961151862945,Employed,True
+857,19,Other,Divorced,98.12841927828873,835.6768711623273,Marketing Management,4,Distance,Part-time,False,True,Exempt,3.0914957455274124,4,True,31,134.36373473239544,Employed,False
+858,19,F,Single,83.27762047560964,875.7464445450718,Finance,1,Block,Part-time,False,False,Exempt,1.3558797046912856,5,False,47,326.0299379973124,Employed,False
+859,21,M,Single,92.85637829600348,829.5072349264309,Gender and Social Anthropology,4,Block,Part-time,True,False,Paid,0.5723255816692556,9,False,4,67.32958069222845,Employed,True
+860,19,M,Single,96.19720374721172,829.885713525903,History,1,Distance,Part-time,False,True,Paid,3.4315567409849597,8,False,36,259.307515817667,Student,False
+861,21,F,Divorced,98.94790499172893,810.7057178554186,Economics and Finance,4,Block,Full-time,False,True,Paid,1.2354435969458528,7,False,30,384.03699290530994,Unemployed,False
+862,21,Other,Divorced,86.74680282034046,844.0058046509399,Local Governance Studies,3,Block,Full-time,False,False,Unpaid,2.6354216169073688,6,False,11,82.14899197623615,Employed,False
+863,22,F,Single,94.49962339848105,872.9711906497422,Fiscal Studies,2,Block,Full-time,False,True,Exempt,2.2657747403465063,4,False,34,376.6297692979094,Unemployed,False
+864,18,F,Single,90.77626018079238,894.0220805571284,English & Applied Communication,3,Distance,Part-time,False,True,Unpaid,1.8870252375634973,2,True,29,380.39725457669897,Employed,True
+865,21,Other,Divorced,81.21257852132936,860.3796991929096,Media and Cultural Studies,1,Block,Part-time,False,True,Unpaid,1.9832778905941564,8,False,47,29.96332411522745,Employed,True
+866,20,Other,Divorced,93.79999474617887,886.3135537735739,Geography and Environmental Science,3,Distance,Part-time,False,False,Paid,2.9289516563691502,4,False,5,9.392163043590918,Student,True
+867,23,M,Single,93.80193116475687,882.2494649290227,Transport and Logistics,2,Block,Full-time,True,True,Exempt,0.3510916564937623,2,False,14,486.9677029940974,Unemployed,True
+868,24,Other,Single,98.61213609693074,817.3343052975281,History,3,Block,Part-time,True,True,Exempt,2.6727226478316206,2,False,14,96.69132974941247,Unemployed,False
+869,18,M,Single,89.94624892337944,848.5817428912632,Soil and Plant Sciences,1,Block,Part-time,False,True,Paid,3.583248405594315,2,True,15,411.0696045500515,Student,True
+870,18,Other,Married,84.60501841421029,811.6923535525392,Psychology,1,Block,Part-time,True,True,Exempt,0.2311527880794566,5,True,19,280.9253265226493,Student,False
+871,18,F,Divorced,80.89127646897359,868.2153161561635,Computer Sciences,3,Distance,Full-time,False,False,Paid,0.562613356934667,0,True,12,132.2360787684984,Unemployed,False
+872,22,M,Married,88.31284373371811,894.9899668246076,English & Applied Communication,2,Block,Full-time,False,False,Unpaid,2.8665277468081256,3,True,43,64.98521830940629,Employed,True
+873,21,M,Divorced,86.03833400155004,813.7089458078757,Office Management,3,Distance,Part-time,False,False,Unpaid,1.7491265929784703,7,True,41,248.33863678886377,Employed,True
+874,22,M,Divorced,95.22176612047751,873.3883130802542,Geography and Environmental Science,2,Distance,Part-time,True,True,Paid,1.6141944832547535,2,False,45,203.67740581472492,Unemployed,False
+875,21,F,Divorced,87.08535529682094,863.2238150867861,Office Management,4,Block,Part-time,False,False,Unpaid,0.5478665381769434,4,True,30,349.44304255853393,Employed,True
+876,22,F,Divorced,98.98142392629688,858.36050370081,Accounting,2,Block,Full-time,False,True,Unpaid,2.0270801628711523,1,True,33,452.0842747738634,Student,True
+877,22,F,Divorced,99.24620405975568,839.012023468834,English & Applied Communication,4,Distance,Full-time,True,False,Paid,0.506181244785509,1,False,28,402.6240434817192,Student,False
+878,23,F,Divorced,92.41817180435416,835.5131647753813,Hospitality Tourism and Culture,3,Distance,Full-time,True,True,Unpaid,1.9064818252421616,6,False,2,137.22602510240594,Student,False
+879,20,F,Divorced,98.57320574029765,804.5249189018888,Religious Studies,2,Block,Part-time,False,False,Exempt,3.054461195846627,9,True,8,439.46660922615285,Unemployed,True
+880,22,M,Married,95.21708689028992,821.7908708252013,"Peace, Conflict and Governance",4,Block,Full-time,True,False,Unpaid,1.033057431548654,2,False,10,416.69565705230207,Unemployed,True
+881,23,F,Single,90.93719281950253,801.5176882286827,Sociology,4,Block,Part-time,True,False,Paid,1.9231446727189092,4,False,10,464.5681168608841,Unemployed,True
+882,19,M,Single,83.60615870845557,858.141710558202,Urban Planning and Development,4,Block,Part-time,False,True,Exempt,3.9680638775873427,2,True,24,229.33041051899383,Employed,True
+883,20,F,Married,89.1719588702768,810.5853235877909,Banking and Finance,1,Block,Full-time,False,True,Exempt,2.746601693416149,5,False,21,384.2875862046992,Unemployed,False
+884,22,Other,Married,91.21748926725235,887.3019394029716,Psychology,3,Distance,Part-time,False,True,Unpaid,3.3654270852207944,9,True,41,295.8290327618352,Unemployed,True
+885,24,M,Married,97.27923161470021,852.3143020697165,"Livestock, Wildlife and Fisheries",4,Block,Full-time,True,False,Exempt,1.659390426242183,2,True,45,155.25137627474166,Student,True
+886,18,Other,Married,89.62666753071329,869.9689909058709,Local Governance Studies,2,Block,Part-time,True,True,Paid,3.071443692503421,7,False,8,497.2155012713817,Employed,True
+887,19,M,Divorced,97.95349345355913,841.0857091840496,Computer Sciences,4,Distance,Part-time,True,True,Exempt,0.16203669176528734,1,True,19,19.153733419830676,Employed,False
+888,19,Other,Single,93.48697958046938,856.0579809001049,Psychology,1,Block,Full-time,False,True,Unpaid,0.4916447301689799,2,True,20,81.13628627953734,Student,True
+889,23,F,Divorced,82.73998126107342,894.2659176966631,"Archaeology, Museums and Heritage Studies",3,Block,Part-time,True,True,Unpaid,0.8122823716802485,7,False,9,446.27118126594746,Employed,True
+890,19,F,Single,99.89962738650186,808.2734039623671,Human Resources Management,1,Distance,Part-time,True,True,Exempt,1.6078076984608782,7,False,21,30.281421706316756,Unemployed,False
+891,20,F,Single,90.54465321507826,825.3937771923696,Human Resources Management,1,Block,Part-time,False,True,Paid,3.3829795133030527,0,False,28,443.41033367176084,Employed,True
+892,22,M,Married,87.83716592818158,877.9988326910544,Banking and Finance,1,Distance,Part-time,False,False,Paid,1.385064203151722,7,False,8,357.61073802910045,Student,False
+893,22,Other,Divorced,93.18227528939053,809.8737206882665,Information Systems,2,Block,Part-time,False,False,Unpaid,2.6184847740618515,9,True,4,18.342002697271155,Employed,True
+894,24,F,Married,82.17786627962079,807.566110390411,Hospitality Tourism and Culture,3,Block,Part-time,True,True,Unpaid,2.8372571792139336,1,False,39,214.66002142708828,Student,False
+895,18,Other,Divorced,92.73077293506708,836.1541398754039,Business Management,3,Block,Part-time,False,False,Paid,2.3447294163533656,6,False,10,377.23573750111854,Unemployed,True
+896,23,Other,Single,89.96472000998546,809.2167958472432,"Archaeology, Museums and Heritage Studies",2,Distance,Part-time,True,False,Exempt,1.4289678726805448,5,True,0,291.55014231539985,Unemployed,False
+897,18,F,Married,88.13348139997166,858.5078442206203,Musicology and Ethnochoreology,3,Distance,Full-time,True,True,Exempt,2.308213366854177,1,True,41,467.93564598222895,Student,False
+898,19,F,Married,99.06040042357799,822.62752508166,Musicology and Ethnochoreology,1,Distance,Full-time,False,True,Exempt,1.3690623711589849,4,True,0,433.8220164559999,Unemployed,True
+899,24,Other,Single,90.45079433464106,889.5697963199373,Development Studies,3,Distance,Part-time,False,False,Exempt,0.3354949542080483,6,True,38,166.323817667073,Unemployed,True
+900,18,F,Single,84.38234958939877,878.3500080845257,Office Management,2,Block,Part-time,False,True,Paid,3.9712159127440576,7,False,45,42.31359776004518,Employed,False
+901,20,F,Single,89.17926958754597,869.9705206099476,Musicology and Ethnochoreology,1,Distance,Full-time,False,False,Unpaid,0.5087298145300436,2,False,4,472.12851982282564,Unemployed,True
+902,22,F,Married,98.38774809145346,861.6944027384502,Sociology,2,Distance,Part-time,False,False,Unpaid,0.2893935353442294,0,True,48,258.6433838839633,Student,True
+903,19,M,Divorced,83.5219094266119,886.3465730341463,History,4,Distance,Full-time,True,False,Exempt,3.5141229968286236,6,True,21,37.19881218597426,Unemployed,True
+904,24,Other,Married,84.27914077376474,822.3062061542757,Musicology and Ethnochoreology,1,Block,Full-time,True,True,Paid,1.2073386435715805,4,True,25,408.28780667963974,Employed,True
+905,18,Other,Divorced,80.26059135514167,887.3108842764227,Computer Sciences,1,Block,Full-time,True,False,Paid,2.6011878962940305,4,True,5,434.2532353426956,Student,True
+906,23,M,Married,80.28380098791534,878.9492298424052,TshiVenda,3,Distance,Part-time,False,True,Exempt,1.3160229186489314,6,False,31,319.7123200882855,Unemployed,True
+907,20,Other,Married,96.58783253917025,874.8160826387685,Politics and Public Administration,1,Distance,Part-time,True,True,Exempt,1.5658170831778846,0,True,47,223.75448284316997,Unemployed,True
+908,20,F,Single,94.64245213685912,856.1255678074924,Information Systems,2,Block,Part-time,False,True,Exempt,1.048451888067186,7,False,10,331.08650616178636,Unemployed,True
+909,18,Other,Divorced,87.10082112903916,824.62441609706,Local Governance Studies,3,Distance,Full-time,False,True,Unpaid,1.3721760231720408,9,True,9,353.3418478525618,Student,True
+910,22,F,Married,93.96622314455145,842.3547915991896,Local Governance Studies,4,Distance,Full-time,True,True,Exempt,1.6428016023461725,4,False,46,446.514979042984,Employed,False
+911,18,M,Married,87.9041185261994,879.3570654538802,Gender and Social Anthropology,2,Distance,Full-time,True,False,Unpaid,2.8816642763693716,7,False,38,477.93084018736903,Student,False
+912,19,F,Single,99.05793591995655,803.1778484357325,TshiVenda,4,Distance,Part-time,False,True,Paid,2.046144776939167,9,False,33,257.1604661954557,Student,True
+913,18,Other,Single,99.3410536285207,878.2050769263758,Geography and Environmental Science,4,Block,Full-time,True,True,Paid,3.7742608686279078,9,False,30,399.2472667632813,Employed,False
+914,20,Other,Divorced,87.85587551618687,824.0070740487566,Politics and Public Administration,4,Block,Full-time,False,True,Unpaid,0.16752157535510204,4,True,11,482.25477799582745,Student,True
+915,24,Other,Married,97.08443812681736,814.4309200721603,Musicology and Ethnochoreology,1,Block,Part-time,True,True,Unpaid,2.0122732905281127,6,False,43,75.621669073483,Student,True
+916,18,M,Divorced,95.46178083394932,811.5701318180302,"Archaeology, Museums and Heritage Studies",2,Distance,Full-time,True,True,Unpaid,2.3368991553268725,9,True,15,9.133990804838344,Unemployed,False
+917,22,M,Married,86.19999874343578,802.7250011950815,Transport and Logistics,2,Distance,Full-time,True,False,Unpaid,3.6807879442970957,2,False,37,434.481886424147,Student,False
+918,24,Other,Divorced,84.64079657802212,852.3586485221452,Politics and Public Administration,1,Block,Part-time,True,True,Exempt,0.19663409448571034,1,False,2,97.6366666235804,Unemployed,False
+919,23,F,Single,89.16469300785667,821.825987269373,Business Management,3,Block,Part-time,True,True,Paid,2.293998339740864,5,True,1,21.239383315900472,Student,True
+920,21,M,Married,95.62697681228812,898.9431765779632,English & Applied Communication,4,Block,Full-time,False,False,Exempt,3.414519714111828,4,True,4,80.04806882872228,Unemployed,True
+921,18,Other,Divorced,99.20335569457491,857.4436755872206,Transport and Logistics,2,Distance,Part-time,True,True,Unpaid,0.9677109124769463,8,False,10,192.05745562188466,Unemployed,True
+922,22,Other,Single,95.27158137733144,813.788526935601,Human Resources Management,1,Block,Full-time,True,False,Exempt,3.50516939409575,9,False,24,109.63285079629004,Unemployed,False
+923,24,M,Single,97.1041397003674,868.8762540811365,Internal Auditing,4,Distance,Part-time,True,False,Exempt,0.07617363709716729,3,True,34,152.62681455022152,Employed,False
+924,22,M,Divorced,92.06128612341033,889.7743566509725,"Archaeology, Museums and Heritage Studies",3,Distance,Full-time,False,False,Paid,2.929818516534919,2,False,34,487.6470257150232,Student,False
+925,23,M,Married,96.70815661684252,874.5179495369614,History,3,Block,Part-time,False,False,Exempt,3.732452884674612,8,True,21,352.20277208128755,Student,True
+926,20,F,Married,95.68841716006835,807.6439861039447,Office Management,4,Block,Full-time,False,True,Paid,2.628790646560249,7,True,36,356.095864126602,Student,True
+927,22,F,Single,87.53971083852561,889.588418119266,Statistics and Operations Research,3,Distance,Part-time,False,True,Unpaid,1.7561169759217918,5,True,21,47.34268736396141,Employed,True
+928,24,Other,Married,91.03980604241443,879.3929385859965,Banking and Finance,2,Block,Part-time,False,False,Exempt,0.1795240658908721,0,False,10,366.04918491134583,Unemployed,True
+929,22,M,Married,96.09506243979389,815.8303900105615,Urban Planning and Development,2,Block,Part-time,True,False,Unpaid,3.680455253290515,9,False,31,369.67216647765247,Student,True
+930,22,F,Married,80.92113468379912,805.1785888732817,"Archaeology, Museums and Heritage Studies",2,Distance,Part-time,True,True,Paid,1.8811848907662991,0,True,34,329.8725092033161,Employed,True
+931,22,M,Single,96.1615856471166,855.7310575314309,Internal Auditing,3,Distance,Part-time,True,False,Unpaid,0.11598697734379204,5,True,30,114.21814799893754,Employed,False
+932,19,Other,Divorced,83.55776248098047,815.6035811339976,Gender and Social Anthropology,2,Distance,Part-time,False,False,Unpaid,2.7592842853150477,2,True,44,211.51808954109248,Student,True
+933,19,F,Married,90.29367234242878,883.4590952595272,Transport and Logistics,1,Distance,Part-time,False,False,Paid,1.9273490143050327,2,True,7,423.13822733481265,Unemployed,True
+934,20,F,Single,96.16550879111875,835.8334656671674,Economics and Finance,2,Distance,Full-time,True,True,Unpaid,0.4973812697696429,5,False,19,335.1008146703132,Employed,True
+935,18,F,Single,85.07642156313389,891.2892444736575,Finance,2,Block,Full-time,False,False,Unpaid,0.8570872372410383,2,True,41,366.38441749995116,Student,True
+936,22,Other,Divorced,84.91614878612306,856.5688172141006,Fiscal Studies,3,Distance,Part-time,False,True,Unpaid,0.2579627218233851,9,False,33,293.6872000629044,Unemployed,True
+937,23,M,Married,88.05528796924504,818.2672384239668,Psychology,2,Distance,Part-time,False,True,Exempt,2.297174158834294,5,True,3,224.79329955588923,Employed,True
+938,18,F,Married,97.89285595155269,813.95988673598,Urban Planning and Development,4,Distance,Full-time,True,True,Unpaid,2.488117917008037,4,False,17,379.5260050335541,Employed,False
+939,23,Other,Divorced,80.00885562874416,857.6472437557754,Accounting,1,Block,Full-time,True,False,Paid,2.0229691934217775,3,False,3,33.96290718315248,Student,True
+940,18,M,Divorced,98.0276619328387,876.1883611862444,Banking and Finance,3,Distance,Part-time,False,False,Exempt,3.2684085320104597,7,False,19,336.58036639013204,Student,True
+941,20,Other,Single,83.07614049283215,878.1505647742182,Accounting,1,Distance,Full-time,False,True,Exempt,3.4440352852320544,1,False,8,498.6022539253396,Unemployed,False
+942,22,M,Single,99.80172752134965,827.5757404441281,Statistics and Operations Research,4,Distance,Full-time,False,True,Paid,2.4624975867325065,6,False,15,390.0959647340158,Student,False
+943,22,Other,Divorced,99.09693986076937,820.4246758912168,Soil and Plant Sciences,3,Block,Part-time,False,True,Unpaid,0.05102591882972218,3,True,25,145.28175578872765,Student,True
+944,21,M,Married,89.89350379182567,801.6756304492383,Finance,3,Distance,Part-time,True,False,Exempt,2.7809186229909426,1,True,37,138.9097473526903,Unemployed,False
+945,23,F,Single,90.25440495625256,867.9199151201169,Politics and Public Administration,2,Distance,Part-time,False,False,Exempt,1.6719968676814063,6,False,24,333.6093052967294,Student,True
+946,18,M,Single,89.63098680551708,807.6568258433539,Gender and Social Anthropology,1,Distance,Full-time,True,True,Exempt,2.262229932905548,0,True,3,447.92712850426517,Unemployed,True
+947,18,Other,Married,92.70887291319045,842.0761201765926,Development Studies,4,Block,Part-time,True,True,Unpaid,2.5963224080755376,3,True,40,288.97487042392146,Unemployed,False
+948,19,Other,Single,81.81443404469861,860.1682164018296,Banking and Finance,4,Block,Part-time,True,False,Exempt,1.400946457308307,8,True,44,263.7011435850292,Unemployed,True
+949,21,M,Married,80.65235896683133,893.7108944919677,Internal Auditing,3,Block,Full-time,False,True,Paid,3.668394020687177,3,True,40,80.19206692183567,Student,True
+950,24,F,Married,81.15405856831798,831.1802136955769,"Livestock, Wildlife and Fisheries",2,Block,Part-time,True,False,Unpaid,0.5358994669991248,2,True,37,357.7284776799083,Unemployed,True
+951,24,F,Married,88.88730698483029,824.977216244652,"Livestock, Wildlife and Fisheries",3,Distance,Full-time,True,False,Paid,2.6860472291241497,9,True,18,351.14930981894537,Student,True
+952,19,M,Divorced,85.51095878438967,865.4160154286099,Economics and Finance,3,Distance,Full-time,False,True,Paid,0.017438319826321713,9,True,13,483.4756961669238,Unemployed,True
+953,19,M,Divorced,92.44079124741988,861.9239032053582,Accounting,3,Block,Full-time,False,True,Exempt,3.6986044216207232,1,False,20,150.0960921528322,Student,False
+954,19,Other,Divorced,99.84884578749558,833.2109783308125,Urban Planning and Development,3,Block,Full-time,False,False,Exempt,0.450016532952366,2,True,14,378.2227381837659,Unemployed,False
+955,23,F,Married,87.72646346152932,892.8101835509786,Media and Cultural Studies,4,Distance,Full-time,True,False,Exempt,0.37953692059029853,0,True,2,217.0326305988145,Employed,True
+956,23,M,Married,91.47682508209027,884.4862327489633,"Livestock, Wildlife and Fisheries",4,Distance,Full-time,False,False,Paid,1.332030532208977,9,True,36,279.23639580806747,Employed,False
+957,20,F,Divorced,88.31207791814671,822.3982545865081,Statistics and Operations Research,3,Block,Part-time,True,False,Unpaid,1.4942651441563224,7,False,49,408.2269278002791,Employed,True
+958,20,M,Single,96.94543335443718,823.9142545434523,Media and Cultural Studies,3,Block,Part-time,True,False,Exempt,0.8572002892915145,0,False,45,110.9975225094878,Unemployed,False
+959,19,M,Married,98.04472806924477,851.2300346887081,Sociology,2,Block,Part-time,False,True,Exempt,2.340486643708499,2,True,15,171.43436976370745,Student,False
+960,21,F,Single,97.5471122441052,877.3572101730721,Fiscal Studies,3,Block,Full-time,True,False,Paid,1.7716563921678543,2,False,13,386.65433509879847,Unemployed,False
+961,18,M,Single,99.48744477358515,804.4040379388464,Fiscal Studies,4,Distance,Part-time,True,False,Unpaid,0.13670235616434967,1,False,8,285.22895764393047,Unemployed,False
+962,23,M,Married,80.5503837028083,869.3335153734706,Fiscal Studies,1,Block,Full-time,True,False,Paid,1.2786082490212025,4,True,46,46.211458452535105,Unemployed,False
+963,21,Other,Married,96.79632324291062,864.8235897382096,Politics and Public Administration,4,Block,Part-time,True,True,Exempt,3.241731654292682,9,False,6,215.0929333892565,Unemployed,False
+964,22,M,Single,95.03544346078186,823.1480095912988,Transport and Logistics,2,Distance,Full-time,False,True,Paid,2.7588061394474743,2,True,13,293.3166564865082,Student,False
+965,23,M,Single,84.57388818800729,868.1353013241348,"Peace, Conflict and Governance",4,Distance,Part-time,True,False,Exempt,2.899483414319522,2,False,5,454.7586582225263,Unemployed,True
+966,23,M,Divorced,99.12640186775056,894.0183191252082,Business Management,1,Distance,Full-time,False,False,Unpaid,2.792467696334094,7,True,20,94.24402496931933,Employed,False
+967,20,Other,Divorced,82.96355856459891,804.6785844971769,English & Applied Communication,3,Distance,Part-time,True,True,Paid,1.2438920855321332,3,False,14,402.97648418874144,Employed,False
+968,18,F,Married,93.59099854267816,831.9652055292063,Geography and Environmental Science,1,Distance,Full-time,True,True,Exempt,0.3986556883071035,3,True,7,65.31224153829568,Employed,False
+969,18,Other,Divorced,84.49780433631825,843.8176716666355,"Peace, Conflict and Governance",3,Block,Part-time,False,True,Exempt,1.089868736132384,2,True,33,121.1178300379036,Unemployed,True
+970,24,Other,Divorced,88.6276129754815,889.9260358924689,Geography and Environmental Science,3,Block,Full-time,True,True,Exempt,3.327141200740637,0,False,39,121.67194174506152,Student,False
+971,24,F,Divorced,94.38319793889139,896.2261446609157,Information Systems,4,Block,Part-time,True,False,Exempt,3.9218831911322845,7,True,0,438.7395979544163,Student,True
+972,24,Other,Divorced,91.26649284066093,844.4115246496332,Soil and Plant Sciences,4,Distance,Part-time,True,True,Paid,1.9753880589662454,0,True,31,99.50884600749355,Student,True
+973,24,F,Single,88.55003662656223,875.0028412142191,Soil and Plant Sciences,4,Block,Part-time,True,False,Exempt,0.03880141969216888,6,False,48,393.48036349270456,Unemployed,True
+974,22,Other,Married,86.52676861863975,853.1661023764483,Business Management,2,Distance,Full-time,True,False,Paid,0.5601792485369161,4,True,4,230.90326700980995,Student,False
+975,22,F,Divorced,96.7931931141758,853.7782934741376,Office Management,4,Block,Full-time,True,True,Exempt,1.288322301265063,3,True,29,499.54538389865536,Employed,True
+976,23,M,Single,82.87628700629628,827.8099515066357,Local Governance Studies,2,Block,Full-time,False,True,Paid,2.314341394371799,3,False,21,419.5457493260527,Student,False
+977,19,Other,Single,88.602057530596,821.6956245863879,"Peace, Conflict and Governance",4,Distance,Full-time,False,True,Paid,0.3003745832212559,7,True,19,369.851567223909,Unemployed,False
+978,20,Other,Single,98.07515143550285,828.8005345924041,Risk Management and Insurance,3,Distance,Full-time,False,True,Exempt,3.7734291948395264,5,False,15,435.36315332609774,Unemployed,False
+979,20,Other,Divorced,96.91699100919935,855.632800725708,Sociology,2,Block,Part-time,True,False,Exempt,1.460334693137603,0,True,6,317.0151963025168,Student,True
+980,24,Other,Divorced,88.01883524946093,802.9155186022089,Development Studies,1,Block,Full-time,True,False,Exempt,3.650336871699292,9,False,6,421.82612826424884,Unemployed,False
+981,23,M,Married,95.26216727202616,890.7248944356406,Accounting,2,Block,Part-time,True,False,Exempt,3.122087211028087,7,False,49,130.56342368072794,Student,False
+982,21,Other,Divorced,96.46321661417718,815.6283709549776,Politics and Public Administration,2,Block,Part-time,False,True,Unpaid,3.0217490900623245,1,True,49,48.85160555053747,Student,False
+983,19,M,Divorced,97.7777484800726,822.0088676871386,Hospitality Tourism and Culture,1,Block,Full-time,True,False,Exempt,2.426878319128928,5,False,1,307.96600354333435,Employed,False
+984,23,M,Single,90.89011538098455,851.8276176447646,Information Systems,2,Distance,Part-time,False,True,Exempt,2.5071352682073784,8,True,46,217.345196331793,Unemployed,False
+985,19,M,Married,84.08921772109423,871.011476633728,TshiVenda,3,Distance,Full-time,True,False,Exempt,2.5520129408649925,0,True,13,213.22039764621599,Employed,True
+986,19,M,Divorced,85.10618153007863,809.5729054744397,Business Management,4,Distance,Full-time,True,True,Paid,2.5148855481023284,5,False,30,263.3739262150231,Unemployed,False
+987,19,F,Divorced,85.91389348083209,831.7694697547162,TshiVenda,1,Distance,Full-time,True,False,Exempt,2.214912925593445,7,True,49,180.69130578277125,Student,True
+988,23,F,Single,91.8760496161923,896.8674605574357,Urban Planning and Development,4,Block,Part-time,False,False,Paid,3.9456560739315556,9,True,40,313.02976572141455,Unemployed,True
+989,24,Other,Single,80.65619248257217,826.2342966780946,Banking and Finance,3,Block,Full-time,True,True,Paid,2.9291622697027844,1,False,13,15.284183673814955,Student,False
+990,20,F,Divorced,92.72084937559937,831.3050145063147,Musicology and Ethnochoreology,1,Distance,Full-time,False,False,Paid,3.1077855535700847,4,True,4,484.94567094088166,Unemployed,True
+991,20,F,Married,87.28708476856464,883.6498490618034,Business Management,4,Block,Full-time,True,False,Paid,3.4898512603346967,5,True,10,462.3544960227852,Employed,False
+992,24,Other,Married,85.90483604979285,805.0214431690455,Hospitality Tourism and Culture,4,Distance,Part-time,True,True,Unpaid,0.8625590509033967,4,False,39,467.6350812909668,Employed,True
+993,19,Other,Single,97.58993141456253,846.4613168808971,Gender and Social Anthropology,3,Block,Full-time,False,True,Exempt,0.3352166363802431,2,True,4,182.50174779185917,Student,True
+994,21,Other,Single,89.20004791161598,837.961676445167,Politics and Public Administration,4,Block,Part-time,True,True,Paid,1.9315777463943946,3,True,28,265.94547882954987,Employed,True
+995,18,F,Divorced,81.90106091065385,831.6586759908652,Soil and Plant Sciences,3,Block,Part-time,True,True,Exempt,2.0563227824770927,6,False,10,477.06530152878764,Student,False
+996,23,F,Single,96.53493536052494,828.5699594044764,Computer Sciences,2,Distance,Full-time,True,True,Paid,3.316727119799671,3,True,4,451.1730282137933,Student,True
+997,18,Other,Divorced,80.95282514873013,809.137410486041,English & Applied Communication,3,Distance,Part-time,True,False,Unpaid,1.7751343171293428,8,True,48,395.12223795057366,Student,True
+998,24,M,Married,94.53498448336393,831.4825829351648,Business Management,2,Distance,Part-time,False,True,Paid,2.283412102177251,9,False,31,203.66579492379623,Unemployed,True
+999,21,Other,Married,95.4781244354133,804.3052402715668,English & Applied Communication,1,Distance,Full-time,False,False,Exempt,2.1082837540538333,1,True,35,282.1696115910867,Student,False
+1000,23,M,Divorced,87.05205211857717,878.0963863644436,Development Studies,4,Block,Full-time,True,False,Exempt,0.15281113502956423,4,True,14,396.4562371083238,Employed,True

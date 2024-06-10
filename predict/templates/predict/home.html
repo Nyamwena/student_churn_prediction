@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home Page</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'predict/style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Student Churn Prediction System</h1>
+        <p>This system helps to predict if a student is likely to churn based on various factors.</p>
+        {% if user.is_authenticated %}
+            <a class="button" href="{% url 'predict_churn' %}">Predict Churn</a>
+            <a class="button" href="{% url 'generate_report' %}">View Report</a>
+            <a class="button" href="{% url 'logout' %}">Logout</a>
+        {% else %}
+            <a class="button" href="{% url 'login' %}">Login</a>
+        {% endif %}
+    </div>
+</body>
+</html>
